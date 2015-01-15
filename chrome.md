@@ -42,7 +42,7 @@
 	<li>XP系统打不开GoGo的原因：<a href="http://goo.gl/zrIR9t">http://goo.gl/zrIR9t</a></li>
 	<li>XP系统通过修改TCP/IP连接数来解决GoGo搜ip速度慢的问题：<a href="http://goo.gl/l1kBrl">http://goo.gl/l1kBrl</a></li>
 </ol>
-<h2><a href="https://bit.ly/chromefq">本页面短网址：https://bit.ly/chromefq</a></h2>
+<h2>本页面短网址：<a href="https://bit.ly/chromefq">https://bit.ly/chromefq</a></h2>
 </div>
 <div id="wiki-footer" class="gollum-markdown-content boxed-group">
 <div class="boxed-group-inner wiki-auxiliary-content  markdown-body">
