@@ -1,5 +1,5 @@
 <div class="markdown-body">
-<h1>Chrome一键翻墙包 </h1> 
+<h1>Chrome一键翻墙包</h1> 
 <h3>公告：</h3>
 <ul class="task-list">
 	<li>近段时间，由于谷歌ip在中国被封锁的越来越严重，致使本软件的翻墙效果受到明显的影响，表现上是速度变慢，软件黑色窗口内会出现大量黄色字，目前最好的解决办法是自己搜一些还可以用的ip替换到软件中，<strong><a href="https://github.com/comeforu2012/truth/wiki/%E6%90%9Cip%E6%95%99%E7%A8%8B">方法点这里</a></strong>。每个人自己按照这个方法搜到的ip能用的长久一点，比如我自己一个月前搜到的几十个ip现在还有能用的。</li>
