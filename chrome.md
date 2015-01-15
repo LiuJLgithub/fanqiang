@@ -19,11 +19,11 @@
 	
 	<li>好盘：<a href="http://howfile.com/file/freeman105/801489cd/" target="_blank"> http://howfile.com/file/freeman105/801489cd/</a></li>
 	<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4509.html">Chrome-Goagent-一键翻墙浏览器包</a></li>
-	<li><strong>注意：</strong>请使用ie浏览器下载百度网盘的文件。禁书网已经被墙，不能直接下载。</li>
+	<li><strong>注意：</strong>禁书网已经被墙，不翻墙不能直接下载。</li>
 
 </ul>
 </blockquote>
-如果百度盘下载地址失效，请发邮件至 <a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> 提醒我。
+如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
 
 <strong>文件校验信息：</strong>
 <blockquote>
