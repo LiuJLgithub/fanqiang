@@ -28,8 +28,8 @@
 <strong>文件校验信息：</strong>
 <blockquote>
 <ul class="task-list">
-	<li>文件名：Chrome36d_v2015.01.12a.7z</li>
-	<li>MD5: 20E8987D0E6FBC51D21F4B37C9CD7641</li>
+	<li>文件名：Chrome-Goagent-v2015.01.12a.7z</li>
+	<li>MD5: 044f8700bea759991009f14c159fd10a</li>
 </ul>
 </blockquote>
 <h4>注意事项：</h4>
