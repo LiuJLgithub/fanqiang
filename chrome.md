@@ -15,6 +15,7 @@
 <blockquote>
 <ul class="task-list">
         <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110" target="_blank">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110</a>
+        <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a>
 	<li>百度盘：<a href="http://pan.baidu.com/s/1dDGQLZN">http://pan.baidu.com/s/1dDGQLZN</a> 提取密码：z7q9</li>
 	<li>好盘：<a href="http://howfile.com/file/d6wfyr2/4abf08b1/">http://howfile.com/file/d6wfyr2/4abf08b1/</a></li>
 	<li>Dropbox：<a href="https://www.dropbox.com/s/0dr7aaa0o4fmjmu/Chrome36d_v2015.01.12a.7z?dl=0">https://www.dropbox.com/s/0dr7aaa0o4fmjmu/Chrome36d_v2015.01.12a.7z?dl=0</a></li>
