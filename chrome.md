@@ -16,7 +16,7 @@
 <ul class="task-list">
         <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110" target="_blank">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110</a>
         <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a>
-	<li>百度盘：<a href="http://pan.baidu.com/s/1qW8wSmK">http://pan.baidu.com/s/1qW8wSmK</a> 提取密码：vy9x</li>
+	<li>百度盘：<a href="http://pan.baidu.com/s/1c0B3qjI">http://pan.baidu.com/s/1c0B3qjI</a> </li>
 	<li>好盘：<a href="http://howfile.com/file/freeman105/801489cd/" target="_blank"> http://howfile.com/file/freeman105/801489cd/</a></li>
 	<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4509.html">Chrome-Goagent-一键翻墙浏览器包</a></li>
 	<li><strong>注意：</strong>请使用ie浏览器下载百度网盘的文件。禁书网已经被墙，不能直接下载。</li>
