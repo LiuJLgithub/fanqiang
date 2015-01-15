@@ -18,9 +18,9 @@
         <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a>
 	<li>百度盘：<a href="http://pan.baidu.com/s/1dDGQLZN">http://pan.baidu.com/s/1dDGQLZN</a> 提取密码：z7q9</li>
 	<li>好盘：<a href="http://howfile.com/file/d6wfyr2/4abf08b1/">http://howfile.com/file/d6wfyr2/4abf08b1/</a></li>
-	<li>Dropbox：<a href="https://www.dropbox.com/s/0dr7aaa0o4fmjmu/Chrome36d_v2015.01.12a.7z?dl=0">https://www.dropbox.com/s/0dr7aaa0o4fmjmu/Chrome36d_v2015.01.12a.7z?dl=0</a></li>
-	<li><strong>注意：</strong>请使用ie浏览器下载百度网盘的文件。Dropbox地址已经被墙，不能直接下载。</li>
-	<li>INFO:〖B5 FGHJK LMNPQ〗</li>
+	<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4509.html">Chrome-Goagent-一键翻墙浏览器包</a></li>
+	<li><strong>注意：</strong>请使用ie浏览器下载百度网盘的文件。禁书网已经被墙，不能直接下载。</li>
+
 </ul>
 </blockquote>
 如果百度盘下载地址失效，请发邮件至 <a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> 提醒我。
