@@ -24,9 +24,8 @@
 </ul>
 </blockquote>
 如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
-
-<strong>文件校验信息：</strong>
 <blockquote>
+<strong>文件校验信息：</strong>
 <ul class="task-list">
 	<li>文件名：Chrome-Goagent-v2015.01.12a.7z</li>
 	<li>MD5: 044f8700bea759991009f14c159fd10a</li>
