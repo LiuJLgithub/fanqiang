@@ -10,7 +10,7 @@
 <img src="https://camo.githubusercontent.com/2d322b138a443ca9040b1443fe9037315f03ac2c/68747470733a2f2f6d73616679772e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d477a32744c51724d566b483054336348587172457852457852617169734d665f4149784c4d6c6c4d305962492d4c42397054644d47454d7163464a79597855385059524c45567a7455384d72444241456771507a5469587647696669677a3254646542584b63396b793166686e693136336b575234684b535179326a6a6534442f696d6167653030312e706e673f707369643d31" alt="" data-canonical-src="https://msafyw.bl3301.livefilestore.com/y2mGz2tLQrMVkH0T3cHXqrExRExRaqisMf_AIxLMllM0YbI-LB9pTdMGEMqcFJyYxU8PYRLEVztU8MrDBAEgqPzTiXvGifigz2TdeBXKc9ky1fhni163kWR4hKSQy2jje4D/image001.png?psid=1" />
 
 如果是类似上图这样的情况就可以使用下面的方法来解决。【少量的此类黄字如果不影响使用，那没关系】
-
+<br/><br/>
 <strong>首先，</strong>关闭已经打开的浏览器和黑色的软件窗口，退出占用带宽的其它软件。然后按照下面步骤操作。
 <br/><br/>
 <strong>（一）</strong>打开Agent文件夹，双击运行里面的<strong>GoGo239.exe</strong>，圆形蓝色图标那个就是，双击后会打开软件窗口（如下图）
