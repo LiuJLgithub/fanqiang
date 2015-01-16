@@ -28,20 +28,20 @@
 <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
 <li>好盘：<a href="http://howfile.com/file/freeman105/81904a1c/" target="_blank">http://howfile.com/file/freeman105/81904a1c/</a>
 </li>
-<li>Dropbox：<a href="https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0">https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0</a>
+<li>禁书网：[url=http://www.bannedbook.org/forum23/topic4510.html]Firefox一键翻墙包[/url]
 </li>
-<li>INFO:〖B 5FGHJK  LMNPQ〗</li>
+
 </ul>
 </blockquote>
 
-<p><code>如果百度盘下载地址失效，请发邮件至 comeforu2012@gmail.com 提醒我。</code></p>
+<p><code>如果下载地址失效，请发邮件至  banned.ebook@gmail.com 提醒我。</code></p>
 
 <p><strong>文件校验信息：</strong></p>
 
 <blockquote>
 <ul class="task-list">
-<li>文件名：Firefox33_v2015.01.05.7z</li>
-<li>MD5: 0AA7D5755558075CDCAAA924BA5E64C2</li>
+<li>文件名：Firefox-Goagent_v2015.01.05.7z</li>
+<li>MD5: 32e7468798ee8c0eb18c0e517355a04a</li>
 </ul>
 </blockquote>
 
