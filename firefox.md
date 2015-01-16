@@ -25,7 +25,7 @@
 
 <blockquote>
 <ul class="task-list">
-<li>百度盘：<a href="http://pan.baidu.com/s/1hq9thVu">http://pan.baidu.com/s/1hq9thVu</a> 提取密码：q1yf</li>
+<li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
 <li>好盘：<a href="http://howfile.com/file/d6wfyr2/ff4f2f8b/">http://howfile.com/file/d6wfyr2/ff4f2f8b/</a>
 </li>
 <li>Dropbox：<a href="https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0">https://www.dropbox.com/s/gh3aqlqich4mdl1/Firefox33_v2015.01.05.7z?dl=0</a>
