@@ -30,7 +30,7 @@
 </li>
 <li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4510.html">Firefox一键翻墙包</a>
 </li>
-
+<li><strong>注意：</strong>禁书网已经被墙，不翻墙不能直接下载。</li>
 </ul>
 </blockquote>
 
