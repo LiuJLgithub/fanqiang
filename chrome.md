@@ -2,7 +2,7 @@
 <h1>Chrome一键翻墙包</h1> 
 <h3>公告：</h3>
 <ul class="task-list">
-	<li>近段时间，由于谷歌ip在中国被封锁的越来越严重，致使本软件的翻墙效果受到明显的影响，表现上是速度变慢，软件黑色窗口内会出现大量黄色字，目前最好的解决办法是自己搜一些还可以用的ip替换到软件中，方法点这里：<strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E6%90%9CIP%E6%95%99%E7%A8%8B">Goagent搜IP教程</a></strong>。每个人自己按照这个方法搜到的ip能用的长久一点，比如我自己一个月前搜到的几十个ip现在还有能用的。</li>
+	<li>近段时间，由于谷歌ip在中国被封锁的越来越严重，致使本软件的翻墙效果受到明显的影响，表现上是速度变慢，软件黑色窗口内会出现大量黄色字，目前最好的解决办法是自己搜一些还可以用的ip替换到软件中，方法点这里：<strong><a href="https://github.com/bannedbook/fanqiang/wiki/Goagent%E6%90%9CIP%E6%95%99%E7%A8%8B">Goagent搜IP教程</a></strong>。每个人自己按照这个方法搜到的ip能用的长久一点，比如我自己一个月前搜到的几十个ip现在还有能用的。</li>
 	<li>另外推荐一种网页代理方式：<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542"><strong>禁闻网代理</strong>（点此转到网站）</a>，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。</li>
 </ul>
 <h4>更新日志：</h4>
