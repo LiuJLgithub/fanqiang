@@ -12,7 +12,7 @@
 如果是类似上图这样的情况就可以使用下面的方法来解决。【少量的此类黄字如果不影响使用，那没关系】
 
 <strong>首先，</strong>关闭已经打开的浏览器和黑色的软件窗口，退出占用带宽的其它软件。然后按照下面步骤操作。
-<br/>
+<br/><br/>
 <strong>（一）</strong>打开Agent文件夹，双击运行里面的<strong>GoGo239.exe</strong>，圆形蓝色图标那个就是，双击后会打开软件窗口（如下图）
 【如果没有打开下图的软件窗口，而是提示“应用程序正常初始化失败”等错误，说明你系统需要安装Microsoft .NET Framework 4.0的环境支持（这个是必须有的），.NET Frameworks 4.0下载地址： <a href="http://www.microsoft.com/zh-cn/download/details.aspx?id=17718">http://www.microsoft.com/zh-cn/download/details.aspx?id=17718</a>
 <br/>
