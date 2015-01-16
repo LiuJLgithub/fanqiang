@@ -12,10 +12,10 @@
 如果是类似上图这样的情况就可以使用下面的方法来解决。【少量的此类黄字如果不影响使用，那没关系】
 
 <strong>首先，</strong>关闭已经打开的浏览器和黑色的软件窗口，退出占用带宽的其它软件。然后按照下面步骤操作。
-
+<br/>
 <strong>（一）</strong>打开Agent文件夹，双击运行里面的<strong>GoGo239.exe</strong>，圆形蓝色图标那个就是，双击后会打开软件窗口（如下图）
 【如果没有打开下图的软件窗口，而是提示“应用程序正常初始化失败”等错误，说明你系统需要安装Microsoft .NET Framework 4.0的环境支持（这个是必须有的），.NET Frameworks 4.0下载地址： <a href="http://www.microsoft.com/zh-cn/download/details.aspx?id=17718">http://www.microsoft.com/zh-cn/download/details.aspx?id=17718</a>
-
+<br/>
 <img src="https://camo.githubusercontent.com/22d3f6f67e34636551e6ed9867cfb24da648b62b/68747470733a2f2f7a746f6d6a772e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d332d4c795379784d4472537178656442644a4e576d4e553248585854477554464547394a4d35755f44334d48325131544c2d51656c7633773666755f676d79645a634d74446d775133714645323753715f756d4e32415534746459474a67674c635578324a325649635155774a3245754d445272776d527558737662344d455459542d624a57674d6f377a6f766a574f4c73357961714d44674a706174547a6e36646776347552723245592f496d616765253230312e706e673f707369643d31" alt="" data-canonical-src="https://ztomjw.bl3301.livefilestore.com/y2m3-LySyxMDrSqxedBdJNWmNU2HXXTGuTFEG9JM5u_D3MH2Q1TL-Qelv3w6fu_gmydZcMtDmwQ3qFE27Sq_umN2AU4tdYGJggLcUx2J2VIcQUwJ2EuMDRrwmRuXsvb4METYT-bJWgMo7zovjWOLs5yaqMDgJpatTzn6dgv4uRr2EY/Image%201.png?psid=1" />
 <br/>
 上图中，先将“测试次数”调到“<strong>6</strong>”，再点击左上方的<strong>“随机测试”</strong>，会弹出如下图：
