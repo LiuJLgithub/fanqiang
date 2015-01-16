@@ -3,7 +3,7 @@
 <h3><strong>注：</strong></h3>
 <ol class="task-list">
 	<li>如果浏览器页面上出现“Over Quota”，那是流量没了，使用下面的方法也没有用，可以试试刷新页面，还不行就等到下午四点流量恢复后再用，或者去软件的更新页看看有没有新版发布。</li>
-	<li>本教程适用于我分享的<strong><a href="https://github.com/comeforu2012/truth/wiki/ChromePlus">ChromePlus</a></strong>和<strong><a href="https://github.com/comeforu2012/truth/wiki/FirefoxPlus">FirefoxPlus</a></strong>两个软件，由于这两个软件软件使用谷歌服务器做跳板，而大陆防火墙对谷歌又持续封锁，所以我在软件内添加的那些谷歌服务器ip隔段时间可能就不好用了，不过不用担心，谷歌有海量ip，只需要按照下面的方法搜一些可用的就行了。下面的方法实际操作过程只需要几分钟，一点也不难。</li>
+	<li>本教程适用于我分享的<strong><a href="https://github.com/bannedbook/fanqiang/wiki/chrome">Chrome一键翻墙包</a></strong>和<strong><a href="https://github.com/bannedbook/fanqiang/wiki/firefox">Firefox一键翻墙包</a></strong>两个软件，由于这两个软件软件使用谷歌服务器做跳板，而大陆防火墙对谷歌又持续封锁，所以我在软件内添加的那些谷歌服务器ip隔段时间可能就不好用了，不过不用担心，谷歌有海量ip，只需要按照下面的方法搜一些可用的就行了。下面的方法实际操作过程只需要几分钟，一点也不难。</li>
 </ol>
 <strong>什么样的情况可以使用以下的方法？</strong>比如：<strong>1、</strong>被封网站能打开，但是速度非常慢。<strong>2、</strong>被封网站打不开，火狐浏览器窗口显示“无法连接到代理服务器”，软件窗口内，就是那个黑色窗口内出现大量的黄字，不是英文网址形式的黄字，而是数字ip地址，比如下图这样的：
 
