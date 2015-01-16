@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>
-<a id="user-content-火狐firefox一键翻墙包" class="anchor" href="#firefoxplus%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99" aria-hidden="true"><span class="octicon octicon-link"></span></a>FirefoxPlus，一键翻墙。</h2>
+<a  class="anchor" href="#firefoxplus%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99" aria-hidden="true"><span class="octicon octicon-link"></span></a>火狐firefox一键翻墙包</h2>
 
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
