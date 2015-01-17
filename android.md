@@ -1,6 +1,4 @@
-    <h1>
-<a id="user-content-安卓系翻墙软件-" class="anchor" href="#%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6-" aria-hidden="true"><span class="octicon octicon-link"></span></a>安卓系翻墙软件 <img src="https://camo.githubusercontent.com/bfa088c5078a1c3b2850e075f511549b54eba668/68747470733a2f2f6f7131676a672e626c333330312e6c69766566696c6573746f72652e636f6d2f79326d53754d456a6d63326b4c6a5369564c6b3075746f4c6e48726366524a7a447777676633706a5f7036466654345f4477526167504a4d756a3457464d7046444d5f664e4a4e486931363875656f623967655a4a4737767348455a314b446e626c4139396a6f65714970577132753151487055496166394f75636b777159436a6d782f676f6f676c655f616e64726f69642e706e673f707369643d31" alt="" data-canonical-src="https://oq1gjg.bl3301.livefilestore.com/y2mSuMEjmc2kLjSiVLk0utoLnHrcfRJzDwwgf3pj_p6FfT4_DwRagPJMuj4WFMpFDM_fNJNHi168ueob9geZJG7vsHEZ1KDnblA99joeqIpWq2u1QHpUIaf9OuckwqYCjmx/google_android.png?psid=1">
-</h1>
+    <h1>安卓系翻墙软件</h1>
 
 <ul class="task-list">
 <li>自由门安卓版3.1：
