@@ -14,9 +14,7 @@
 <a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a></li>
 <li>
 <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone、ios翻墙</a></li>
-<li>
-<a href="https://github.com/comeforu2012/truth/wiki/MacOS">MacOS</a>（苹果Mac系统翻墙方法）</li>
-<li>
+
 <strong><a href="https://github.com/bannedbook/fanqiang/wiki/Goagent%E6%90%9CIP%E6%95%99%E7%A8%8B">GoAgent搜ip教程</a></strong>（用于解决<strong>Chrome一键翻墙包</strong>和<strong>Firefox一键翻墙包</strong>因ip被封而不能用的问题）</li>
 <li>
 <strong><a href="https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F">自建流量</a></strong>（自己创建流量，用于<strong>ChromePlus</strong>和<strong>FirefoxPlus</strong>）</li>
