@@ -23,5 +23,5 @@
 </ul>
 
 <h2>
-<a id="user-content-本站短网址isgdcfu2012" class="anchor" href="#%E6%9C%AC%E7%AB%99%E7%9F%AD%E7%BD%91%E5%9D%80isgdcfu2012" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://is.gd/cfu2012">本站短网址：is.gd/cfu2012</a>
+<a href="https://bit.ly/jwfanqiang">本站短网址：https://bit.ly/jwfanqiang</a>
 </h2>
