@@ -2,12 +2,11 @@
 <a id="user-content-欢迎访问" class="anchor" href="#%E6%AC%A2%E8%BF%8E%E8%AE%BF%E9%97%AE" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/comeforu2012/truth/wiki">欢迎访问！</a>
 </h2>
 
-<h3>
-<a id="user-content-点右边pages下面的列表就可以查看各个项目" class="anchor" href="#%E7%82%B9%E5%8F%B3%E8%BE%B9pages%E4%B8%8B%E9%9D%A2%E7%9A%84%E5%88%97%E8%A1%A8%E5%B0%B1%E5%8F%AF%E4%BB%A5%E6%9F%A5%E7%9C%8B%E5%90%84%E4%B8%AA%E9%A1%B9%E7%9B%AE" aria-hidden="true"><span class="octicon octicon-link"></span></a>点右边Pages下面的列表就可以查看各个项目→</h3>
+<h3>点右边Pages下面的列表就可以查看各个项目→</h3>
 
 <ul class="task-list">
 <li>
-<a href="https://github.com/bannedbook/fanqiang/wiki/android">Android安卓系统翻墙软件</a></li>
+<a href="https://github.com/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6">Android安卓翻墙软件</a></li>
 <li>
 <a https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐一键翻墙包</a></li>
 <li>
