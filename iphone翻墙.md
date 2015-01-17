@@ -4,7 +4,7 @@
 禁闻在线代理：浏览器直接访问，无需安装:
 
 <ul class="task-list">
-<li><a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542">https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542</a></li>
+<li><a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542" target="_blank">https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542</a></li>
 </ul>
 </li>
 
