@@ -23,5 +23,5 @@
 </ul>
 
 <h2>
-<a href="https://bit.ly/jwfanqiang">本站短网址：https://bit.ly/jwfanqiang</a>
+本页短网址：<a href="https://bit.ly/jwfanqiang">https://bit.ly/jwfanqiang</a>
 </h2>
