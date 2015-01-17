@@ -9,7 +9,7 @@
 <li>
 <a href="https://github.com/bannedbook/fanqiang/wiki/android">Android安卓系统翻墙软件</a></li>
 <li>
-<a href="https://github.com/comeforu2012/truth/wiki/ChromeFG">ChromeFG</a>（谷歌Chrome+自由门翻墙组合）</li>
+<a https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐一键翻墙包</a></li>
 <li>
 <a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a></li>
 <li>
