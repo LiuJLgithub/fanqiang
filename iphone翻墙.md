@@ -11,5 +11,5 @@
 </ul>
 
 <h2>
-<a id="user-content-本页短网址httpisgdiphonefq" class="anchor" href="#%E6%9C%AC%E9%A1%B5%E7%9F%AD%E7%BD%91%E5%9D%80httpisgdiphonefq" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://is.gd/iphoneFQ">本页短网址：http://is.gd/iphoneFQ</a>
+本页短网址：<a href="https://bit.ly/iosfq">https://bit.ly/iosfq</a>
 </h2>
