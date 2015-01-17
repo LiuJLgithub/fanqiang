@@ -11,11 +11,7 @@
 <li>
 <a href="https://github.com/comeforu2012/truth/wiki/ChromeFG">ChromeFG</a>（谷歌Chrome+自由门翻墙组合）</li>
 <li>
-<a href="https://github.com/comeforu2012/truth/wiki/ChromePlus">ChromePlus</a>（谷歌Chrome+GoAgent翻墙组合）</li>
-<li>
-<a href="https://github.com/comeforu2012/truth/wiki/FirefoxFG">FirefoxFG</a>（火狐Firefox+自由门翻墙组合）</li>
-<li>
-<a href="https://github.com/comeforu2012/truth/wiki/FirefoxPlus">FirefoxPlus</a>（火狐Firefox+GoAgent翻墙组合）</li>
+<a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a></li>
 <li>
 <a href="https://github.com/comeforu2012/truth/wiki/iPhone">iPhone</a>（苹果iPhone、ios翻墙方法）</li>
 <li>
