@@ -7,7 +7,7 @@
 
 <ul class="task-list">
 <li>
-<a href="https://github.com/bannedbook/fanqiang/wiki/android">Android</a>安卓系统翻墙软件</li>
+<a href="https://github.com/bannedbook/fanqiang/wiki/android">Android安卓系统翻墙软件</a></li>
 <li>
 <a href="https://github.com/comeforu2012/truth/wiki/ChromeFG">ChromeFG</a>（谷歌Chrome+自由门翻墙组合）</li>
 <li>
