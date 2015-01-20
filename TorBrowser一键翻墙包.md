@@ -6,3 +6,10 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 <b>用 TOR + MEEK 翻墙，有啥缺点</b>
 
 <br><br>据网友测试Tor Browser 速度还不够理想，但看网页看新闻完全可以，而且是刚打开以一个网页慢，然后速度就感觉还可以。也有热心读者反馈说速度可以达到 100KB/s，速度还是很不错的，估计不同的省份或者不同的 ISP，效果可能不同。
+
+<blockquote>
+<ul class="task-list">
+<li>一键下载：<a href="http://999.999.ikwb.com/Tor-Browser-4.0.2-Windows-CN.rar" target="_blank">点击一键下载</a></li>
+<li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
+</ul>
+</blockquote>
