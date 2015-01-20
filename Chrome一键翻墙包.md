@@ -14,8 +14,9 @@
 <h4>下载地址：</h4>
 <blockquote>
 <ul class="task-list">
-        <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110" target="_blank">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110</a>
-        <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a>
+        <li>一键下载：<a href="http://999.999.ikwb.com/Chrome-Goagent-v2015.01.12a.7z" target="_blank">点击一键下载</a></li>
+        <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110" target="_blank">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110</a></li>
+        <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a></li>
 	
 	<li>好盘：<a href="http://howfile.com/file/freeman105/801489cd/" target="_blank"> http://howfile.com/file/freeman105/801489cd/</a></li>
 	<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4509.html">Chrome一键翻墙包</a></li>
