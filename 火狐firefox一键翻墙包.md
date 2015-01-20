@@ -29,9 +29,7 @@
 <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
 <li>好盘：<a href="http://howfile.com/file/freeman105/81904a1c/" target="_blank">http://howfile.com/file/freeman105/81904a1c/</a>
 </li>
-<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4510.html">Firefox一键翻墙包</a>
-</li>
-<li><strong>注意：</strong>禁书网已经被墙，不翻墙不能直接下载。</li>
+
 </ul>
 </blockquote>
 
