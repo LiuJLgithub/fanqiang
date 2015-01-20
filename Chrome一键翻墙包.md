@@ -19,9 +19,6 @@
         <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a></li>
 	
 	<li>好盘：<a href="http://howfile.com/file/freeman105/801489cd/" target="_blank"> http://howfile.com/file/freeman105/801489cd/</a></li>
-	<li>禁书网：<a href="http://www.bannedbook.org/forum23/topic4509.html">Chrome一键翻墙包</a></li>
-	<li><strong>注意：</strong>禁书网已经被墙，不翻墙不能直接下载。</li>
-
 </ul>
 </blockquote>
 如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
