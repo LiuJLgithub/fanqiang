@@ -14,7 +14,7 @@
 <h4>下载地址：</h4>
 <blockquote>
 <ul class="task-list">
-<li>sourceforge下载：<a href="http://sourceforge.net/projects/breakgfw/files/Chrome-Goagent-v2015.01.12a.7z/download" target="_blank">Chrome-Goagent-v2015.01.12a.7z</a></li>
+<li>sourceforge下载：<a href="https://sourceforge.net/projects/breakgfw/files/Chrome-Goagent-v2015.01.12a.7z/download" target="_blank">Chrome-Goagent-v2015.01.12a.7z</a></li>
         <li>一键下载：<a href="http://999.999.ikwb.com/Chrome-Goagent-v2015.01.12a.7z" target="_blank">点击一键下载</a></li>
         <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110" target="_blank">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21110</a></li>
         <li>mediafire：<a href="https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang" target="_blank">https://www.mediafire.com/folder/d1sjmmjkbam5h/fanqiang</a></li>
