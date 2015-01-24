@@ -10,6 +10,7 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 <h4>下载地址：</h4>
 <blockquote>
 <ul class="task-list">
+<li>sourceforge下载：<a href="https://sourceforge.net/projects/breakgfw/files/Tor-Browser-4.0.2-Windows-CN.rar/download" target="_blank">Tor-Browser-4.0.2-Windows-CN.rar</a></li>
 <li>一键下载：<a href="http://999.999.ikwb.com/Tor-Browser-4.0.2-Windows-CN.rar" target="_blank">点击一键下载</a></li>
 <li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
 </ul>
