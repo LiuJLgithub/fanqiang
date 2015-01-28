@@ -1,6 +1,6 @@
 聚缘阁安卓翻墙APP提供聚缘阁热点禁闻、聚缘阁禁闻导航大陆加密直连，聚缘阁加密代理等安卓翻墙功能，提供大纪元、新唐人和各种西方中文媒体的翻墙浏览功能。
 
-<img src='http://s6.postimg.org/qwyz7coz3/Screenshot.png' border='0' alt="Screenshot" width="50%" />
+<img src='http://s6.postimg.org/iepj30igd/Screenshot.jpg' border='0' alt="Screenshot" width="50%" />
 
 **聚缘阁安卓翻墙APP下载**
 
