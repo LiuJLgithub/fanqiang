@@ -8,4 +8,4 @@
 
 请访问并收藏（大陆直连，无需翻墙软件）:
 
-[广传真相平台](https://pipes.yahoo.com/pipes/pipe.run?_id=6b814f6255f4f2df4dc23e3837182984)
+<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=6b814f6255f4f2df4dc23e3837182984" class="postlink">广传真相平台</a>
