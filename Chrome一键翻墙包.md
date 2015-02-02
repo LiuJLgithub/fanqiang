@@ -21,8 +21,8 @@
 <blockquote>
 <strong>文件校验信息：</strong>
 <ul class="task-list">
-	<li>文件名：Chrome-Goagent-v2015.01.12a.7z</li>
-	<li>MD5: 044f8700bea759991009f14c159fd10a</li>
+	<li>文件名：Chrome-Goagent-v2015.01.31.7z</li>
+	<li>MD5: e58528e693e624569e534324eb1646b5</li>
 </ul>
 </blockquote>
 <h4>注意事项：</h4>
