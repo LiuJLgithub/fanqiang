@@ -4,10 +4,27 @@
 禁闻在线代理：浏览器直接访问，无需安装:
 
 <ul class="task-list">
-<li><a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542" target="_blank">https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542</a></li>
+
+<li>禁闻在线代理：浏览器直接访问，无需安装。
+
+<ul class="task-list">
+<li><a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f" target="_blank">https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f</a><br><br>
+<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f" target="_blank"><img src="http://i58.tinypic.com/zxsi9k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+</li>
 </ul>
 </li>
 
+
+
+
+<li>
+
+<a href="https://github.com/bannedbook/fanqiang/wiki/%E5%B9%BF%E4%BC%A0%E7%9C%9F%E7%9B%B8%E5%B9%B3%E5%8F%B0" target="_blank">广传真相平台：浏览器直接访问，无需安装</a>
+
+
+</li>
+
+</ul>
 
 <h2>
 本页短网址：<a href="https://bit.ly/iosfq">https://bit.ly/iosfq</a>
