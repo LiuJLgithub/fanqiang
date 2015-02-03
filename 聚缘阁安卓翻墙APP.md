@@ -2,6 +2,8 @@
 
 <a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542" target="_blank"><img src="http://i58.tinypic.com/30lcnk7.png" alt="聚缘阁翻墙" border="1" /></a>
 
+<img src="http://i59.tinypic.com/2im5kbq.jpg" border="0" alt="Image and video hosting by TinyPic">
+
 **聚缘阁安卓翻墙APP下载**
 
 <blockquote>
