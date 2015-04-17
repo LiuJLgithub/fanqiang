@@ -34,14 +34,7 @@
 
 <p><code>如果下载地址失效，请发邮件至  banned.ebook@gmail.com 提醒我。</code></p>
 
-<p><strong>文件校验信息：</strong></p>
 
-<blockquote>
-<ul class="task-list">
-<li>文件名：Firefox-Goagent_v2015.01.05.7z</li>
-<li>MD5: 32e7468798ee8c0eb18c0e517355a04a</li>
-</ul>
-</blockquote>
 
 <h4>
 <a id="user-content-注意事项" class="anchor" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9" aria-hidden="true"><span class="octicon octicon-link"></span></a>注意事项：</h4>
