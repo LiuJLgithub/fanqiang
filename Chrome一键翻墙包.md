@@ -14,7 +14,7 @@
 <h4>下载地址：</h4>
 <blockquote>
 <ul class="task-list">
-<li><a href="http://sourceforge.net/projects/breakgfw/files/Chrome-Goagent-v2015.01.31.7z/download" target="_blank">Chrome-Goagent-v2015.01.31.7z</a></li>   
+<li><a href="https://spideroak.com/share/MJZGKYLLM5THO/fqapp/d%3A/SpiderOak/Chrome-Goagent-v2015.03.24d.7z" target="_blank">Chrome-Goagent-v2015.01.31.7z</a></li>   
 </ul>
 </blockquote>
 如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
