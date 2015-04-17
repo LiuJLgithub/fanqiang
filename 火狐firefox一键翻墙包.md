@@ -14,7 +14,7 @@
 
 <ul class="task-list">
 <li>
-<strong>2015年1月5日</strong> 更新搜ip程序GoGo到最新版。<strong>使用之前版本的朋友，如果还能用就不需要更新。</strong>
+2015年4月16日 Firefox内核升级到v37.0.1。 使用之前版本的朋友，如果还能用就不需要更新。
 </li>
 <li>核心程序是Firefox33.0.2+GoAgent3.1.2</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
