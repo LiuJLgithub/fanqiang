@@ -25,11 +25,9 @@
 
 <blockquote>
 <ul class="task-list">
-<li>sourceforge下载：<a href="https://sourceforge.net/projects/breakgfw/files/Firefox-Goagent_v2015.01.05.7z/download" target="_blank">Firefox-Goagent_v2015.01.05.7z</a></li>
-<li>一键下载：<a href="http://999.999.ikwb.com/Firefox-Goagent_v2015.01.05.7z" target="_blank">点击一键下载</a></li>
-<li>微软网盘：<a href="https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109">https://onedrive.live.com/redir?resid=B629E5A04FDD27C2%21109</a></li>
-<li>好盘：<a href="http://howfile.com/file/freeman105/81904a1c/" target="_blank">http://howfile.com/file/freeman105/81904a1c/</a>
-</li>
+
+<li>一键下载：<a href="https://spideroak.com/share/MJZGKYLLM5THO/fqapp/d%3A/SpiderOak/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
+
 
 </ul>
 </blockquote>
