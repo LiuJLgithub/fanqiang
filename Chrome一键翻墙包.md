@@ -18,13 +18,7 @@
 </ul>
 </blockquote>
 如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
-<blockquote>
-<strong>文件校验信息：</strong>
-<ul class="task-list">
-	<li>文件名：Chrome-Goagent-v2015.01.31.7z</li>
-	<li>MD5: e58528e693e624569e534324eb1646b5</li>
-</ul>
-</blockquote>
+
 <h4>注意事项：</h4>
 <ul class="task-list">
 	<li>需要<strong>以管理员身份运行</strong>Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
