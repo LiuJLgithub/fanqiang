@@ -32,7 +32,6 @@
 </ul>
 </blockquote>
 
-<p><code>如果下载地址失效，请发邮件至  banned.ebook@gmail.com 提醒我。</code></p>
 
 
 
