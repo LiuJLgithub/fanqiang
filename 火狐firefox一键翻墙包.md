@@ -27,7 +27,7 @@
 <blockquote>
 <ul class="task-list">
 
-<li>一键下载：<a href="https://spideroak.com/share/MJZGKYLLM5THO/fqapp/d%3A/SpiderOak/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="http://mmmmmm.c.mrbonus.com/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
 
 
 </ul>
