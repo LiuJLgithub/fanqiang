@@ -50,10 +50,3 @@
 </ol>
 <h2>本页面短网址：<a href="https://bit.ly/chromefq">https://bit.ly/chromefq</a></h2>
 </div>
-<div id="wiki-footer" class="gollum-markdown-content boxed-group">
-<div class="boxed-group-inner wiki-auxiliary-content  markdown-body">
-<ul class="task-list">
-	<li>如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。</li>
-</ul>
-</div>
-</div>
