@@ -27,7 +27,7 @@
 <ul class="task-list">
 
 <li>一键下载：<a href="http://mmmmmm.c.mrbonus.com/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
-
+<li>百度盘：<a href="http://pan.baidu.com/s/1hqAIKM4" target="_blank">http://pan.baidu.com/s/1hqAIKM4</a>提取密码：bw54</li>
 
 </ul>
 </blockquote>
