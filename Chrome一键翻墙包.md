@@ -20,7 +20,7 @@
 <li><a href="http://mmmmmm.c.mrbonus.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li>   
 </ul>
 </blockquote>
-如果下载地址失效，请发邮件至 <a href="mailto:banned.ebook@gmail.com">banned.ebook@gmail.com</a> 提醒我。
+
 
 <h4>注意事项：</h4>
 <ul class="task-list">
