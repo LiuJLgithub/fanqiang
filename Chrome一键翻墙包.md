@@ -24,7 +24,7 @@
 <blockquote>
 <ul class="task-list">
 <li>一键下载：<a href="http://nnnnnn.c.mrbonus.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
-<li>百度盘：<a href="http://pan.baidu.com/s/1HaMdg" target="_blank">http://pan.baidu.com/s/1HaMdg</a>  提取密码：jgdb</li>    
+<li>百度盘：<a href="http://pan.baidu.com/s/1bnyIe2z" target="_blank">http://pan.baidu.com/s/1bnyIe2z</a>  提取密码：46ss</li>    
 </ul>
 </blockquote>
 
