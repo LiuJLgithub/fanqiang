@@ -10,7 +10,7 @@
 <h4>更新日志：</h4>
 <ul class="task-list">
 <li>
-<strong>2015年5月1日</strong> 更新ip。添加ip云更新程序。</li>
+<strong>2015年5月6日</strong> 添加流量更新程序，重写GoGo教程。完善ip更新程序。</li>
 <li>
 <strong>2015年4月20日</strong> 修改《安全提醒！》。</li>
 <li>
