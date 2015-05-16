@@ -2,7 +2,19 @@
 <h1>Chrome一键翻墙包</h1> 
 <h3>公告：</h3>
 <ul class="task-list">
-<li>2015年5月6日的版本如果遇到页面出现<strong>“Over Quota”</strong>就是流量用完了，请进入<strong>ip_id_Update</strong>文件夹，运行里面的<strong>id_1.bat</strong>或<strong>id_2.bat</strong>更新流量。。建议有一点电脑基础的朋友按照<a href="https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F">“自建流量”教程</a>创建自己专用的流量，这样就不用担心流量不足的问题。</li>
+<li>2015年5月15日更新了ip_1，请进入ip_Update文件夹运行ip_1.bat进行更新。</li>
+
+<li>朋友们，最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，所剩的基本都是低速ip，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
+
+<ul>
+<li>自由门：<a href="https://git.io/fgp">https://git.io/fgp</a>
+</li>
+<li>无界：<a href="https://git.io/HNvvvQ">https://git.io/HNvvvQ</a>
+</li>
+<li>以上两款软件直接运行即可自动打开系统默认浏览器翻墙。</li>
+</ul>
+</li>
+
 <li>使用2014年4月24日之前版本的朋友如果不能用就下载新版。或使用  <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong></li>
 	
 	<li>另外推荐一种网页代理方式：<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542"><strong>禁闻网代理</strong>（点此转到网站）</a>，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。</li>
