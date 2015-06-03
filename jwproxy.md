@@ -11,6 +11,8 @@
       <strong><a href="http://a1.theksj.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
     </li>
 
-  
+   <li>
+      <strong>如果上面的网址打不开，请帮忙发email提醒我们，email在下面。</strong>
+    </li> 
   </ul>
 </div>
