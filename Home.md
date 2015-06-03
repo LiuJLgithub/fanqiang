@@ -17,7 +17,7 @@
       <strong><a href="/bannedbook/fanqiang/wiki/Goagent%E6%90%9CIP%E6%95%99%E7%A8%8B" class="wiki-page-link">Goagent搜IP教程</a></strong>
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki" class="wiki-page-link">Home</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">禁闻加密直连</a></strong>
     </li>
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99" class="wiki-page-link">iphone翻墙</a></strong>
