@@ -1,4 +1,4 @@
-<h1>动态网、禁闻网加密直连</h1> 
+<h1>动态网、禁闻网、禁书网加密直连</h1> 
 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
 
