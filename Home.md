@@ -2,7 +2,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">禁闻加密直连</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">动态网、禁闻网、禁书网加密直连</a></strong>
     </li>
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/chrome" class="wiki-page-link">chrome</a></strong>
