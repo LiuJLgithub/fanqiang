@@ -37,7 +37,7 @@
 <li>
 <strong>注意：</strong>新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网<a href="https://www.virustotal.com/">VirusTotal</a>的分析结果你可以<a href="https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/">点这里</a>查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。</li>
 <li>一键下载：<a href="http://pppppp.c.mrbonus.com/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
-<li>百度盘：<a href="http://pan.baidu.com/s/1gdJ9sTP" target="_blank">http://pan.baidu.com/s/1gdJ9sTP</a>  提取密码：f9cj</li>
+
 
 </ul>
 </blockquote>
