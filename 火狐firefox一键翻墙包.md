@@ -5,7 +5,9 @@
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
 <ul class="task-list">
-<li>2015年5月6日下午又有一大批谷歌ip被封，5月1日版本用户请运行ip更新程序从云端更新ip。方法见压缩包内《更新日志（必看）.rtf》里面的说明。使用旧版的朋友如果不能用就下载新版。或也可使用  <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong></li>
+<li>2015年6月11日 修复6月9日版本Gmail不能登录的问题。</li>
+<li>2015年6月9日之后更新的版本使用比较快的ip连接，有问题请发邮件给我。使用旧版的朋友如果不能用就下载新版。</li>
+<li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐也可使用  <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong></li>
 <li>朋友们，最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少，所剩的基本都是低速ip，使用体验大幅下降。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐几款：
 
 <ul>
