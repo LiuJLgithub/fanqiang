@@ -46,7 +46,7 @@
 
 
 <li>一键下载：<a href="http://pppppp.c.mrbonus.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
-<li>百度盘：<a href="http://pan.baidu.com/s/1bnyIe2z" target="_blank">http://pan.baidu.com/s/1bnyIe2z</a>  提取密码：46ss</li>    
+  
 </ul>
 </blockquote>
 
