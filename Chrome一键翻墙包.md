@@ -8,9 +8,6 @@
 、无界：<a href="https://git.io/HNvvvQ">https://git.io/HNvvvQ</a>
 </li>
 
-<li>使用2014年4月24日之前版本的朋友如果不能用就下载新版。或使用  <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong></li>
-	
-	<li>另外推荐一种网页代理方式：<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=51ba298b5d6db69cef1e7d0a376c7542"><strong>禁闻网代理</strong>（点此转到网站）</a>，可以轻松简单的访问墙外网站，浏览器直接访问，无需安装。</li>
 </ul>
 <h4>更新日志：</h4>
 <ul class="task-list">
