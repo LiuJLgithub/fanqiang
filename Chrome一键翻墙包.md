@@ -31,7 +31,7 @@
 </li>
 
 
-<li>一键下载：<a href="http://a2.fqnews.net/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
+<li>一键下载：<a href="http://down.jwproxy.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
   
 </ul>
 </blockquote>
