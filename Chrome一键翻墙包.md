@@ -11,6 +11,7 @@
 </ul>
 <h4>更新日志：</h4>
 <ul class="task-list">
+<li><strong>2015年6月30日</strong> 更新IP，已经在用前一版的朋友可以通过运行ip更新程序来更新ip。</li>
 <li>
 <strong>2015年6月10日</strong> 此版目前ip资源丰富，通道多、速度快，暂时告别扫ip的烦恼。。内存低于2G的电脑建议用<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
 <li>核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）</li>
