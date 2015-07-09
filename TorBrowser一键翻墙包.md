@@ -12,7 +12,7 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 <ul class="task-list">
 
 
-<li>一键下载：<a href="http://down.jwproxy.com/Tor-Browse-Windows-CN.7z" target="_blank">点击一键下载</a></li>
+<li>一键下载（经速度优化，隐私选项较宽松，默认使用微软meek插件，可根据情况自行调整）：<a href="http://down.jwproxy.com/Tor-Browse-Windows-CN.7z" target="_blank">点击一键下载</a></li>
 
 </ul>
 </blockquote>
