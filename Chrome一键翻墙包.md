@@ -33,6 +33,7 @@
 
 
 <li>一键下载：<a href="http://down.jwproxy.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
+<li>下载2：<a href="https://copy.com/LngN3HM3i7BPxUxr" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
   
 </ul>
 </blockquote>
