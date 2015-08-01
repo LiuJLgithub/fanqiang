@@ -18,8 +18,8 @@
 <a id="user-content-下载地址" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" aria-hidden="true"><span class="octicon octicon-link"></span></a>下载地址：</h3>
 
 <ul>
-<li>https://copy.com/QMBzkUT87TL16MsU</li>
-<li>好盘：<a href="http://howfile.com/file/d6wfyr2/cca1c906/">http://howfile.com/file/d6wfyr2/cca1c906/</a>
+<li>/li>
+<li><a href="https://copy.com/QMBzkUT87TL16MsU">https://copy.com/QMBzkUT87TL16MsU</a>
 </li>
 
 </ul>
