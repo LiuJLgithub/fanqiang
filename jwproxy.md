@@ -13,7 +13,7 @@
       <strong><a href="http://a4.theksj.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
     </li>
     <li>
-      <strong><a href="http://a4.theksj.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像四</a></strong>
+      <strong><a href="http://a5.theksj.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像四</a></strong>
     </li>
 
   </ul>
