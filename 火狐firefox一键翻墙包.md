@@ -17,9 +17,11 @@
 <a id="user-content-更新日志" class="anchor" href="#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h4>
 
 <ul class="task-list">
+
+<li><strong>2015年8月5日 </strong> 更新ip，更新火狐内核，更新证书。</li>
 <li>
 <strong>2015年6月29日</strong> 更新ip。修复6月11日版YouTube视频播放完成后缩略图不显示的问题。</li>
-<li>核心程序是Firefox38.0.5+GoAgent3.1.2</li>
+<li>核心程序是Firefox39.0+GoAgent3.1.2</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
 </ul>
 
