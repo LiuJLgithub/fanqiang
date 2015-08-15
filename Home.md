@@ -3,10 +3,7 @@
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">动态网、禁闻网、禁书网加密直连</a></strong>
     </li>
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/chrome" class="wiki-page-link">chrome</a></strong>
-    </li>
-   
+    
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
