@@ -4,7 +4,7 @@
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
 <ul class="task-list">
-<li><strong>2015年7月16日中午各版本ip被封，正在更新中，请运行ip_id_Update文件夹内的ip_1.bat更新ip。更新后需要重启软件才能使新的ip生效。</strong> </li>
+<li><strong>请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</li>
 <li><strong>2015年6月29日</strong> 更新ip。</li>
 <li>2015年6月9日之后更新的版本使用比较快的ip连接，有问题请发邮件给我。使用旧版的朋友如果不能用就下载新版。</li>
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐也可使用  <strong>网页代理方式：<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f"><strong>禁闻网代理</strong>（点此转到网站）</a>、<a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong>、自由门：<a href="https://git.io/fgp">https://git.io/fgp</a>
