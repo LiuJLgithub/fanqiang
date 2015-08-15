@@ -7,10 +7,14 @@
       <strong><a href="http://b3.jwproxy.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像一</a></strong>
     </li>
     <li>
-      <strong><a href="http://a4.theksj.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像二</a></strong>
+      <strong><a href="http://a4.fqnews.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像二</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://a4.theksj.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
     </li>
     <li>
-      <strong><a href="http://a4.theksj.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
+      <strong><a href="http://a4.theksj.com/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像四</a></strong>
     </li>
 
   </ul>
