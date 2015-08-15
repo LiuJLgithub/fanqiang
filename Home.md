@@ -3,7 +3,9 @@
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">动态网、禁闻网、禁书网加密直连</a></strong>
     </li>
-    
+ <li>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong>
+    </li>    
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
@@ -32,9 +34,7 @@
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E5%B9%BF%E4%BC%A0%E7%9C%9F%E7%9B%B8%E5%B9%B3%E5%8F%B0" class="wiki-page-link">广传真相平台</a></strong>
     </li>
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong>
-    </li>
+   
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E8%81%9A%E7%BC%98%E9%98%81%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99APP" class="wiki-page-link">聚缘阁安卓翻墙APP</a></strong>
     </li>
