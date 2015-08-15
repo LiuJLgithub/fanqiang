@@ -2,6 +2,7 @@
 <h1>Chrome一键翻墙包</h1>
 <h3>公告：</h3>
 <ul class="task-list">
+<li><strong>2015年8月4日</strong> 修复上一版的代理规则错误。上一版误操作，让该直连的走了代理。</li>
 <li><strong>2015年7月22日</strong> 更新ip，更新flash插件版本。</li>
 <li><strong>2015年6月30日</strong> 更新IP，已经在用前一版的朋友可以通过运行ip更新程序来更新ip。</li>
 
