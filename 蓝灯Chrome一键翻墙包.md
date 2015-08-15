@@ -8,7 +8,6 @@
 
 <h3>
 <a id="user-content-更新日志" class="anchor" href="#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
-
 <ul>
 <li>
 <strong>2015年7月30日</strong> 修改程序，解决一键启动再退出后ie打不开网页的问题。</li>
