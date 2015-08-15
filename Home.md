@@ -9,9 +9,7 @@
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/firefox" class="wiki-page-link">firefox</a></strong>
-    </li>
+
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Goagent%E6%90%9CIP%E6%95%99%E7%A8%8B" class="wiki-page-link">Goagent搜IP教程</a></strong>
     </li>
