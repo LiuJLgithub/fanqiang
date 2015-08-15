@@ -1,5 +1,4 @@
 <h1>动态网、禁闻网、禁书网加密直连</h1> 
-
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
