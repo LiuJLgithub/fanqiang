@@ -1,18 +1,17 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
-<h3>公告：</h3>
+<h3>更新日志：</h3>
 <ul class="task-list">
 <li><strong>2015年8月4日</strong> 修复上一版的代理规则错误。上一版误操作，让该直连的走了代理。</li>
 <li><strong>2015年7月22日</strong> 更新ip，更新flash插件版本。</li>
-<li><strong>2015年6月30日</strong> 更新IP，已经在用前一版的朋友可以通过运行ip更新程序来更新ip。</li>
+
 
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐也可使用  <strong>网页代理方式：<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f"><strong>禁闻网代理</strong>（点此转到网站）</a>、<a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 、 <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong>、自由门：<a href="https://git.io/fgp">https://git.io/fgp</a>
 、无界：<a href="https://git.io/HNvvvQ">https://git.io/HNvvvQ</a>
 </li>
 
-</ul>
-<h4>更新日志：</h4>
-<ul class="task-list">
+
+
 <li><strong>2015年6月30日</strong> 更新IP，已经在用前一版的朋友可以通过运行ip更新程序来更新ip。</li>
 <li>
 <strong>2015年6月10日</strong> 此版目前ip资源丰富，通道多、速度快，暂时告别扫ip的烦恼。。内存低于2G的电脑建议用<a href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
