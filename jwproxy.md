@@ -38,7 +38,7 @@
 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/蓝灯Chrome一键翻墙包" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong>
     </li>
    
 
