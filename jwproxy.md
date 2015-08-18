@@ -38,7 +38,7 @@
 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E5%B9%BF%E4%BC%A0%E7%9C%9F%E7%9B%B8%E5%B9%B3%E5%8F%B0" class="wiki-page-link">广传真相平台</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/蓝灯Chrome一键翻墙包" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong>
     </li>
    
 
