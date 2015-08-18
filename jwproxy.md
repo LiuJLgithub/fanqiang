@@ -32,16 +32,11 @@
 
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99" class="wiki-page-link">iphone翻墙</a></strong>
-    </li>
-    <li>
       <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong>
     </li>
 
 
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6" class="wiki-page-link">安卓翻墙软件</a></strong>
-    </li>
+ 
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E5%B9%BF%E4%BC%A0%E7%9C%9F%E7%9B%B8%E5%B9%B3%E5%8F%B0" class="wiki-page-link">广传真相平台</a></strong>
     </li>
