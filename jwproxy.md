@@ -1,6 +1,6 @@
 <h1>禁闻网、禁书网加密直连</h1> 
-<h2>请记录此网址：</h2>https://github.com/bannedbook/fanqiang/wiki/jwproxy <strong>
-将该github网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时更新新网址 </strong>
+<h2>请记录收藏本网页网址：</h2>https://github.com/bannedbook/fanqiang/wiki/jwproxy <strong>
+请将上面的github网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 </strong>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
