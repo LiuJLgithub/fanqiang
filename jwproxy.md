@@ -3,7 +3,9 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
   
-
+    <li>
+      <strong><a href="http://b1.myasf.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像二</a></strong>
+    </li>
     <li>
       <strong><a href="http://z01.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
     </li>
