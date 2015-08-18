@@ -22,7 +22,7 @@
     </li>
 
     <li>
-      <strong><a href="http://z01.01.dynamic-dns.net/20/" class="wiki-page-link" target="_blank">动态网加密直连网址-镜像二</a></strong>
+      <strong><a href="http://b1.myasdf.com/20/" class="wiki-page-link" target="_blank">动态网加密直连网址-镜像二</a></strong>
     </li>
     <li>
       <strong><a href="http://z01.01.dynamic-dns.net/20/" class="wiki-page-link" target="_blank">动态网加密直连网址-镜像三</a></strong>
