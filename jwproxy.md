@@ -23,7 +23,7 @@
 
 
    <li>
-      <strong>如果上面的网址打不开，请帮忙发email提醒我们，email在下面。</strong>
+      <strong>如果上面的网址打不开，请帮忙发email提醒我们，email在下面，最好说明是哪个网址打不开。</strong>
     </li> 
   </ul>
 </div>
