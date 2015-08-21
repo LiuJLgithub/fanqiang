@@ -12,7 +12,9 @@
     <li>
       <strong><a href="http://z01.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像三</a></strong>
     </li>
-
+ <li>
+      打开网址后，网址后面加/20 就是动态网，后面加 /31 就是无界网，更多自己探索啦！
+    </li>
 
   </ul>
 
