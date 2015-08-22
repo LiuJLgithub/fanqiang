@@ -9,7 +9,7 @@
       <strong><a href="http://z01.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li> 
     <li>
-      <strong><a href="http://z02.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2/a></strong>
+      <strong><a href="http://z02.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://z03.01.dynamic-dns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
