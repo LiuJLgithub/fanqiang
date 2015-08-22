@@ -3,7 +3,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>说明：</h3>
 
 <ul>
-<li>蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。</li>
+<li>蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。一键翻墙，无需登录。</li>
 </ul>
 
 <h3>
