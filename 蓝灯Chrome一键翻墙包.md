@@ -10,7 +10,7 @@
 <a id="user-content-更新日志" class="anchor" href="#%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
 <ul>
 <li>
-<strong>2015年7月30日</strong> 修改程序，解决一键启动再退出后ie打不开网页的问题。</li>
+<strong>2015年8月22日</strong> 更新到最新版蓝灯。</li>
 <li>有问题请发邮件到<a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> ,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
