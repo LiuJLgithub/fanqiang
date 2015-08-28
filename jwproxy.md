@@ -9,7 +9,7 @@
       <strong><a href="http://a2.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://b1.169dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://b2.169dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://c1.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
