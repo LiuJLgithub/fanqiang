@@ -16,7 +16,10 @@
       <strong><a href="http://b4.169dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
  <li>
-      打开网址后，网址后面加/20 就是动态网，后面加 /31 就是无界网，假设网址打开后为http://test.com,那么http://test.com/20 就是动态网，http://test.com/31就是无界网，更多自己探索啦！
+      打开网址后，网址后面加/20 就是动态网，后面加 /31 就是无界网，后面加/gczx.html就是广传真相平台。
+    </li>
+ <li>
+假设网址打开后为http://test.com,那么http://test.com/20 就是动态网，http://test.com/31就是无界网，更多自己探索啦！
     </li>
 
   </ul>
