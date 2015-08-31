@@ -3,7 +3,7 @@
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/jwproxy" class="wiki-page-link">动态网、禁闻网、禁书网加密直连</a></strong>
     </li>
- <li>
+
  <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong>
     </li>    
