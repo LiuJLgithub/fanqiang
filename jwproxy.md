@@ -25,6 +25,7 @@
   </ul>
 
 </div>
+![禁闻代理 二维码](https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg)
 <h2>翻墙软件下载</h2> 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
