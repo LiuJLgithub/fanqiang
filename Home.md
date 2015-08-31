@@ -28,19 +28,13 @@
       <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong>
     </li>
 
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong>
-    </li>    
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
-    </li>
+      
 
 
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99" class="wiki-page-link">iphone翻墙</a></strong>
     </li>
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong>
-    </li>
+
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F" class="wiki-page-link">一键翻墙包自建流量</a></strong>
     </li>
