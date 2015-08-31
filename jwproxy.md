@@ -19,7 +19,7 @@
  <strong><a href="https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg" target="_blank">点击查看本页二维码</a></strong>
     </li>
  <li>
-      打开网址后，网址后面加/20 就是动态网，后面加 /31 就是无界网，后面加/gczx.html就是广传真相平台。
+     直连域名后面加/20 就是动态网，后面加 /31 就是无界网，后面加/gczx.html就是广传真相平台。
     </li>
  <li>
 假设直连镜像网址是http://test.com ,那么http://test.com/20 就是动态网，http://test.com/31 就是无界网，如此类推！
