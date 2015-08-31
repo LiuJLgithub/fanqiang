@@ -21,11 +21,13 @@
  <li>
 假设直连镜像网址是http://test.com ,那么http://test.com/20 就是动态网，http://test.com/31 就是无界网，如此类推！
     </li>
-
+ <li>
+<a href="https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg" target="_blank">点击查看本页二维码</a>
+    </li>
   </ul>
 
 </div>
-![禁闻代理 二维码](https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg)
+
 <h2>翻墙软件下载</h2> 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
