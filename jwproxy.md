@@ -59,3 +59,30 @@
 
   </ul>
 </div>
+
+<h2>手机禁网平台</h2>
+<div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+
+  <li>
+      <strong><a href="http://a1.169dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+
+
+-镜像1</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://c4.39dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+
+
+-镜像3</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://b4.169dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+
+
+-镜像2</a></strong>
+    </li>
+
+  </ul>
+</div>
