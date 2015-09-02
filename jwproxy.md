@@ -1,4 +1,4 @@
-<h1>禁闻网、禁书网、动态网、无界网、手机禁网平台、<a href="#fanqiangsoft">翻墙软件下载</a></h1> 
+<h1>禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a></h1> 
 <h2>请记录收藏本网页网址</h2>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
@@ -62,7 +62,7 @@
   </ul>
 </div>
 
-<h2>手机禁网平台</h2>
+<h2>手机禁网平台</h2><a name="mobilejinwang"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
