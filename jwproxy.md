@@ -8,14 +8,14 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://a0.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://a7.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://c5.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
+      <strong><a href="http://c0.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
     </li>
     <li>
-      <strong><a href="http://a6.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://a8.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
  <li>
  <strong><a href="https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg" target="_blank">点击查看本页二维码</a></strong>
@@ -67,20 +67,20 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
   <li>
-      <strong><a href="http://a0.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a7.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://c5.39dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://c0.39dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像3</a></strong>
     </li>
     <li>
-      <strong><a href="http://a6.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a8.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像2</a></strong>
