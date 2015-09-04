@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://a7.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://a9.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
@@ -62,7 +62,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
   <li>
-      <strong><a href="http://a7.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a9.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像1</a></strong>
