@@ -47,7 +47,7 @@
     </li>
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong> 或直连域名后加 /Firefly-win-0.2.1.rar
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong> 或直连域名后加 /firefly-proxy-win.7z
     </li>
 
     <li>
