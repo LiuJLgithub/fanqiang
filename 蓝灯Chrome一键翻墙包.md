@@ -1,8 +1,10 @@
 # 蓝灯Chrome一键翻墙包
 <h3>
+
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>说明：</h3>
 
 <ul>
+<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 吧。</li>
 <li>蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。一键翻墙，无需登录。</li>
 </ul>
 
