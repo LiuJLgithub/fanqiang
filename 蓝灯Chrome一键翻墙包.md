@@ -4,7 +4,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>说明：</h3>
 
 <ul>
-<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 吧。</li>
+<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用[Chrome一键翻墙包](https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85) 吧。</li>
 <li>蓝灯的速度多数时候都是很快的，可能偶尔会连接到速度慢的服务器，这是正常的。一键翻墙，无需登录。</li>
 </ul>
 
