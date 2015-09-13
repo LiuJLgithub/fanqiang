@@ -7,12 +7,12 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 
 据网友测试Tor Browser 速度还不够理想，但看网页看新闻完全可以，而且是刚打开以一个网页慢，然后速度就感觉还可以。也有热心读者反馈说速度可以达到 100KB/s，速度还是很不错的，估计不同的省份或者不同的 ISP，效果可能不同。
 
-<h4>下载地址（最新版4.5.3版）：</h4>
+<h4>下载地址（最新版4.5.3版）（经速度优化，隐私选项较宽松，默认使用微软meek插件，可根据情况自行调整）：</h4>
 <blockquote>
 <ul class="task-list">
 
 
-<li>一键下载（经速度优化，隐私选项较宽松，默认使用微软meek插件，可根据情况自行调整）：<a href="http://z0.169dns.info/Tor-Browse-Windows-CN.7z" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="http://z0.169dns.info/Tor-Browse-Windows-CN.7z" target="_blank">点击一键下载</a></li>
 <li>下载地址2：<a href="https://copy.com/iZAvfZByqj33V0jD" target="_blank">点击下载</a></li>
 <li>下载地址3：<a href="https://od.lk/d/ODVfMzk1MzEwXw/Tor-Browse-Windows-CN.7z" target="_blank">点击下载</a></li>
 
