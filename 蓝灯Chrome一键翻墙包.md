@@ -22,8 +22,7 @@
 
 <ul>
 <li>一键下载：<a href="http://z0.169dns.info/ChromeLT.7z" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/QMBzkUT87TL16MsU" target="_blank">点击下载</a></li>
-
-</li>
+<li>下载2：<a href="https://copy.com/QMBzkUT87TL16MsU" target="_blank">点击下载</a></li></li>
+<li>下载3：<a href="https://od.lk/d/ODVfMzk1NDI1Xw/ChromeLT.7z" target="_blank">点击下载</a></li></li>
 
 </ul>
