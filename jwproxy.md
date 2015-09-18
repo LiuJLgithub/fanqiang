@@ -63,7 +63,12 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
+    <li>
+      <strong><a href="http://aa02.duckdns.org/5" class="wiki-page-link" target="_blank">手机禁网平台
 
+
+-镜像1</a></strong>
+    </li>
 
     <li>
       <strong><a href="http://c0.39dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
