@@ -13,7 +13,11 @@
     </li>
 
     <li>
-      <strong><a href="http://c0.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
+      <strong><a href="http://c0.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://aa02.duckdns.org/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
     </li>
 
  <li>
