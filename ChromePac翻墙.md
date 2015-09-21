@@ -11,7 +11,7 @@
 <ul>
 <li>
 <strong>2015年9月18日</strong> 今天第一次测试此方法。</li>
-<li>有问题请发邮件到<a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> ,反馈邮件请注明“<strong>PAC版</strong>”。</li>
+<li>有问题请发邮件给我 ,反馈邮件请注明“<strong>PAC版</strong>”。</li>
 </ul>
 
 <h3>
