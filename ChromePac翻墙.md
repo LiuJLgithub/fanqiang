@@ -18,7 +18,7 @@
 <a id="user-content-下载地址" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" aria-hidden="true"><span class="octicon octicon-link"></span></a>下载地址：</h3>
 
 <ul>
-<li>下载地址1：<a href="http://ddddd.freedns.space/Chrome-Goagent.7z">一键下载1</a></li>
+<li>下载地址1：<a href="http://ddddd.freedns.space/ChromePac.7z">一键下载1</a></li>
 <li>好盘：<a href="http://howfile.com/file/d6wfyr2/0dfc111d/">http://howfile.com/file/d6wfyr2/0dfc111d/</a>
 </li>
 <li>MEGA：<a href="https://mega.nz/#!1YpTyQZA!Dajs5eBp9pUTcuwCmSWE8G9xU8SrZSu1kih2GGTqx9k">https://mega.nz/#!1YpTyQZA!Dajs5eBp9pUTcuwCmSWE8G9xU8SrZSu1kih2GGTqx9k</a>
