@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://b1.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://aaa01.ddns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
@@ -25,7 +25,7 @@
     </li>
  <li>
      直连域名后面加/20/ 就是动态网，后面加 /31/ 就是无界网，后面加/gczx.html就是广传真相平台。<br/>
-比如动态网：<a href="http://b1.168dns.info/20/" target="_blank">http://b1.168dns.info/20/</a>
+比如动态网：<a href="http://aaa01.ddns.net/20/" target="_blank">http://aaa01.ddns.net/20/</a>
     </li>
  <li>
 假设直连镜像网址是http://test.com ,那么http://test.com/20 就是动态网，http://test.com/31 就是无界网，如此类推！
@@ -65,20 +65,20 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
     <li>
-      <strong><a href="http://f01.dnsnet.work/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://f01.dnsnet.work/5/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://a01.baiduseo.work/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a01.baiduseo.work/5/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像3</a></strong>
     </li>
     <li>
-      <strong><a href="http://b1.168dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://aaa01.ddns.net/5/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像2</a></strong>
