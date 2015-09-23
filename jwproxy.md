@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://aaa01.ddns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://f01.dnsnet.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
@@ -17,7 +17,7 @@
     </li>
 
     <li>
-      <strong><a href="http://f01.dnsnet.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
+      <strong><a href="http://aaa01.ddns.net/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
     </li>
 
  <li>
