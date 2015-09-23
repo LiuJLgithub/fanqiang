@@ -13,7 +13,7 @@
     </li>
 
     <li>
-      <strong><a href="http://a00.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://a01.baiduseo.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
 
     <li>
@@ -72,7 +72,7 @@
     </li>
 
     <li>
-      <strong><a href="http://a00.39dns.info/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a01.baiduseo.work/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像3</a></strong>
