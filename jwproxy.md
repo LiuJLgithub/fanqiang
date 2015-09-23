@@ -17,7 +17,7 @@
     </li>
 
     <li>
-      <strong><a href="http://aa02.duckdns.org/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
+      <strong><a href="http://f01.dnsnet.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
     </li>
 
  <li>
@@ -65,7 +65,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
     <li>
-      <strong><a href="http://aa02.duckdns.org/5" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://f01.dnsnet.work/5" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像1</a></strong>
