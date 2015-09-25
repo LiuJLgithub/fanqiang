@@ -24,7 +24,7 @@
  <strong><a href="https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg" target="_blank">点击查看本页二维码</a></strong>
     </li>
  <li>
-     直连域名后面加/20/ 就是动态网，后面加 /31/ 就是无界网，后面加/gczx.html就是广传真相平台。<br/>
+     直连域名后面加/20/ 就是动态网，后面加 /31/ 就是无界网，后面加/gczx.html就是广传真相平台。
 比如动态网：<a href="http://aaa01.ddns.net/20/" target="_blank">http://aaa01.ddns.net/20/</a>
     </li>
  
