@@ -40,6 +40,10 @@
  <li>
       <strong>最新<a href="https://git.io/fgp" target="_blank">自由门PC版</a></strong> 或<a href="http://aaa01.ddns.net/fg.zip" target="_blank">直接下载</a>、或任一直连域名后加 /fg.zip
     </li> 
+ <li>
+      <strong>最新<a href="https://git.io/fgma" target="_blank">自由门安卓版</a></strong> 或<a href="http://aaa01.ddns.net/fg.apk" target="_blank">直接下载</a>、或任一直连域名后加 /fg.apk
+    </li> 
+
 
  <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 或<a href="http://aaa01.ddns.net/Firefox-Goagent.7z" target="_blank">直接下载</a>、或任一直连域名后加 /Firefox-Goagent.7z
