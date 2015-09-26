@@ -38,21 +38,21 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 或直连域名后加 /Firefox-Goagent.7z
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 或<a href="http://aaa01.ddns.net/Firefox-Goagent.7z" target="_blank">直接下载</a>、或任一直连域名后加 /Firefox-Goagent.7z
     </li>    
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong> 或直连域名后加 /Chrome-Goagent.7z
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong> 或<a href="http://aaa01.ddns.net/Chrome-Goagent.7z" target="_blank">直接下载</a>、或任一直连域名后加 /Chrome-Goagent.7z
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong> 或直连域名后加 /ChromeLT.7z
-    </li>
-
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong> 或直连域名后加 /firefly-proxy-win.7z
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong> 或<a href="http://aaa01.ddns.net/ChromeLT.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromeLT.7z
     </li>
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 或直连域名后加 /Tor-Browse-Windows-CN.7z
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a></strong> 或<a href="http://aaa01.ddns.net/firefly-proxy-win.7z" target="_blank">直接下载</a>、或任一直连域名后加 /firefly-proxy-win.7z
+    </li>
+
+    <li>
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 或<a href="http://aaa01.ddns.net/Tor-Browse-Windows-CN.7z" target="_blank">直接下载</a>、或任一直连域名后加 /Tor-Browse-Windows-CN.7z
     </li>
 
   </ul>
