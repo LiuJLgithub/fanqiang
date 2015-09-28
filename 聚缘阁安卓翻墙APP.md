@@ -27,7 +27,7 @@
 <blockquote>
 <ul >
 <li>一键下载：<a href="http://aaa01.ddns.net/jygjw.apk" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/gOJbdpGYSqQjYfkN" target="_blank">点击下载</a></li>
+<li>下载2：<a href="https://copy.com/ZonHplZhzilgBjuk" target="_blank">点击下载</a></li>
 
 </ul>
 </blockquote>
