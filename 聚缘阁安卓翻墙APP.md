@@ -26,11 +26,10 @@
 
 <blockquote>
 <ul >
-<li>一键下载：<a href="http://ddddd.freedns.space/wstp.apk" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="http://aaa01.ddns.net/jygjw.apk" target="_blank">点击一键下载</a></li>
 <li>下载2：<a href="https://copy.com/gOJbdpGYSqQjYfkN" target="_blank">点击下载</a></li>
 
 </ul>
 </blockquote>
 
 <img src="http://i59.tinypic.com/2im5kbq.jpg" border="1" alt="Image and video hosting by TinyPic">
-
