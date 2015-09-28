@@ -6,7 +6,7 @@
 
 **聚缘阁禁闻导航 在线访问**
 <blockquote>
-请访问并收藏（大陆直连，无需翻墙软件）:
+请收藏本页面，按Ctrl+D键（大陆直连，无需翻墙软件）:
 
  <li>
       <strong><a href="http://f01.dnsnet.work/jygjw.php" class="wiki-page-link" target="_blank">镜像1</a></strong>
