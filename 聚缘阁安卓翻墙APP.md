@@ -8,7 +8,17 @@
 <blockquote>
 请访问并收藏（大陆直连，无需翻墙软件）:
 
-请先打开<a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a>，点击其中任一镜像网址，在网址后面加上/jygjw.php 就是聚缘阁禁闻导航在线版了。
+ <li>
+      <strong><a href="http://f01.dnsnet.work/jygjw.php" class="wiki-page-link" target="_blank">镜像1</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://a01.baiduseo.work/jygjw.php" class="wiki-page-link" target="_blank">镜像2</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://aaa01.ddns.net/jygjw.php" class="wiki-page-link" target="_blank">镜像3</a></strong>
+    </li>
 </blockquote>
 
 **聚缘阁禁闻 安卓翻墙APP下载**
