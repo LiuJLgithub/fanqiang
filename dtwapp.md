@@ -10,7 +10,7 @@
 <blockquote>
 <ul >
 <li>一键下载：<a href="http://ddddd.freedns.space/dweb.apk" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/gOJbdpGYSqQjYfkN" target="_blank">点击下载</a></li>
+<li>下载2：<a href="https://copy.com/jLrkJreDxUcNNWaA" target="_blank">点击下载</a></li>
 
 </ul>
 </blockquote>
