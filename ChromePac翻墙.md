@@ -21,6 +21,13 @@
 <li>下载地址1：<a href="http://ddddd.freedns.space/ChromePac.7z">一键下载1</a></li>
 <li>下载地址2：<a href="https://copy.com/vjyKKmtw9YjFPt0U">下载二</a>
 </li>
+<li>校验信息：
 
+<ul>
+<li>文件名: ChromePac.7z</li>
+<li>文件大小: 61,658,337 bytes</li>
+<li>md5: a8f76cec627d9a7934c2ba3391598be4</li>
+</ul>
+</li>
 </ul>
 </li>
