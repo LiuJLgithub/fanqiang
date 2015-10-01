@@ -98,4 +98,4 @@
 
   </ul>
 </div>
-<a name="hide"><div>http://f01.dnsnet.work/,http://a01.baiduseo.work/,http://aaa01.ddns.net/</div></a>
+<div>list:f01.dnsnet.work,a01.baiduseo.work,aaa01.ddns.net</div>
