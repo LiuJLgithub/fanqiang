@@ -98,4 +98,4 @@
 
   </ul>
 </div>
-<div id="hide" style="text-color:white">http://f01.dnsnet.work/,http://a01.baiduseo.work/,http://aaa01.ddns.net/</div>
+<xml>http://f01.dnsnet.work/,http://a01.baiduseo.work/,http://aaa01.ddns.net/</xml>
