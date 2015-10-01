@@ -1,4 +1,4 @@
-<!--http://f01.dnsnet.work/,http://a01.baiduseo.work/,http://aaa01.ddns.net/-->
+<!------http://f01.dnsnet.work/,http://a01.baiduseo.work/,http://aaa01.ddns.net/------>
 <h1>禁闻代理：禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a></h1> 
 <h2>请记录收藏本网页网址</h2>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
