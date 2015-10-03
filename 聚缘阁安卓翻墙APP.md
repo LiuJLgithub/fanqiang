@@ -28,6 +28,22 @@
 </blockquote>
 
 
+**聚缘阁代理 在线访问**
+<blockquote>
+请收藏本页面，按Ctrl+D键（大陆直连，无需翻墙软件）:
+
+ <li>
+      <strong><a href="http://f01.dnsnet.work/jygdl.php" class="wiki-page-link" target="_blank">镜像1</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://a01.baiduseo.work/jygdl.php" class="wiki-page-link" target="_blank">镜像2</a></strong>
+    </li>
+
+    <li>
+      <strong><a href="http://aaa01.ddns.net/jygdl.php" class="wiki-page-link" target="_blank">镜像3</a></strong>
+    </li>
+</blockquote>
 
 
 
