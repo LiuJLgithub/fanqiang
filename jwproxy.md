@@ -36,7 +36,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://f02.dnsnet.work/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /f02.dnsnet.work
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://f02.dnsnet.work/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
     </li> 
  <li>
       <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或<a href="http://aaa01.ddns.net/fg.zip" target="_blank">直接下载</a>、或任一直连域名后加 /fg.zip
