@@ -79,20 +79,20 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
     <li>
-      <strong><a href="http://f02.dnsnet.work/5/" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://f02.dnsnet.work/1/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://a01.baiduseo.work/5/" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://a01.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像3</a></strong>
     </li>
     <li>
-      <strong><a href="http://aaa01.ddns.net/5/" class="wiki-page-link" target="_blank">手机禁网平台
+      <strong><a href="http://aaa01.ddns.net/1/" class="wiki-page-link" target="_blank">手机禁网平台
 
 
 -镜像2</a></strong>
