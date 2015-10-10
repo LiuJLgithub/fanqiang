@@ -77,26 +77,29 @@
 <h2>手机禁网平台</h2><a name="mobilejinwang"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
-
     <li>
-      <strong><a href="http://b3.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台
-
-
--镜像1</a></strong>
-    </li>
-
-    <li>
-      <strong><a href="http://a01.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台
-
-
--镜像3</a></strong>
+      <strong><a href="http://b3.168dns.info/gczx.html" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://aaa01.ddns.net/1/" class="wiki-page-link" target="_blank">手机禁网平台
-
-
--镜像2</a></strong>
+      <strong><a href="http://a01.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
     </li>
+    <li>
+      <strong><a href="http://aaa01.ddns.net/gczx.html" class="wiki-page-link" target="_blank">手机禁网平台-镜像3</a></strong>
+    </li>
+  </ul>
+</div>
 
+<h2>广传真相平台</h2><a name="gczxpt"></a>
+<div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+    <li>
+      <strong><a href="http://b3.168dns.info/1/" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://a01.baiduseo.work/1/" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://aaa01.ddns.net/1/" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
+    </li>
   </ul>
 </div>
