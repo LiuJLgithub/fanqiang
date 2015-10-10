@@ -32,7 +32,7 @@
 
 </div>
 
-<h2>翻墙软件下载</h2><a name="fanqiangsoft"></a>
+<a name="fanqiangsoft"></a><h2>翻墙软件下载</h2>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
