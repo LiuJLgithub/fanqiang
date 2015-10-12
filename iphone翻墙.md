@@ -8,7 +8,7 @@
 
 
 
-<li>禁闻在线代理：浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a>
+<li>1. 禁闻在线代理：浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a>
 
 </li>
 
@@ -17,7 +17,7 @@
 
 
 <li>
-广传真相平台：浏览器直接访问，无需安装
+2. 广传真相平台：浏览器直接访问，无需安装
 <a href="https://github.com/bannedbook/fanqiang/wiki/%E5%B9%BF%E4%BC%A0%E7%9C%9F%E7%9B%B8%E5%B9%B3%E5%8F%B0" target="_blank">广传真相平台2.0</a>
 
 
