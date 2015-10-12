@@ -8,8 +8,8 @@
 <li>禁闻在线代理：浏览器直接访问，无需安装。
 
 <ul class="task-list">
-<li><a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f" target="_blank">https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f</a><br><br>
-<a href="https://pipes.yahoo.com/pipes/pipe.run?_id=40fbfb511221f769a51746fa91a1ff4f" target="_blank"><img src="http://i58.tinypic.com/zxsi9k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<li><a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">https://github.com/bannedbook/fanqiang/wiki/jwproxy</a><br><br>
+<a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank"><img src="http://i58.tinypic.com/zxsi9k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
 </li>
 </ul>
 </li>
