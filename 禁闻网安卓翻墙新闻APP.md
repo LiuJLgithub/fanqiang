@@ -17,8 +17,7 @@
 **禁闻代理 免翻墙**
 <blockquote>
 <ul >
-<li>一键下载：<a href="http://ddddd.freedns.space/dweb.apk" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/BD3jW0cbfzYXv1vt" target="_blank">点击下载</a></li>
-<li>google安卓市场下载：<a href="https://play.google.com/store/apps/details?id=org.bannedbook.app.dtwip" target="_blank">动态网新闻</a></li>
+<li>点击打开：<a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a></li>
+
 </ul>
 </blockquote>
