@@ -102,5 +102,11 @@
     <li>
       <strong><a href="http://aaa01.ddns.net/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
+  <li>
+      <strong><a href="http://a01.baiduseo.work/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+    </li>
+  <li>
+      <strong><a href="http://a01.baiduseo.work/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+    </li>
   </ul>
 </div>
