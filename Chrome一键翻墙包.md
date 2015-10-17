@@ -23,9 +23,9 @@
 </li>
 
 
-<li>一键下载：<a href="http://ddddd.freedns.space/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
+<li>一键下载：<a href="http://asd.01.longmusic.com/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
 <li>下载2：<a href="https://copy.com/LngN3HM3i7BPxUxr" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
-<li>下载3：<a href="https://od.lk/d/ODVfMzk1MzU5Xw/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
+<li>下载3：<a href="" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
   
 </ul>
 </blockquote>
