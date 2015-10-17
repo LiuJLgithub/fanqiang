@@ -31,8 +31,8 @@
 
 <ul>
 <li>文件名: ChromePac.7z</li>
-<li>文件大小: 61,658,337 bytes</li>
-<li>md5: a8f76cec627d9a7934c2ba3391598be4</li>
+<li>文件大小: 60,800,500 bytes</li>
+<li>md5: 9526ca99bcf1372e4d24d7f5d62b54c9</li>
 </ul>
 </li>
 </ul>
