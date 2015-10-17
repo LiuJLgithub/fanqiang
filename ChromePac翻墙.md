@@ -10,7 +10,7 @@
 
 <ul>
 <li>
-<strong>2015年9月22日 </strong> 添加一批被墙网址。添加划词翻译扩展。增加YouTube视频下载按钮。</li>
+<strong>2015年10月14日</strong> 增加线上PAC通道。</li>
 <li>有问题请发邮件给我 ,反馈邮件请注明“<strong>PAC版</strong>”。</li>
 </ul>
 
