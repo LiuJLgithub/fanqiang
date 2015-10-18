@@ -8,7 +8,7 @@
 **禁闻网安卓翻墙新闻APP下载**
 <blockquote>
 <ul >
-<li>一键下载：<a href="http://ddddd.freedns.space/jinwen.apk" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="http://pwd.ads.compress.to/jinwen.apk" target="_blank">点击一键下载</a></li>
 <li>下载2：<a href="https://copy.com/uj7i0BsgFR2oYqju" target="_blank">点击下载</a></li>
 <li>google安卓市场下载：<a href="https://play.google.com/store/apps/details?id=org.bannedbook.app.news4dalu" target="_blank">禁闻网安卓翻墙新闻APP</a></li>
 </ul>
