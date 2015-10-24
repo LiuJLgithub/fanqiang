@@ -110,3 +110,18 @@
     </li>
   </ul>
 </div>
+
+<h2>退出党、团、队</h2><a name="3tui"></a>
+<div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+    <li>
+      <strong><a href="http://b3.168dns.info/tui/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://a01.baiduseo.work/tui/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://aaa01.ddns.net/tui/" class="wiki-page-link" target="_blank">手机禁网平台-镜像3</a></strong>
+    </li>
+  </ul>
+</div>
