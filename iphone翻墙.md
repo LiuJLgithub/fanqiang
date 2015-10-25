@@ -14,6 +14,6 @@
 </ul>
 
 <h2>
-本页短网址：<a href="https://bit.ly/iosfq">https://bit.ly/iosfq</a>
+本页短网址：https://git.io/ifq
 </h2>
 <a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank"><img src="http://i58.tinypic.com/zxsi9k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
