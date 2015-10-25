@@ -2,7 +2,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>说明：</h3>
 
 <ul>
-<li>这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好，在WIN10上运行很快，看youtube也不会卡。</li>
+<li>这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好，在WIN10上运行很快，看youtube也不会卡。反馈2：不错哎，youtube秒开！</li>
 </ul>
 
 <h3>
