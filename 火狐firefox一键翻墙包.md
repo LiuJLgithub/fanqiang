@@ -52,5 +52,5 @@
 </li>
 </ul>
 
-<h4>本页面短网址：<a href="https://bit.ly/firefoxfq">https://bit.ly/firefoxfq</a></h4>
+<h4>本页面短网址：<a href="https://git.io/firefox">https://git.io/firefox</a></h4>
     </div>
