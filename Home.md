@@ -127,5 +127,5 @@
 </div>
 
 <h2>
-本页面短网址：<a href="https://git.io/afq">https://git.io/jww</a>
+本页面短网址：https://git.io/jww
 </h2>
