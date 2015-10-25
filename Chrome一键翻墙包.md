@@ -50,5 +50,5 @@
 </ul>
 </li>
 </ol>
-<h2>本页面短网址：<a href="https://bit.ly/chromefq">https://bit.ly/chromefq</a></h2>
+<h2>本页面短网址：<a href="https://git.io/fanqiang">https://git.io/fanqiang</a></h2>
 </div>
