@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://b3.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://a0.bestdns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
@@ -36,7 +36,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://b3.168dns.info/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://a0.bestdns.info/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
     </li> 
  <li>
       <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或<a href="http://aaa01.ddns.net/fg.zip" target="_blank">直接下载</a>、或任一直连域名后加 /fg.zip
@@ -78,7 +78,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://b3.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
+      <strong><a href="http://a0.bestdns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://a01.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
@@ -94,7 +94,7 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://b3.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://a0.bestdns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://a01.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
