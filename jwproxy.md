@@ -115,13 +115,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://a02.baiduseo.work/tui/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://a02.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://a01.39dns.info/tui/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://a01.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="http://asd.01.longmusic.com/tui/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
+      <strong><a href="http://asd.01.longmusic.com/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
     </li>
   </ul>
 </div>
