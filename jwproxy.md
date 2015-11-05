@@ -21,7 +21,7 @@
     </li>
 
  <li>
- <strong><a href="https://cloud.githubusercontent.com/assets/4361923/9572222/560db836-4fef-11e5-9467-25ebfe3e460b.jpg" target="_blank">点击查看本页二维码</a></strong>
+ <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" target="_blank">点击查看本页二维码</a></strong>
     </li>
  <li>
      直连域名后面加/20/ 就是<a href="http://asd.01.longmusic.com/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://asd.01.longmusic.com/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="http://asd.01.longmusic.com/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="http://asd.01.longmusic.com/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="http://asd.01.longmusic.com/jygdl.php" target="_blank">聚缘阁代理</a>。
