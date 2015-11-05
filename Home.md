@@ -13,7 +13,7 @@
     </li>
 
     <li>
-      <strong><a href="http://a01.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://b4.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
 
     <li>
@@ -81,7 +81,7 @@
       <strong><a href="http://a02.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://a01.39dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
+      <strong><a href="http://b4.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://asd.01.longmusic.com/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像3</a></strong>
@@ -97,16 +97,16 @@
       <strong><a href="http://a02.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://a01.39dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+      <strong><a href="http://b4.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://asd.01.longmusic.com/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="http://a01.39dns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="http://b4.168dns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="http://a01.39dns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="http://b4.168dns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
@@ -118,7 +118,7 @@
       <strong><a href="http://a02.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://a01.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://b4.168dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://asd.01.longmusic.com/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
