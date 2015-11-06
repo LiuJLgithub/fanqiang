@@ -103,10 +103,10 @@
       <strong><a href="http://asd.01.longmusic.com/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="http://b4.168dns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="https://github.com/kgfw/fg/blob/master/apk/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="http://b4.168dns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
