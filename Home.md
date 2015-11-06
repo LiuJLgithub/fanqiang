@@ -74,7 +74,7 @@
   </ul>
 </div>
 
-<h2>手机禁网平台</h2><a name="mobilejinwang"></a>
+<h2>手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
