@@ -4,7 +4,8 @@
 聚缘阁安卓翻墙APP是聚缘阁禁闻导航的安卓手机APP，并附加更多翻墙看禁闻的秘密通道。
 <blockquote>
 <ul >
-<li>一键下载：<a href="http://pwd.ads.compress.to/jygjw.apk" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="https://github.com/kgfw/fg/raw/master/apk/jygjw.apk" target="_blank">点击一键下载</a></li>
+<li>一键下载2：<a href="http://pwd.ads.compress.to/jygjw.apk" target="_blank">点击一键下载</a></li>
 <li>下载2：<a href="https://fliiby.com/file/jfmph1q9e3o/" target="_blank">点击下载</a></li>
 <li>下载3：<a href="https://copy.com/ZonHplZhzilgBjuk" target="_blank">点击下载</a></li>
 </ul>
