@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://a02.baiduseo.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://a1.bestdns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
@@ -78,7 +78,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://a02.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
+      <strong><a href="http://a1.bestdns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://b4.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
@@ -94,7 +94,7 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://a02.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://a1.bestdns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://b4.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
@@ -115,7 +115,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://a02.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://a1.bestdns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://b4.168dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
