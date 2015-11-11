@@ -11,7 +11,7 @@
 <li>SHA1: 5AA661233A3F3E6195BE368FAC821D5A3EFB3209</li>
 </ul>
 </li>
-<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 <strong><a href="https://github.com/comeforu2012/truth/wiki/ChromePlus">ChromePlus</a></strong> 吧。</li>
+<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 <strong><a href="https://github.com/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99">ChromePac翻墙</a></strong> 吧。</li>
 </ul>
 
 
