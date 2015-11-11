@@ -29,7 +29,7 @@
 <a id="user-content-下载地址" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" aria-hidden="true"><span class="octicon octicon-link"></span></a>下载地址：</h3>
 
 <ul>
-<li>一键下载：<a href="http://pwd.ads.compress.to/ChromeLT.7z" target="_blank">点击一键下载</a></li>
+<li>一键下载：<a href="http://ns1.wwwdns.work/ChromeLT.7z" target="_blank">点击一键下载</a></li>
 <li>下载2：<a href="https://copy.com/QMBzkUT87TL16MsU" target="_blank">点击下载</a></li>
 
 
