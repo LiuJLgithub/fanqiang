@@ -21,7 +21,7 @@
 </li>
 
 
-<li>一键下载：<a href="http://pwd.ads.compress.to/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
+<li>一键下载：<a href="http://ns1.wwwdns.work/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
 <li>下载3：<a href="https://copy.com/LngN3HM3i7BPxUxr" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
 <li>文件校验信息：文件大小：102,713,284 bytes <br>MD5: c3ab494778338102d836573a32fcdd87</li> 
 
