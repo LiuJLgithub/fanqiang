@@ -37,7 +37,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip" class="wiki-page-link">禁闻代理下载</a></strong> 或<a href="http://a03.39dns.info/jwd.zip" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip" class="wiki-page-link">禁闻代理下载</a></strong> 或<a href="http://a03.39dns.info/jwd.zip" target="_blank">直接下载</a>、或任一直连域名后加 /jwd.zip
     </li>
 
  <li>
