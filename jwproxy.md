@@ -35,6 +35,11 @@
 <a name="fanqiangsoft"></a><h2>翻墙软件下载</h2>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+
+<li>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip" class="wiki-page-link">禁闻代理下载</a></strong> 或<a href="http://a03.39dns.info/jwd.zip" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
+    </li>
+
  <li>
       <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://a03.39dns.info/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
     </li> 
