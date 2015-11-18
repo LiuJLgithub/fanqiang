@@ -9,11 +9,11 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://c1.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://ns1.wwwdns.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
     </li>
 
     <li>
@@ -83,10 +83,10 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://c1.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://ns1.wwwdns.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://a3.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像3</a></strong>
@@ -99,19 +99,19 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://c1.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://ns1.wwwdns.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://a3.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="http://ns1.wwwdns.work/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="http://c2.168dns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="http://ns1.wwwdns.work/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="http://c2.168dns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
@@ -120,10 +120,10 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://c1.168dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://ns1.wwwdns.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://a3.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
