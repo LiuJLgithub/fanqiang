@@ -13,11 +13,11 @@
     </li>
 
     <li>
-      <strong><a href="http://c2.168dns.info/" class="wiki-page-link" target="_blank">禁闻代理在线-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/jwd.zip">下载2</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://a3.baiduseo.work/" class="wiki-page-link" target="_blank">禁闻代理在线-镜像3</a></strong>
+      <strong><a href="http://a3.baiduseo.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://a3.baiduseo.work/jwd.zip">下载3</a></strong>
     </li>
 
  <li>
