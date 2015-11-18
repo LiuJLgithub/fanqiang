@@ -9,15 +9,15 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://jw01.39dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://c2.168dns.info/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/" class="wiki-page-link" target="_blank">禁闻代理在线-镜像2</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://a3.baiduseo.work/" class="wiki-page-link" target="_blank">禁闻加密直连网址-镜像3</a></strong>
+      <strong><a href="http://a3.baiduseo.work/" class="wiki-page-link" target="_blank">禁闻代理在线-镜像3</a></strong>
     </li>
 
  <li>
