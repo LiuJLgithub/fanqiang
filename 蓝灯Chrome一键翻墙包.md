@@ -25,13 +25,10 @@
 <li>有问题请发邮件到<a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> ,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
-<h3>
-<a id="user-content-下载地址" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" aria-hidden="true"><span class="octicon octicon-link"></span></a>下载地址：</h3>
+<h3>下载地址：</h3>
 
 <ul>
-<li>一键下载：<a href="http://ns1.wwwdns.work/ChromeLT.7z" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/QMBzkUT87TL16MsU" target="_blank">点击下载</a></li>
-
+<li><h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3></li>
 
 </ul>
 <h2>本页面短网址：https://git.io/ld </h2>
