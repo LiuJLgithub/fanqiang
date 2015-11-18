@@ -1,4 +1,4 @@
-<h1>禁闻代理翻墙：禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#gczxpt">广传真相平台</a></h1> 
+<h1>禁闻代理翻墙：禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">禁网新闻平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 <h2>请记录收藏本网页网址</h2>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
@@ -86,17 +86,17 @@
   </ul>
 </div>
 
-<h2>手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
+<h2>禁网新闻平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw01.39dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像1</a></strong>
+      <strong><a href="http://jw01.39dns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="http://c2.168dns.info/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像2</a></strong>
+      <strong><a href="http://c2.168dns.info/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/jwd.zip">下载2</a></strong>
     </li>
     <li>
-      <strong><a href="http://a3.baiduseo.work/1/" class="wiki-page-link" target="_blank">手机禁网平台-镜像3</a></strong>
+      <strong><a href="http://a3.baiduseo.work/1/" target="_blank">禁网新闻平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://a3.baiduseo.work/jwd.zip">下载3</a></strong>
     </li>
   </ul>
 </div>
