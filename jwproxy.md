@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>，禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后可极速访问绝大多数被墙网站. 下载短网址:  </strong><a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站) 下载短网址:  </strong><a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
       <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
