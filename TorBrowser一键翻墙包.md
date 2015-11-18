@@ -12,7 +12,7 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 <ul class="task-list">
 
 
-<li>一键下载：<a href="hhttp://ns1.wwwdns.work/Tor-Browse-Windows-CN.7z" target="_blank">点击一键下载</a></li>
+<li><h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3></li>
 
 
 </ul>
