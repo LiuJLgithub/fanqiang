@@ -22,15 +22,13 @@
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
 </ul>
 
-<h4>
-<a id="user-content-下载地址" class="anchor" href="#%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80" aria-hidden="true"><span class="octicon octicon-link"></span></a>下载地址：</h4>
+<h3><a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy#fanqiangsoft">下载地址</a></h3>
 
 <blockquote>
 <ul class="task-list">
 <li>
 <strong>注意：</strong>新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网<a href="https://www.virustotal.com/">VirusTotal</a>的分析结果你可以<a href="https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/">点这里</a>查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。</li>
-<li>一键下载：<a href="http://ns1.wwwdns.work/Firefox-Goagent.7z" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/FTwOWYV9BwBsYsHP" target="_blank">点击下载</a></li>
+
 
 
 </ul>
