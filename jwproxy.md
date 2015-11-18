@@ -8,6 +8,9 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+<li>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>，短网址:</strong><a href="https://git.io/jwd">https://git.io/jwd</a>
+    </li>
  <li>
       <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
     </li>
@@ -36,9 +39,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
-<li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip" class="wiki-page-link">禁闻代理下载</a></strong>，短网址:https://git.io/jwd 或<a href="http://a3.baiduseo.work/jwd.zip" target="_blank">直接下载</a>、或任一直连域名后加 /jwd.zip
-    </li>
+
 
  <li>
       <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a></strong> 或<a href="http://a3.baiduseo.work/ChromePac.7z" target="_blank">直接下载</a>、或任一直连域名后加 /ChromePac.7z
