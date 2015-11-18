@@ -11,7 +11,7 @@
 <strong>安全提醒：</strong>最好别用360、QQ电脑管家等国内公司的软件，它搜集用户的上网行为，你访问哪个国外网站它都记录了，这就等于是窃取你的隐私，这些隐私暴露给它们对你一点好处也没有。我真的不是吓唬你。而且360这样的软件还会在你访问国外一些网站的时候进行拦截，QQ电脑管家有时还会直接删除本软件的主程序，很多反馈来的问题都是此类软件造成的。所以我建议你还是卸载国内公司的安全防护类软件，改用国外公司的吧。</li>
 
 </ul>
-<h4>下载地址：</h4>
+<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
 <blockquote>
 <ul class="task-list">
 
@@ -20,10 +20,6 @@
 <strong>特别提示：</strong>新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网<a href="https://www.virustotal.com/">VirusTotal</a>的分析结果你可以<a href="https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/">点这里</a>查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
 </li>
 
-
-<li>一键下载：<a href="http://ns1.wwwdns.work/Chrome-Goagent.7z" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
-<li>下载3：<a href="https://copy.com/LngN3HM3i7BPxUxr" target="_blank">Chrome-Goagent-一键翻墙包</a></li> 
-<li>文件校验信息：文件大小：102,713,284 bytes <br>MD5: c3ab494778338102d836573a32fcdd87</li> 
 
 </ul>
 </blockquote>
