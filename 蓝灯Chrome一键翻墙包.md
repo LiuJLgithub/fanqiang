@@ -25,10 +25,6 @@
 <li>有问题请发邮件到<a href="mailto:comeforu2012@gmail.com">comeforu2012@gmail.com</a> ,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
-<h3>下载地址：</h3>
+<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
 
-<ul>
-<li><h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3></li>
-
-</ul>
 <h2>本页面短网址：https://git.io/ld </h2>
