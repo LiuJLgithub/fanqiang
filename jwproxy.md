@@ -47,7 +47,7 @@
       <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/ChromePac.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/ChromePac.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a3.baiduseo.work/ChromePac.7z">下载3</a>
     </li> 
  <li>
-      <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或<a href="http://a3.baiduseo.work/fg.zip" target="_blank">直接下载</a>、或任一直连域名后加 /fg.zip
+      <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版下载</a> 或 </strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a3.baiduseo.work/fg.zip">下载3</a>
     </li> 
  <li>
       <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或<a href="http://a3.baiduseo.work/fg.apk" target="_blank">直接下载</a>、或任一直连域名后加 /fg.apk
