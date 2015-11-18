@@ -27,7 +27,7 @@
  <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" />
     </li>
  <li>
-     直连域名后面加/20/ 就是<a href="http://a3.baiduseo.work/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://a3.baiduseo.work/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="http://a3.baiduseo.work/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="http://a3.baiduseo.work/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="http://a3.baiduseo.work/jygdl.php" target="_blank">聚缘阁代理</a>。
+     禁闻代理在线-镜像域名后面加/20/ 就是<a href="http://a3.baiduseo.work/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://a3.baiduseo.work/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="http://a3.baiduseo.work/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="http://a3.baiduseo.work/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="http://a3.baiduseo.work/jygdl.php" target="_blank">聚缘阁代理</a>。
     </li>
  
 
