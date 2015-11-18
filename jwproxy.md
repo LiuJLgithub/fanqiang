@@ -9,7 +9,7 @@
 
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
  <li>
-      <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
     </li>
 
     <li>
