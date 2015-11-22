@@ -15,8 +15,13 @@
 <li>有问题请发邮件给我 ,反馈邮件请注明“<strong>PAC版</strong>”。</li>
 </ul>
 
-<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
 
+<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
+<ul>
+<li>
+https://mega.nz/#!n5NRxZSI 
+</li>
+</ul>
 
 <h2>
 本页面短网址：https://git.io/fq
