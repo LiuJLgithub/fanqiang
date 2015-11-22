@@ -19,7 +19,7 @@
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
 <ul>
 <li>
-https://mega.nz/#!n5NRxZSI 
+MEGA网盘： <a href="https://mega.nz/#!n5NRxZSI" target="_blank">https://mega.nz/#!n5NRxZSI</a>
 </li>
 </ul>
 
