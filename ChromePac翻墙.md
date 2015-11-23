@@ -24,6 +24,9 @@
 <li>
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">更多下载地址</a></h3>
 </li>
+<li>
+文件名：ChromePac.7z 文件大小：63,880,218 bytes  MD5：b1a77d25dbec74bdce26c2965b4d96c2
+</li>
 </ul>
 
 <h2>
