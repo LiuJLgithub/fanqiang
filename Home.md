@@ -12,11 +12,11 @@
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
-      <strong><a href="http://jw01.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw02.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/jwd.zip">下载1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://c2.168dns.info/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/jwd.zip">下载2</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/jwd.zip">下载2</a></strong>
     </li>
 
     <li>
@@ -44,43 +44,43 @@
     </li>
 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/ChromePac.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/ChromePac.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/ChromePac.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/ChromePac.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/ChromePac.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/ChromePac.7z">下载3</a>
     </li> 
 
 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Firefox-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Firefox-Goagent.7z">下载3</a>
     </li>    
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Chrome-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Chrome-Goagent.7z">下载3</a>
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/ChromeLT.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/ChromeLT.7z">下载3</a>
     </li>
 
  <li>
-      <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/fg.zip">下载3</a>
+      <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/fg.zip">下载3</a>
     </li> 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/fg.apk">下载3</a>
-    </li> 
-
- <li>
-      <strong><a href="https://git.io/HNvvvQ" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/u.zip">下载3</a>
+      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/fg.apk">下载3</a>
     </li> 
 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/u.apk">下载3</a>
+      <strong><a href="https://git.io/HNvvvQ" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/u.zip">下载3</a>
+    </li> 
+
+ <li>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/u.apk">下载3</a>
     </li> 
 
 
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/firefly-proxy-win.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/firefly-proxy-win.7z">下载3</a>
     </li>
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/Tor-Browse-Windows-CN.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/Tor-Browse-Windows-CN.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Tor-Browse-Windows-CN.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/Tor-Browse-Windows-CN.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/Tor-Browse-Windows-CN.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/Tor-Browse-Windows-CN.7z">下载3</a>
     </li>
 
   </ul>
@@ -90,10 +90,10 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw01.39dns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.39dns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw02.39dns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.39dns.info/jwd.zip">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="http://c2.168dns.info/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://c2.168dns.info/jwd.zip">下载2</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.dnsnet.work/jwd.zip">下载2</a></strong>
     </li>
     <li>
       <strong><a href="http://a4.baiduseo.work/1/" target="_blank">禁网新闻平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://a4.baiduseo.work/jwd.zip">下载3</a></strong>
@@ -106,19 +106,19 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw01.39dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://jw02.39dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://c2.168dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://a4.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="http://c2.168dns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="http://c2.168dns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
@@ -127,10 +127,10 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw01.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://jw02.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://c2.168dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://jw01.dnsnet.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://a4.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
