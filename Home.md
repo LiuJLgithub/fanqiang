@@ -86,7 +86,7 @@
   </ul>
 </div>
 
-<h2>禁网新闻平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
+<h2>禁网新闻平台、手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
