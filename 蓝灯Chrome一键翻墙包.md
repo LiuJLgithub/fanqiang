@@ -4,14 +4,9 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>通知：</h3>
 
 <ul>
-<li>2015年9月24日下午发现蓝灯的日本服务器被封了，请正在使用日服的朋友切换回荷兰服务器，<strong>方法</strong>：下载荷兰服务器文件，下载后双击导入，导入之前如果蓝灯正在运行需要退出蓝灯。荷服文件下载地址：
-
-<ul>
-<li>百度盘b：<a href="http://pan.baidu.com/s/1i3wC1aH">http://pan.baidu.com/s/1i3wC1aH</a> 提取密码：4taj</li>
-<li>SHA1: 5AA661233A3F3E6195BE368FAC821D5A3EFB3209</li>
-</ul>
+<li>**22015年11月13日** 再次启用日本服务器，速度明显加快。
 </li>
-<li>蓝灯版个别地区这几天有不稳定的情况，如果网页加载慢请多等一两分钟，或者刷新试试。如果还不行，那就换用 <strong><a href="https://github.com/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99">ChromePac翻墙</a></strong> 吧。</li>
+<li>有问题请发邮件到freeman105@gmail.com ,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
 
