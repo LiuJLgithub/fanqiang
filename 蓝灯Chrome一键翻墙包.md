@@ -4,7 +4,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>通知：</h3>
 
 <ul>
-<li>**22015年11月13日** 再次启用日本服务器，速度明显加快。
+<li><b>2015年11月13日</b>再次启用日本服务器，速度明显加快。
 </li>
 <li>有问题请发邮件到freeman105@gmail.com ,反馈邮件请注明“蓝灯版”。</li>
 </ul>
