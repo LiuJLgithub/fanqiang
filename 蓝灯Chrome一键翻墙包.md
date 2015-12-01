@@ -6,7 +6,7 @@
 <ul>
 <li><b>2015年11月13日</b>再次启用日本服务器，速度明显加快。
 </li>
-<li>有问题请发邮件到freeman105@gmail.com ,反馈邮件请注明“蓝灯版”。</li>
+<li>有问题请发邮件到<a href="mailto:freeman105@gmail.com">freeman105@gmail.com</a>,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
 
