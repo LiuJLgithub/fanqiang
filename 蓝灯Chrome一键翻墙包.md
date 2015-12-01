@@ -13,5 +13,9 @@
 
 
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
+<ul>
+<li><b>校验信息：</b>文件名：ChromeLT.7z ， 文件大小：56,695,720 bytes   MD5：e0add16dba8ac14efa1f2eee92bd9e12
+</li>
 
+</ul>
 <h2>本页面短网址：https://git.io/ld </h2>
