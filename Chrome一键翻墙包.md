@@ -3,7 +3,7 @@
 <h3>更新日志：</h3>
 <ul class="task-list">
 <li>推荐<strong><a href="https://github.com/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" target="_blank">ChromePac翻墙</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好，看youtube也不会卡。</li>
-<li><strong>2015年10月21日 </strong>  更新ip,修复facebook图片上传功能（待测试）。</li>
+<li><strong>2015年11月30日 </strong>  更新ip </li>
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐使用轻量级翻墙工具：<a target="_blank" href="https://github.com/bannedbook/fanqiang/wiki"><strong>禁闻网代理及更多翻墙软件</strong></a>。内存低于2G的电脑建议用<a target="_blank"  href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
 <li>核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行Chrome+.exe就可以同时启动代理软件和浏览器。（Win7系统需要右键点击Chrome+.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
