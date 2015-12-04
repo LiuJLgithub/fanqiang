@@ -5,7 +5,7 @@
 
 <ul class="task-list">
 
-<li>1. 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a>
+<li>1. 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a>
 </li>
 
 <li>2. 广传真相平台，浏览器直接访问，无需安装：
