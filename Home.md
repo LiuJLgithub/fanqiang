@@ -91,8 +91,8 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
-<a href="http://jw03.39dns.info/jwd.zip">下载1</a></strong> <a href="http://jw02.dnsnet.work/jwd.zip">下载2</a></strong> <a href="http://jw01.godns.work/jwd.zip">下载3</a></strong>    
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站:<a href="http://jw03.39dns.info/jwd.zip">下载1</a> <a href="http://jw02.dnsnet.work/jwd.zip">下载2</a> <a href="http://jw01.godns.work/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+
 </li>
  <li>
       <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/fg.apk">下载3</a>
