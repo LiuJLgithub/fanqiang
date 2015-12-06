@@ -98,7 +98,7 @@
     </li>     
 
  <li>
-      <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
+      <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
     </li> 
 
  <li>
