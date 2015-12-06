@@ -48,16 +48,16 @@
     </li> 
 
 
- <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/Firefox-Goagent.7z">下载3</a>
-    </li>    
+ 
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/Chrome-Goagent.7z">下载3</a>
     </li>
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/ChromeLT.7z">下载3</a>
     </li>
-
+<li>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/Firefox-Goagent.7z">下载3</a>
+    </li>    
  <li>
       <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/fg.zip">下载3</a>
     </li> 
