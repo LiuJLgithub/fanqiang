@@ -35,7 +35,7 @@
 
 </div>
 
-<a name="fanqiangsoft"></a><h2>翻墙软件下载</h2>
+<a name="fanqiangsoft"></a><h2>PC翻墙软件下载</h2>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
@@ -61,19 +61,11 @@
  <li>
       <strong><a href="https://git.io/fgp" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/fg.zip">下载3</a>
     </li> 
- <li>
-      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/fg.apk">下载3</a>
-    </li> 
+
 
  <li>
       <strong><a href="https://git.io/HNvvvQ" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/u.zip">下载3</a>
     </li> 
-
- <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/u.apk">下载3</a>
-    </li> 
-
-
 
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/firefly-proxy-win.7z">下载3</a>
