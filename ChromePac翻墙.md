@@ -21,11 +21,7 @@
 
 <ul>
 
-<li>这个ChromePac程序是需要与Google Chrome浏览器配合使用的，如果您还没有安装Google Chrome浏览器，请首先<a href="https://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1" target="_blank">下载安装Google Chrome浏览器</a>。如果您下载的ChromePac压缩包中已经包含ChromeStandaloneSetup.exe文件，您只要鼠标双击ChromeStandaloneSetup.exe即可安装Google Chrome浏览器了。如果您下载的ChromePac压缩包中没有包含ChromeStandaloneSetup.exe文件。
-
-如果您无法打开上述Google下载网址，下载ChromePac完整版，完整版中已包括了ChromeStandaloneSetup.exe文件。
-
-待您安装好Chrome浏览器后，只要双击chromepac.exe 即可自动启动Chrome开始自由翻墙浏览了。
+<li>这个ChromePac程序是需要与Google Chrome浏览器配合使用的，如果您还没有安装Google Chrome浏览器，请下载ChromePac完整版,下载后首先执行ChromeStandaloneSetup.exe安装Google Chrome浏览器，然后运行chromepac.exe。如果您已经安装Chrome浏览器，则只需下载ChromePac轻便版，运行chromepac.exe 即可自动启动Chrome开始自由翻墙浏览了。
 </li>
 </ul>
 
