@@ -11,7 +11,7 @@
 
 <ul>
 <li>
-<strong>2015年10月14日</strong> 增加线上PAC通道。</li>
+<strong>2015年12月8日</strong> 将程序划分为轻便版和完整版，轻便版38k大小，方便传播。轻便版需要自行安装Chrome浏览器。完整版已包含chrome安装程序。轻便版和完整版都可以实现Chrome自动更新。</li>
 <li>有问题请发邮件给我 ,反馈邮件请注明“<strong>PAC版</strong>”。</li>
 </ul>
 
