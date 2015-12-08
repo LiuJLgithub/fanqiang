@@ -16,6 +16,24 @@
 </ul>
 
 
+<h3>
+<a class="anchor"><span class="octicon octicon-link"></span></a>使用说明：</h3>
+
+<ul>
+
+<li>这个ChromePac程序是需要与Google Chrome浏览器配合使用的，如果您还没有安装Google Chrome浏览器，请首先安装Google Chrome浏览器。如果您下载的ChromePac压缩包中已经包含ChromeStandaloneSetup.exe文件，您只要鼠标双击ChromeStandaloneSetup.exe即可安装Google Chrome浏览器了。如果您下载的ChromePac压缩包中没有包含ChromeStandaloneSetup.exe文件，请从Google Chrome浏览器下载网址：
+[https://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1](https://www.google.com/chrome/eula.html?hl=zh-CN&standalone=1) 下载安装Chrome浏览器。
+
+如果您无法打开上述Google下载网址，请打开下面的网址
+[https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft](https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft) 
+下载ChromePac完整版，完整版中已包括了ChromeStandaloneSetup.exe文件。
+
+待您安装好Chrome浏览器后，只要双击chromepac.exe 即可自动启动Chrome开始自由翻墙浏览了。
+</li>
+</ul>
+
+
+
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
 <ul>
 <li>
