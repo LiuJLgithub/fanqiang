@@ -44,7 +44,7 @@
     </li>
 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/ChromePac.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/ChromePac.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/ChromePac.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/chromepac-with-chrome.zip">下载3</a>
     </li> 
 
 
