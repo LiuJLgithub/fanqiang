@@ -44,9 +44,11 @@
     </li>
 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/chromepac-with-chrome.zip">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(完整版，含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/chromepac-with-chrome.zip">下载3</a>
     </li> 
-
+ <li>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw03.39dns.info/chromepac.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/chromepac.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/chromepac.zip">下载3</a>
+    </li> 
 
  
     <li>
