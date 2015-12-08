@@ -21,7 +21,7 @@
 
 <ul>
 
-<li>这个ChromePac程序是需要与Google Chrome浏览器配合使用的，如果您还没有安装Google Chrome浏览器，请下载ChromePac完整版,下载后首先执行ChromeStandaloneSetup.exe安装Google Chrome浏览器，然后运行chromepac.exe。如果您已经安装Chrome浏览器，则只需下载ChromePac轻便版，运行chromepac.exe 即可自动启动Chrome开始自由翻墙浏览了。
+<li>这个ChromePac程序是需要与Google Chrome浏览器配合使用的，如果您还没有安装Google Chrome浏览器，请下载<b>ChromePac完整版</b>,下载后首先执行ChromeStandaloneSetup.exe安装Google Chrome浏览器，然后运行chromepac.exe。如果您已经安装Chrome浏览器，则只需下载<b>ChromePac轻便版</b>，运行chromepac.exe 即可自动启动Chrome开始自由翻墙浏览了。
 </li>
 </ul>
 
