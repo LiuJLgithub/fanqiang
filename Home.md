@@ -12,15 +12,15 @@
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
-      <strong><a href="http://jw04.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw04.39dns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw04.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw04.39dns.info/jwproxy.exe">下载1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://jw02.dnsnet.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/jwd.zip">下载2</a></strong>
+      <strong><a href="http://jw02.dnsnet.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/jwproxy.exe">下载2</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://jw01.godns.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/jwd.zip">下载3</a></strong>
+      <strong><a href="http://jw01.godns.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/jwproxy.exe">下载3</a></strong>
     </li>
 
  <li>
@@ -40,7 +40,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,一个htm文件,下载后打开即可极速访问绝大多数被墙网站:<a href="http://jw04.39dns.info/jwd.zip">下载1</a> <a href="http://jw02.dnsnet.work/jwd.zip">下载2</a> <a href="http://jw01.godns.work/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw04.39dns.info/jwproxy.exe">下载1</a> <a href="http://jw02.dnsnet.work/jwproxy.exe">下载2</a> <a href="http://jw01.godns.work/jwproxy.exe">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 <li>
       <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw04.39dns.info/ChromePac.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/ChromePac.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/ChromePac.7z">下载3</a>
