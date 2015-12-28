@@ -66,7 +66,7 @@
 
 
  <li>
-      <strong><a href="https://git.io/HNvvvQ" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw04.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/u.zip">下载3</a>
+      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw04.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.godns.work/u.zip">下载3</a>
     </li> 
 
     <li>
