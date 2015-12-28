@@ -1,4 +1,4 @@
-<h1>禁闻代理翻墙：禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">禁网新闻平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
+<h1><a href="#jwproxy">禁闻代理翻墙</a>：禁闻网、禁书网、动态网、无界网、<a href="#mobilejinwang">禁网新闻平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 <h2>请记录收藏本网页网址</h2>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
@@ -6,7 +6,7 @@
 
 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
-
+<a name="jwproxy"></a>
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
