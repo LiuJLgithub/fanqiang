@@ -164,6 +164,21 @@
   </ul>
 </div>
 
+<h2>动态网直连</h2><a name="to-dtw"></a>
+<div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+    <li>
+      <strong><a href="http://jw04.39dns.info/20/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://jw02.dnsnet.work/20/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://jw01.godns.work/20/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
+    </li>
+  </ul>
+</div>
+
 <h2>
 本页面短网址：https://git.io/jww
 </h2>
