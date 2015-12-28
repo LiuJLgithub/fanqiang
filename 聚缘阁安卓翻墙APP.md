@@ -10,7 +10,13 @@
 </ul>
 </blockquote>
 
+**推荐禁闻代理 极速翻墙**
+<blockquote>
+<ul >
+<li>点击打开：<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></li>
 
+</ul>
+</blockquote>
 
 
 
