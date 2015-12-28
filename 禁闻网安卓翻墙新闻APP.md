@@ -15,10 +15,10 @@
 </ul>
 </blockquote>
 
-**禁闻代理 免翻墙**
+**推荐禁闻代理 极速翻墙**
 <blockquote>
 <ul >
-<li>点击打开：<a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank">禁闻代理</a></li>
+<li>点击打开：<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></li>
 
 </ul>
 </blockquote>
