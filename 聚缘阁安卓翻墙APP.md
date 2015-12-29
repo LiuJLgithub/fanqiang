@@ -4,7 +4,7 @@
 
 <ul>
 <li>
-<strong>2015年12月29日</strong>更新到2.0.1版，更新代理网址，替换掉Feedly链接。</li>
+<strong>2015年12月29日：</strong>更新到2.0.1版，更新代理网址，替换掉Feedly链接。</li>
 
 </ul>
 <br><br>
