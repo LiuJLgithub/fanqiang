@@ -85,7 +85,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合Opera浏览器使用。<a href="http://jw05.39dns.info/jwd.apk">下载1</a> <a href="http://jw03.dnsnet.work/jwd.apk">下载2</a> <a href="http://jw02.godns.work/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwa</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合Opera浏览器使用。<a href="http://jw05.39dns.info/jwd.apk">下载1</a> <a href="http://jw03.dnsnet.work/jwd.apk">下载2</a> <a href="http://jw02.godns.work/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwa">https://git.io/jwa</a>
 
 </li>
 
