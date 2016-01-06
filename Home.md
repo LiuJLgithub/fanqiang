@@ -9,7 +9,7 @@
 <a name="jwproxy"></a>
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击jwproxy.exe启动程序即可实现翻墙浏览了。) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
       <strong><a href="http://jw05.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/jwproxy.exe">下载1</a></strong>
