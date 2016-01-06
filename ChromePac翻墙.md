@@ -11,7 +11,7 @@
 
 <ul>
 <li>
-<strong>2016年1月6日</strong> 更新到1.1版。</li>
+<strong>2016年1月6日</strong> 更新到1.1版，增加IE和Edge调用功能，如果没有安装Chrome浏览器，程序会自动调用IE或Edge翻墙。</li>
 </ul>
 
 
