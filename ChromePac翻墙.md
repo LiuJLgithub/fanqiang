@@ -38,10 +38,10 @@
 </li>
 
 <li>
-轻便版文件名：chromepac.zip 文件大小：38,087 bytes  MD5：90266ef14facbc1c1d805433494fb74c
+轻便版文件名：chromepac.zip 文件大小：412,555 bytes  MD5：666ce4a3c8ee73aea640db0c5a8d4e7a
 </li>
 <li>
-完整版文件名：chromepac-with-chrome.zip 文件大小：45,346,510 bytes  MD5：c0e6d4fb3df16cac86b157d24b93d8f8
+完整版文件名：chromepac-with-chrome.zip 文件大小：45,720,978 bytes  MD5：bb0b7e1300a59f9c3b67d10985b2893e
 </li>
 </ul>
 
