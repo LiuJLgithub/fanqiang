@@ -112,7 +112,7 @@
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/iNTD_TV.apk">下载1</a> <a href="http://jw03.dnsnet.work/iNTD_TV.apk">下载2</a> <a href="http://jw02.godns.work/iNTD_TV.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/iNTD_TV.apk">下载1</a> <a href="http://jw03.dnsnet.work/iNTD_TV.apk">下载2</a> <a href="http://jw02.godns.work/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
