@@ -9,18 +9,18 @@
 <a name="jwproxy"></a>
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击jwproxy.exe启动程序即可实现翻墙浏览了。) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击jwd.zip启动程序即可实现翻墙浏览了。) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
-      <strong><a href="http://jw01.greatdns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwd.zip">下载1</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://jw02.setdns.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/jwproxy.exe">下载2</a></strong>
+      <strong><a href="http://jw02.setdns.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/jwd.zip">下载2</a></strong>
     </li>
 
     <li>
-      <strong><a href="http://jw02.godns.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwproxy.exe">下载3</a></strong>
+      <strong><a href="http://jw02.godns.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwd.zip">下载3</a></strong>
     </li>
 
  <li>
@@ -40,10 +40,10 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a> <a href="http://jw02.setdns.work/jwproxy.exe">下载2</a> <a href="http://jw02.godns.work/jwproxy.exe">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw01.greatdns.info/jwd.zip">下载1</a> <a href="http://jw02.setdns.work/jwd.zip">下载2</a> <a href="http://jw02.godns.work/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/jwproxy.exe">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwproxy.exe">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwd.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/jwd.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwd.zip">下载3</a>
     </li> 
  <li>
       <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(完整版，含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/chromepac-with-chrome.zip">下载3</a>
