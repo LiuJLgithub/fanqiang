@@ -12,7 +12,7 @@
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击jwproxy.exe启动程序即可实现翻墙浏览了。) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
  <li>
-      <strong><a href="http://jw05.39dns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/jwproxy.exe">下载1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a></strong>
     </li>
 
     <li>
@@ -40,41 +40,41 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw05.39dns.info/jwproxy.exe">下载1</a> <a href="http://jw03.dnsnet.work/jwproxy.exe">下载2</a> <a href="http://jw02.godns.work/jwproxy.exe">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a> <a href="http://jw03.dnsnet.work/jwproxy.exe">下载2</a> <a href="http://jw02.godns.work/jwproxy.exe">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/jwproxy.exe">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/jwproxy.exe">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwproxy.exe">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwproxy.exe">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/jwproxy.exe">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jwproxy.exe">下载3</a>
     </li> 
  <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(完整版，含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/chromepac-with-chrome.zip">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(完整版，含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/chromepac-with-chrome.zip">下载3</a>
     </li> 
  
 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Chrome-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Chrome-Goagent.7z">下载3</a>
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/ChromeLT.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/ChromeLT.7z">下载3</a>
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Firefox-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Firefox-Goagent.7z">下载3</a>
     </li>    
  <li>
-      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/fg.zip">下载3</a>
+      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/fg.zip">下载3</a>
     </li> 
 
 
  <li>
-      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/u.zip">下载3</a>
+      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/u.zip">下载3</a>
     </li> 
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/firefly-proxy-win.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/firefly-proxy-win.7z">下载3</a>
     </li>
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/Tor-Browse-Windows-CN.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Tor-Browse-Windows-CN.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Tor-Browse-Windows-CN.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/Tor-Browse-Windows-CN.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/Tor-Browse-Windows-CN.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/Tor-Browse-Windows-CN.7z">下载3</a>
     </li>
 
   </ul>
@@ -85,18 +85,18 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合<a href="http://www.opera.com/mobile/operabrowser/android" target="_blank">Opera浏览器</a>使用。<a href="http://jw05.39dns.info/jwd.apk">下载1</a> <a href="http://jw03.dnsnet.work/jwd.apk">下载2</a> <a href="http://jw02.godns.work/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwa">https://git.io/jwa</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合<a href="http://www.opera.com/mobile/operabrowser/android" target="_blank">Opera浏览器</a>使用。<a href="http://jw01.greatdns.info/jwd.apk">下载1</a> <a href="http://jw03.dnsnet.work/jwd.apk">下载2</a> <a href="http://jw02.godns.work/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwa">https://git.io/jwa</a>
 
 </li>
 
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jinwen.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/jinwen.apk">下载3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/dweb.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/dweb.apk">下载3</a>
     </li>     
 
  <li>
@@ -104,15 +104,15 @@
     </li> 
 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/fg.apk">下载3</a>
+      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/fg.apk">下载3</a>
     </li> 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/u.apk">下载3</a>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.godns.work/u.apk">下载3</a>
     </li> 
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/iNTD_TV.apk">下载1</a> <a href="http://jw03.dnsnet.work/iNTD_TV.apk">下载2</a> <a href="http://jw02.godns.work/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/iNTD_TV.apk">下载1</a> <a href="http://jw03.dnsnet.work/iNTD_TV.apk">下载2</a> <a href="http://jw02.godns.work/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
@@ -124,7 +124,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.39dns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jwd.zip">下载1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.dnsnet.work/jwd.zip">下载2</a></strong>
@@ -140,7 +140,7 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
@@ -161,7 +161,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
@@ -176,7 +176,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
@@ -191,7 +191,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
@@ -206,7 +206,7 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw05.39dns.info/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
@@ -217,7 +217,7 @@
 
 
  <li>
-      <strong><a href="http://jw05.39dns.info/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
+      <strong><a href="http://jw01.greatdns.info/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
     </li>
     <li>
       <strong><a href="http://jw03.dnsnet.work/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
