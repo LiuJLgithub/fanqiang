@@ -89,6 +89,11 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览</a>(安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速访问绝大多数被墙网站。<a href="http://jw01.greatdns.info/JWBrowser.apk">下载1</a> <a href="http://jw02.setdns.work/JWBrowser.apk">下载2</a> <a href="http://jw06.39dns.info/JWBrowser.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+
+</li>
+
+<li>
       <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合<a href="http://www.opera.com/mobile/operabrowser/android" target="_blank">Opera浏览器</a>使用。<a href="http://jw01.greatdns.info/jwd.apk">下载1</a> <a href="http://jw02.setdns.work/jwd.apk">下载2</a> <a href="http://jw06.39dns.info/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwa">https://git.io/jwa</a>
 
 </li>
