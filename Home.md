@@ -89,15 +89,9 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览</a>(安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速访问绝大多数被墙网站。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="http://jw01.greatdns.info/JWBrowser.apk">下载1</a> <a href="http://jw02.setdns.work/JWBrowser.apk">下载2</a> <a href="http://jw06.39dns.info/JWBrowser.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速访问绝大多数被墙网站。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="http://jw01.greatdns.info/JWBrowser.apk">下载1</a> <a href="http://jw02.setdns.work/JWBrowser.apk">下载2</a> <a href="http://jw06.39dns.info/JWBrowser.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
-
-<li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/jwd.apk">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具APP,下载安装后打开即可极速访问绝大多数被墙网站，推荐配合<a href="http://www.opera.com/mobile/operabrowser/android" target="_blank">Opera浏览器</a>使用。<a href="http://jw01.greatdns.info/jwd.apk">下载1</a> <a href="http://jw02.setdns.work/jwd.apk">下载2</a> <a href="http://jw06.39dns.info/jwd.apk">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwa">https://git.io/jwa</a>
-
-</li>
-
 
  <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.greatdns.info/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.setdns.work/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw06.39dns.info/jinwen.apk">下载3</a>
