@@ -37,9 +37,6 @@
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft" target="_blank">更多下载地址</a></h3>
 </li>
 
-<li>
-文件名：chromepac.zip 文件大小：412,555 bytes  MD5：666ce4a3c8ee73aea640db0c5a8d4e7a
-</li>
 
 </ul>
 
