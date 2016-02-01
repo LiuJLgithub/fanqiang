@@ -11,7 +11,7 @@
 
 <ul>
 <li>
-<strong>2016年1月6日</strong> 更新到1.1版，增加IE和Edge调用功能，如果没有安装Chrome浏览器，程序会自动调用IE或Edge翻墙。</li>
+<strong>2016年1月6日</strong> 更新到1.8版，增加IE和Edge调用功能，如果没有安装Chrome浏览器，程序会自动调用IE或Edge翻墙。</li>
 </ul>
 
 
@@ -28,10 +28,10 @@
 
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft" target="_blank">下载地址</a></h3>
 <ul>
-<li>下载1： <a href="https://github.com/kgfw/fg/raw/master/jw/chromepac.zip" target="_blank">ChromePac轻便版</a>
+<li>下载1： <a href="https://github.com/kgfw/fg/raw/master/jw/chromepac.zip" target="_blank">ChromePac</a>
 </li>
 <li>
- 下载2:MEGA网盘下载:<a href="https://mega.nz/#!v4UEWJob!sWYjaqyY-wTjphgrx7Sl99GKp3dEwaDtEuojS4fhPCw" target="_blank">ChromePac轻便版</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31">点此</a></strong>查看。
+ 下载2:MEGA网盘下载:<a href="https://mega.nz/#!v4UEWJob!sWYjaqyY-wTjphgrx7Sl99GKp3dEwaDtEuojS4fhPCw" target="_blank">ChromePac</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://camo.githubusercontent.com/ae2b2eed84a93aa61d7adba2090332bd59b86452/68747470733a2f2f716e77626e712e626c333330312e6c69766566696c6573746f72652e636f6d2f79336d714d5953336f323447334a37614936316b544e323349566e54653578756e31357752306f6941496b7673633656483178723039486435335769446e4b6168316e7944547a3378555064395f716f4b4d6c6f73664e724d68306573794f76554342304246456644796c4a69766871794550354568754a613467745a4b3675613767364c366c307378656c4c46646a6473757333636942345962595a677a466a5050493734416f4d67485f38342f4d454741322e706e673f707369643d31">点此</a></strong>查看。
 </li>
 <li>
 <h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft" target="_blank">更多下载地址</a></h3>
