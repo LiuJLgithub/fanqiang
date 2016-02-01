@@ -51,13 +51,13 @@
     </li> 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/Chrome-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/ChromeLT.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/ChromeLT.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/ChromeLT.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a>：</strong> 
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/Firefox-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/Firefox-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/Firefox-Goagent.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a>：</strong> 
     </li>    
  <li>
       <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/fg.zip">下载3</a>
@@ -73,7 +73,7 @@
     </li>
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/Tor-Browse-Windows-CN.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/Tor-Browse-Windows-CN.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/Tor-Browse-Windows-CN.7z">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a>：</strong> 
     </li>
 
   </ul>
