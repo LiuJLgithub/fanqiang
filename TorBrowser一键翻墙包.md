@@ -12,8 +12,17 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 <ul class="task-list">
 
 
-<li><h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3></li>
-
+<h3>下载地址</h3>
+<blockquote>
+<ul class="task-list">
+<li>
+ <a href="https://mega.nz/#!zoshXboZ!ehMb2C_5d1VRI41F4eonR-OGTjomcdtaQ5hsUi1TKQ8" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+</li>
+<li>
+ <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
+</li>
+</ul>
+</blockquote>
 
 </ul>
 </blockquote>
