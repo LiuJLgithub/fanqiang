@@ -47,13 +47,8 @@
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw01.freedns.work/jwd.zip">下载1</a> <a href="http://jw03.setdns.work/jwd.zip">下载2</a> <a href="http://jw02.168dns.info/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(轻便版，不含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/jwd.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/jwd.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/jwd.zip">下载3</a>
+      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/jwd.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/jwd.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/jwd.zip">下载3</a>
     </li> 
- <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/ChromePac%E7%BF%BB%E5%A2%99" class="wiki-page-link">ChromePac翻墙</a>(完整版，含Chrome)：</strong>&nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/chromepac-with-chrome.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/chromepac-with-chrome.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/chromepac-with-chrome.zip">下载3</a>
-    </li> 
- 
-
  
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw01.freedns.work/Chrome-Goagent.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.setdns.work/Chrome-Goagent.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.168dns.info/Chrome-Goagent.7z">下载3</a>
