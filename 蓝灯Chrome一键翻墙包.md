@@ -12,9 +12,13 @@
 
 
 
-<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft">下载地址</a></h3>
+<h3>下载地址</h3>
 <ul>
-<li><b>校验信息：</b>文件名：ChromeLT.7z ， 文件大小：56,695,720 bytes   MD5：e0add16dba8ac14efa1f2eee92bd9e12
+<li>
+ <a href="https://mega.nz/#!20dHjCSS!UhvQ_bbBneXwh1Ty56pjgOC4JUK_7vaWNA3RgsLZuUg" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+</li>
+<li>
+ <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
 
 </ul>
