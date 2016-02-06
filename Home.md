@@ -1,6 +1,6 @@
 <h1><a href="#jwproxy">禁闻代理翻墙</a>、<a href="#to-dtw">动态网</a>、<a href="#to-wjw">无界网</a>、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 
-<h1>更新日志：2016年1月14日，禁闻代理升级到1.2版，解决部分杀毒软件误报问题。</h1> 
+<h1>更新日志：2016年2月3日，禁闻代理升级到1.9版，解决部分杀毒软件误报问题。</h1> 
 
 
 <h2>请记录收藏本网页网址</h2>
