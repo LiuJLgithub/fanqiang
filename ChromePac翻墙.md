@@ -30,7 +30,7 @@
 
 <h3>下载地址</h3>
 <ul>
-<li> ChromePac已经升级为禁闻代理，请下载<a href="https://github.com/bannedbook/fanqiang/wiki#jwproxy" target="_blank">禁闻代理。</a>
+<li> ChromePac已经升级为禁闻代理，请下载<a href="https://github.com/bannedbook/fanqiang/wiki#jwproxy" target="_blank">禁闻代理</a>
 </li>
 
 
