@@ -11,6 +11,8 @@
 
 <ul>
 <li>
+<strong>2016年2月12日</strong> ChromePac已经升级为<a href="https://github.com/bannedbook/fanqiang/wiki#jwproxy" target="_blank">禁闻代理</a></li>
+<li>
 <strong>2016年2月1日</strong> 更新到1.9版，增加IE和Edge调用功能，如果没有安装Chrome浏览器，程序会自动调用IE或Edge翻墙。</li>
 </ul>
 
