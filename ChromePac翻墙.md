@@ -26,7 +26,7 @@
 
 
 
-<h3><a href="https://github.com/bannedbook/fanqiang/wiki#fanqiangsoft" target="_blank">下载地址</a></h3>
+<h3>下载地址</h3>
 <ul>
 <li>下载1： <a href="https://github.com/kgfw/fg/raw/master/jw/chromepac.zip" target="_blank">ChromePac</a>
 </li>
