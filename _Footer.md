@@ -1,1 +1,1 @@
-如果下载地址失效，请发邮件至 freeman105@gmail.com 提醒我。
+意见反馈，请发邮件（请注明哪个软件或哪个链接）至 freeman105@gmail.com 。
