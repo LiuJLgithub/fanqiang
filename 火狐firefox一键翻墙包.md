@@ -26,7 +26,8 @@
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接：<a href="https://mega.nz/#!nhlXCTgJ!50HHpaUVtRX_6mJOaLthL_BMwzpTA1OhUFZEN4aZzAI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接：<a href="https://mega.nz/#!nhlXCTgJ!50HHpaUVtRX_6mJOaLthL_BMwzpTA1OhUFZEN4aZzAI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br>
+文件信息：md5：57d4b5685fa2ec36f1c7420057383967 ，文件大小：69,372,462 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
