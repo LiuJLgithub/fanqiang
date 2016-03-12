@@ -16,11 +16,11 @@
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击exe文件启动程序，然后点击“启动打开”按钮即可实现翻墙浏览了。) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
   <li>
-      <strong><a href="http://news02.svr1.ddns.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://news02.svr1.ddns.info/jwd.zip">下载1</a></strong>
+      <strong><a href="http://b02.baiduseo.work/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://news02.svr1.ddns.info/jwd.zip">下载1</a></strong>
     </li> 
     
     <li>
-      <strong><a href="http://news05.server1.ns01.info/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://news05.server1.ns01.info/jwd.zip">下载3</a></strong>
+      <strong><a href="http://news02.svr1.ddns.info/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://news05.server1.ns01.info/jwd.zip">下载3</a></strong>
     </li>  
         <li>
       <strong><a href="http://news04.server1.ns01.info/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://news04.server1.ns01.info/jwd.zip">下载2</a></strong>
