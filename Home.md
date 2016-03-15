@@ -97,7 +97,9 @@
  <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://news04.svr1.ddns.info/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://news05.svr1.ddns.info/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.baiduseo.work/dweb.apk">下载3</a>
     </li>     
-
+ <li>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="http://news04.svr1.ddns.info/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://news05.svr1.ddns.info/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.baiduseo.work/jw.apk">下载3</a>
+    </li> 
  <li>
       <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
     </li> 
