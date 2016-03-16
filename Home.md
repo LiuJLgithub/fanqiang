@@ -125,13 +125,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw08.wwwdns.work/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw08.wwwdns.work/jwd.zip">下载1</a></strong>
+      <strong><a href="http://jw08.wwwdns.work/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw08.wwwdns.work/jinwen.apk">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.webdns.work/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.webdns.work/jwd.zip">下载2</a></strong>
+      <strong><a href="http://jw07.webdns.work/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.webdns.work/jinwen.apk">下载2</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw03.baiduseo.work/1/" target="_blank">禁网新闻平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.baiduseo.work/jwd.zip">下载3</a></strong>
+      <strong><a href="http://jw03.baiduseo.work/1/" target="_blank">禁网新闻平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw03.baiduseo.work/jinwen.apk">下载3</a></strong>
     </li>
   </ul>
 </div>
