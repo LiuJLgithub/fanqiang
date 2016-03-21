@@ -4,6 +4,7 @@
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
 <ul class="task-list">
+<li><strong>2016年3月20日 </strong> 该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.</li>
 <li><strong>请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> <a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a></li>
 
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐非常好用的  <strong><a href="https://github.com/bannedbook/fanqiang/wiki"><strong>禁闻代理</strong>
