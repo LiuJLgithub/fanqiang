@@ -1,6 +1,6 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
-该程序暂时失效，，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.
+该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.<br>
 Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
