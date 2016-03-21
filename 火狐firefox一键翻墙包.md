@@ -1,11 +1,11 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年3月20日 </strong> 该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.</li>
+<li><strong>2016年3月20日 </strong> 更新ip</li>
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
 <ul class="task-list">
-<li><strong>2016年3月20日 </strong> 该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.</li>
+
 <li><strong>请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> <a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a></li>
 
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐非常好用的  <strong><a href="https://github.com/bannedbook/fanqiang/wiki"><strong>禁闻代理</strong>
@@ -18,7 +18,7 @@
 
 <ul class="task-list">
 
-<li><strong>2016年2月28日</strong> 更新ip，更新火狐内核。</li>
+<li><strong>2016年3月20日</strong> 更新ip</li>
 <li>核心程序是Firefox42.0+GoAgent3.1.2</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
 </ul>
@@ -28,12 +28,10 @@
 <blockquote>
 <ul class="task-list">
 <li>
-下载链接1：<a href="https://mega.nz/#!nhlXCTgJ!50HHpaUVtRX_6mJOaLthL_BMwzpTA1OhUFZEN4aZzAI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br>
-<li>
-下载链接2：<a target="_blank" href="https://www.dropbox.com/s/2g2dxkaubqdvd9o/Firefox-Goagent.7z?dl=0">dropbox网盘下载</a> 
-</li>
+下载链接1：<a href="https://mega.nz/#!GtNxhYpK!s2CiyjJNtIYQ_WfEW8jSI7cwM6THceVBJE3jZvU5G2w" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br>
 
-<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：57d4b5685fa2ec36f1c7420057383967 ，文件大小：69,372,462 bytes
+
+<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：ea277a373da41a6fca18efa9e25e4dbe ，文件大小：69,733,968 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
