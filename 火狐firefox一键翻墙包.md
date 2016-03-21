@@ -1,5 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
+<li><strong>2016年3月20日 </strong> 该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.</li>
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
