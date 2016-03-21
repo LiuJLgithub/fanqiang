@@ -1,10 +1,10 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
-<strong>2016年3月20日 </strong> 该程序暂时失效，推荐使用<a href="https://github.com/bannedbook/fanqiang/wiki">禁闻代理</a>.<br>
+
 Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2016年2月28日 </strong>  更新ip </li>
+<li><strong>2016年3月20日 </strong>  更新ip </li>
 <li>推荐更好用的翻墙软件：<strong><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好。</li>
 
 <li>内存低于2G的电脑建议用<a target="_blank"  href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
@@ -20,11 +20,9 @@ Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每
 <li>
  下载链接1：<a href="https://mega.nz/#!atUVUCAT!dou72MgH_zj4dTxdOIaukeVSYGovr2lrkqvOC2RNzeU" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
+
 <li>
- 下载链接2：<a href="https://www.dropbox.com/s/1s70v0at4zow8je/Chrome-Goagent.7z?dl=0" target="_blank">dropbox网盘下载</a>
-</li>
-<li>
- <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：108,646,368 bytes  MD5：c1de16cbd2104351a2901c25151b670b
+ <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：113,305,479 bytes  MD5：ba4df647788dcfc469000e585c1a09b4
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
