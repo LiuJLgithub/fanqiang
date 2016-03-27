@@ -17,6 +17,10 @@
 <li>
  <a href="https://mega.nz/#!rtk1wLba!7iXq66TU_Ne_eTXnRDCRuCo0lIgN9eHYO0Hdz05YBHg" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
+
+<li>
+ <a href="https://www.dropbox.com/s/0d0iw00vyj8wbvf/ChromeLT.7z?dl=0" target="_blank">dropbox下载</a>
+</li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
