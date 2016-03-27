@@ -28,9 +28,9 @@
 <blockquote>
 <ul class="task-list">
 <li>
-下载链接1：<a href="https://mega.nz/#!GtNxhYpK!s2CiyjJNtIYQ_WfEW8jSI7cwM6THceVBJE3jZvU5G2w" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br>
+下载链接1：<a href="https://mega.nz/#!GtNxhYpK!s2CiyjJNtIYQ_WfEW8jSI7cwM6THceVBJE3jZvU5G2w" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
-
+下载链接2：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox下载</a><br><br>
 <b>文件信息：</b>文件名：Firefox-Goagent.7z md5：ea277a373da41a6fca18efa9e25e4dbe ，文件大小：69,733,968 bytes
 </li>
 <li>
