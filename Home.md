@@ -121,17 +121,17 @@
   </ul>
 </div>
 
-<h2>禁网新闻平台、手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
+<h2>手机禁网平台、手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="http://jw02.usadns.info/1/" target="_blank">禁网新闻平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.usadns.info/jinwen.apk">下载1</a></strong>
+      <strong><a href="http://jw02.usadns.info/1/" target="_blank">手机禁网平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw02.usadns.info/jinwen.apk">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw05.bestdns.info/1/" target="_blank">禁网新闻平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.bestdns.info/jinwen.apk">下载2</a></strong>
+      <strong><a href="http://jw05.bestdns.info/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.bestdns.info/jinwen.apk">下载2</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw05.baiduseo.work/1/" target="_blank">禁网新闻平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.baiduseo.work/jinwen.apk">下载3</a></strong>
+      <strong><a href="http://jw05.baiduseo.work/1/" target="_blank">手机禁网平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw05.baiduseo.work/jinwen.apk">下载3</a></strong>
     </li>
   </ul>
 </div>
