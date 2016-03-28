@@ -22,7 +22,7 @@ Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每
 </li>
 
 <li>
- 下载链接2：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
 </li>
 
 <li>
