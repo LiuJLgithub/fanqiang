@@ -1,7 +1,7 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
 
-Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每天共享多G流量）
+Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
 <li><strong>2016年3月30日 </strong>  更新ip，更新chrome内核到v49 </li>
