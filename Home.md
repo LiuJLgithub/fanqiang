@@ -59,7 +59,12 @@
     </li>
 <li>
       <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 
-    </li>    
+    </li>  
+
+    <li>
+      <strong><a href="https://mega.nz/#!G9l2VQKS!GyM_A_oIxQ0V3eAyv7nw1E8ygvylbfU4fQjn-3X_vmw" class="wiki-page-link">chrome插件翻墙</a>，最新发布，欢迎试用</strong> 
+    </li>
+  
  <li>
       <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw04.usadns.info/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.zip">下载3</a>
     </li> 
@@ -69,9 +74,7 @@
       <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw04.usadns.info/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/u.zip">下载3</a>
     </li> 
 
-    <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%90%A4%E7%81%AB%E8%99%AB%E4%BB%A3%E7%90%86" class="wiki-page-link">萤火虫代理</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw04.usadns.info/firefly-proxy-win.7z">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/firefly-proxy-win.7z">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/firefly-proxy-win.7z">下载3</a>
-    </li>
+
 
     <li>
       <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 
