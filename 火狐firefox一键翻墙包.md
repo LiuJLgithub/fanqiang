@@ -18,7 +18,7 @@
 
 <ul class="task-list">
 
-<li><strong>2016年3月20日</strong> 更新ip</li>
+<li><strong>2016年3月30日</strong> 更新ip，如果你的软件仍然能用，就没必要下载。</li>
 <li>核心程序是Firefox42.0+GoAgent3.1.2</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
 </ul>
@@ -28,10 +28,10 @@
 <blockquote>
 <ul class="task-list">
 <li>
-下载链接1：<a href="https://mega.nz/#!GtNxhYpK!s2CiyjJNtIYQ_WfEW8jSI7cwM6THceVBJE3jZvU5G2w" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+下载链接1：<a href="https://mega.nz/#!fpNyUQCC!FMH6jlnwbjaK60_S6eKpRgr37ZIpgviie3OCn61dBAs" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
 下载链接22(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox下载</a><br><br>
-<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：ea277a373da41a6fca18efa9e25e4dbe ，文件大小：69,733,968 bytes
+<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：ea6f6cc8ce3a38eb563c43bd88579953 ，文件大小：69,963,348 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
