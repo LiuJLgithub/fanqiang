@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年3月20日 </strong> 更新ip</li>
+<li><strong>2016年3月30日</strong> 更新ip，如果你的软件仍然能用，就没必要下载。</li>
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
