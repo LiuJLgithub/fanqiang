@@ -18,7 +18,7 @@ Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="https://mega.nz/#!atUVUCAT!dou72MgH_zj4dTxdOIaukeVSYGovr2lrkqvOC2RNzeU" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接1：<a href="https://mega.nz/#!X9l2gKoT!Xqpj0upGQdJKeQxF9bCiFCX2Z9MpuUenLxAftHM_3_0" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 
 <li>
