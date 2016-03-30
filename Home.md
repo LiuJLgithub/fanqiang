@@ -23,7 +23,7 @@
       <strong><a href="http://jw07.baiduseo.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jwd.zip">下载3</a></strong>
     </li>  
         <li>
-      <strong><a href="http://jw07.bestdns.info/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/jwd.zip">下载2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jwd.zip">下载2</a></strong>
     </li>
     
 
@@ -47,7 +47,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw08.webdns.work/jwd.zip">下载1</a> <a href="http://jw07.bestdns.info/jwd.zip">下载2</a> <a href="http://jw07.baiduseo.work/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://jw08.webdns.work/jwd.zip">下载1</a> <a href="http://aa01.tttnew.com/jwd.zip">下载2</a> <a href="http://jw07.baiduseo.work/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
@@ -66,12 +66,12 @@
     </li>
   
  <li>
-      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.zip">下载3</a>
+      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.zip">下载3</a>
     </li> 
 
 
  <li>
-      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/u.zip">下载3</a>
+      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/u.zip">下载3</a>
     </li> 
 
 
@@ -88,35 +88,35 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="http://jw08.webdns.work/JWBrowser.apk">下载1</a> <a href="http://jw07.bestdns.info/JWBrowser.apk">下载2</a> <a href="http://jw07.baiduseo.work/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="http://jw08.webdns.work/JWBrowser.apk">下载1</a> <a href="http://aa01.tttnew.com/JWBrowser.apk">下载2</a> <a href="http://jw07.baiduseo.work/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jinwen.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jinwen.apk">下载3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/dweb.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/dweb.apk">下载3</a>
     </li>     
  <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
       <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
     </li> 
 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.apk">下载3</a>
+      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.apk">下载3</a>
     </li> 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/u.apk">下载3</a>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/u.apk">下载3</a>
     </li> 
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/iNTD_TV.apk">下载1</a> <a href="http://jw07.bestdns.info/iNTD_TV.apk">下载2</a> <a href="http://jw07.baiduseo.work/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/iNTD_TV.apk">下载1</a> <a href="http://aa01.tttnew.com/iNTD_TV.apk">下载2</a> <a href="http://jw07.baiduseo.work/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
@@ -131,7 +131,7 @@
       <strong><a href="http://jw08.webdns.work/1/" target="_blank">手机禁网平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jinwen.apk">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.bestdns.info/jinwen.apk">下载2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jinwen.apk">下载2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/1/" target="_blank">手机禁网平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jinwen.apk">下载3</a></strong>
@@ -147,16 +147,16 @@
       <strong><a href="http://jw08.webdns.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="http://jw07.bestdns.info/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="http://aa01.tttnew.com/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="http://jw07.bestdns.info/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="http://aa01.tttnew.com/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
@@ -168,7 +168,7 @@
       <strong><a href="http://jw08.webdns.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
@@ -183,7 +183,7 @@
       <strong><a href="http://jw08.webdns.work/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
@@ -198,7 +198,7 @@
       <strong><a href="http://jw08.webdns.work/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/31/" class="wiki-page-link" target="_blank">无界网-镜像3</a></strong>
@@ -213,7 +213,7 @@
       <strong><a href="http://jw08.webdns.work/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像3</a></strong>
@@ -224,7 +224,7 @@
       <strong><a href="http://jw08.webdns.work/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://jw07.bestdns.info/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
+      <strong><a href="http://aa01.tttnew.com/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
     </li>
     <li>
       <strong><a href="http://jw07.baiduseo.work/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像3</a></strong>
