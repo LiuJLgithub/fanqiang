@@ -26,7 +26,7 @@ Chrome一键翻墙包：核心程序是Chrome36(含升级包)+GoAgent3.2.3（每
 </li>
 
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：113,305,479 bytes  MD5：ba4df647788dcfc469000e585c1a09b4
+ <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：81,841,885 bytes  MD5：c636e83a48f74b40af3118d9ee838e57
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
