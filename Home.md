@@ -62,7 +62,7 @@
     </li>  
 
     <li>
-      <strong><a href="https://mega.nz/#!G9l2VQKS!GyM_A_oIxQ0V3eAyv7nw1E8ygvylbfU4fQjn-3X_vmw" class="wiki-page-link">chrome插件翻墙</a>，最新发布，欢迎试用</strong> 
+      <strong><a target="_blank" href="https://mega.nz/#!G9l2VQKS!GyM_A_oIxQ0V3eAyv7nw1E8ygvylbfU4fQjn-3X_vmw" class="wiki-page-link">chrome插件翻墙</a>，最新发布，欢迎试用</strong>,<a target="_blank" href="https://www.dropbox.com/s/wj832gp3nqwcr38/ChromeFQ.7z?dl=0" class="wiki-page-link">下载链接2</a>，<a  target="_blank" href="https://drive.google.com/file/d/0B9KkeZvZHMRvY185TDlITTVCNXM/view?usp=sharing" class="wiki-page-link">下载链接3</a>，
     </li>
   
  <li>
