@@ -24,6 +24,9 @@ Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多
 <li>
  下载链接2(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
 </li>
+<li>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvWk1vS2FZbkUxZWM/view?usp=sharing" target="_blank">Google网盘下载</a>
+</li>
 
 <li>
  <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：81,841,885 bytes  MD5：c636e83a48f74b40af3118d9ee838e57
