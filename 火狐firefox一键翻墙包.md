@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年3月30日</strong> 更新ip，如果你的软件仍然能用，就没必要下载。</li>
+<li><strong>2016年4月1日</strong>优化更新，更新ip，如果你的软件仍然能用，就没必要下载。</li>
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
 
@@ -28,10 +28,13 @@
 <blockquote>
 <ul class="task-list">
 <li>
-下载链接1：<a href="https://mega.nz/#!fpNyUQCC!FMH6jlnwbjaK60_S6eKpRgr37ZIpgviie3OCn61dBAs" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+下载链接1：<a href="https://mega.nz/#!H9EFUDQA!zeC-vKRsFdLPji28W-S9utoTw_nwelmhJWYc3iz1qPI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
-下载链接22(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox下载</a><br><br>
-<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：ea6f6cc8ce3a38eb563c43bd88579953 ，文件大小：69,963,348 bytes
+下载链接2(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox网盘下载</a><br><br>
+
+下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvOEFCcXdVeE5OVTA/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
+
+<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：96929ea47e99412cd42dfc2fb22a11ac ，文件大小：72,360,017 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
