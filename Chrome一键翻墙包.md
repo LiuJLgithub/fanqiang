@@ -4,7 +4,7 @@
 Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2016年3月30日 </strong>  更新ip，更新chrome内核到v49 </li>
+<li><strong>2016年4月1日 </strong>  更新ip，更新chrome内核到v49，如果你的程序仍然正常翻墙，可以不必更新下载。 </li>
 <li>推荐更好用的翻墙软件：<strong><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好。</li>
 
 <li>内存低于2G的电脑建议用<a target="_blank"  href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
@@ -18,7 +18,7 @@ Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="https://mega.nz/#!X9l2gKoT!Xqpj0upGQdJKeQxF9bCiFCX2Z9MpuUenLxAftHM_3_0" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接1：<a href="https://mega.nz/#!Tt0xXQ6Z!IFwkgtjyVbWd6L1MPo2UiOjz6NvBQqnd-iXnA4Z3C7M" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 
 <li>
@@ -29,7 +29,7 @@ Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多
 </li>
 
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：81,841,885 bytes  MD5：c636e83a48f74b40af3118d9ee838e57
+ <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：84,238,629 bytes  MD5：3e55e7b29e0191de55d34040e7adee30
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
