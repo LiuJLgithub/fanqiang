@@ -27,7 +27,7 @@
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvb3p1Y0JoN0VHWlE/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
-<li>**文件信息：**   ChromeLT.7z，81,894,153 bytes，MD5：c91a1580a6a288a020d43c6103f94cef
+<li><b>文件信息：</b>  ChromeLT.7z，81,894,153 bytes，MD5：c91a1580a6a288a020d43c6103f94cef
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
