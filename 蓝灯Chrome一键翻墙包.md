@@ -17,7 +17,7 @@
 <h3>下载地址</h3>
 <ul>
 <li>
- 下载链接1：<a href="https://mega.nz/#!HsVBCBCa!d54V81Sp0-GwVef7vO8qGAY5Dy7LV5UGI3x19AKIef8" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接1：<a href="https://mega.nz/#!7h82UAzJ!jlGyhb8m6BjM4GM6EKXsaaKiA60LNP5ufIWbtBAZ0RI" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 
 <li>
