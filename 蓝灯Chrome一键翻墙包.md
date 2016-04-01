@@ -4,7 +4,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
 
 <ul>
-<li><b>2016年04月1日</b>优化蓝灯,更新Chrome内核到最新版v49。
+<li><b>2016年04月1日</b>优化蓝灯,更新Chrome内核到最新版v49，速度超快。
 </li>
 <li><b>2016年03月24日</b>更新和优化蓝灯，速度明显加快。
 </li>
