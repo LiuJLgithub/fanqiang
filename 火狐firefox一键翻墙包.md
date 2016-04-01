@@ -18,7 +18,7 @@
 
 <ul class="task-list">
 
-<li><strong>2016年3月30日</strong> 更新ip，如果你的软件仍然能用，就没必要下载。</li>
+
 <li>核心程序是Firefox42.0+GoAgent3.1.2</li>
 <li>请从下面的下载地址下载完整的压缩包，本软件不需要安装，下载后将压缩包解压出来，解压路径中最好不要包含中文，然后双击运行<strong>FFgo.exe</strong>就可以同时启动代理软件和浏览器。（Win7系统需要右键点击FFgo.exe，然后再点<strong>“以管理员身份运行”</strong>）</li>
 </ul>
