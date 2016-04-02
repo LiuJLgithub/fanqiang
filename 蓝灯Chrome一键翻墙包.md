@@ -1,4 +1,5 @@
 # 蓝灯Chrome一键翻墙包
+<b>软件正在更新,请暂勿下载,可先下载firefox一键翻墙包.</b><br>
 <h3>
 
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
