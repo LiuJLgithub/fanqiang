@@ -1,11 +1,11 @@
 # 蓝灯Chrome一键翻墙包
-<b>软件正在更新,请暂勿下载,可先下载firefox一键翻墙包.</b><br>
+
 <h3>
 
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
 
 <ul>
-<li><b>2016年04月1日</b>优化蓝灯,更新Chrome内核到最新版v49，速度超快。
+<li><b>2016年04月1日</b>优化蓝灯，速度超快。
 </li>
 <li><b>2016年03月24日</b>更新和优化蓝灯，速度明显加快。
 </li>
@@ -26,9 +26,9 @@
 </li>
 
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvb3p1Y0JoN0VHWlE/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvSVJNa0ZOc0VXbWs/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
-<li><b>文件信息：</b>  ChromeLT.7z，81,894,153 bytes，MD5：c91a1580a6a288a020d43c6103f94cef
+<li><b>文件信息：</b>  ChromeLT.7z，6,532,121 bytes，MD5：11e801488beffd7c29a742478922fa43
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
