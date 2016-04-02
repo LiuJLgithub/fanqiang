@@ -15,7 +15,7 @@
 
 
 
-<h3>下载地址</h3>
+<h3>下载地址(下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
 <li>
  下载链接1：<a href="https://mega.nz/#!WpEhSArC!AIvdunWRUibTx6LzEpiislqitYt4xSajIK6odBiIg48" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
