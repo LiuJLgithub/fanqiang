@@ -1,6 +1,6 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
-
+软件稍候更新,请暂勿下载,可先下载firefox一键翻墙包.
 Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
