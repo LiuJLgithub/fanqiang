@@ -61,9 +61,7 @@
       <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 
     </li>  
 
-    <li>
-      <strong><a target="_blank" href="https://mega.nz/#!G9l2VQKS!GyM_A_oIxQ0V3eAyv7nw1E8ygvylbfU4fQjn-3X_vmw" class="wiki-page-link">chrome插件翻墙</a>，最新发布，欢迎试用</strong>,<a target="_blank" href="https://www.dropbox.com/s/wj832gp3nqwcr38/ChromeFQ.7z?dl=0" class="wiki-page-link">下载链接2</a>，<a  target="_blank" href="https://drive.google.com/file/d/0B9KkeZvZHMRvY185TDlITTVCNXM/view?usp=sharing" class="wiki-page-link">下载链接3</a>，
-    </li>
+
   
  <li>
       <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/fg.zip">下载3</a>
