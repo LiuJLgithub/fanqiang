@@ -18,7 +18,7 @@ Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1dEUvNtJ" target="_blank">下载链接1</a>,下载密码:vm5b
+ 下载链接1：
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!Tt0xXQ6Z!IFwkgtjyVbWd6L1MPo2UiOjz6NvBQqnd-iXnA4Z3C7M" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
