@@ -28,11 +28,14 @@
 <blockquote>
 <ul class="task-list">
 <li>
-<b>下载链接1</b>：<a href="https://mega.nz/#!H9EFUDQA!zeC-vKRsFdLPji28W-S9utoTw_nwelmhJWYc3iz1qPI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
-<b>下载链接2</b>(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox网盘下载</a><br><br>
+<b>下载链接</b>(极速下载)：<a href="http://pan.baidu.com/s/1eSArnAa" target="_blank">网盘下载</a>,下载密码:rin7<br><br>
 
-<b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvOEFCcXdVeE5OVTA/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
+<b>下载链接2</b>：<a href="https://mega.nz/#!H9EFUDQA!zeC-vKRsFdLPji28W-S9utoTw_nwelmhJWYc3iz1qPI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+
+<b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/5wxoz7qysqa8xql/Firefox-Goagent.7z?dl=0" target="_blank">dropbox网盘下载</a><br><br>
+
+<b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvOEFCcXdVeE5OVTA/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
 <b>文件信息：</b>文件名：Firefox-Goagent.7z md5：96929ea47e99412cd42dfc2fb22a11ac ，文件大小：72,360,017 bytes
 </li>
