@@ -29,7 +29,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接</b>(极速下载)：<a href="http://pan.baidu.com/s/1eSArnAa" target="_blank">网盘下载</a>,下载密码:rin7<br><br>
+<b>下载链接1</b>(极速下载)：<a href="http://pan.baidu.com/s/1eSArnAa" target="_blank">网盘下载</a>,下载密码:rin7<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!H9EFUDQA!zeC-vKRsFdLPji28W-S9utoTw_nwelmhJWYc3iz1qPI" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
