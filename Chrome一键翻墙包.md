@@ -1,10 +1,10 @@
 <div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
-<b>软件正在更新,请暂勿下载,可先下载firefox一键翻墙包.</b><br>
-Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多G流量）
+
+Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2016年4月1日 </strong>  更新ip，更新chrome内核到v49，如果你的程序仍然正常翻墙，可以不必更新下载。 </li>
+<li><strong>2016年4月2日 </strong>  更新ip，如果你的程序仍然正常翻墙，可以不必更新下载。 </li>
 <li>推荐更好用的翻墙软件：<strong><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好。</li>
 
 <li>内存低于2G的电脑建议用<a target="_blank"  href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐版（这里）</a>。</li>
@@ -32,7 +32,7 @@ Chrome一键翻墙包：核心程序是Chrome-v49+GoAgent3.2.3（每天共享多
 </li>
 
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：84,238,629 bytes  MD5：3e55e7b29e0191de55d34040e7adee30
+ <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：10,496,206 bytes  MD5：12104b924d97d7f798dd21e9aff23b9f
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
