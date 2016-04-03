@@ -6,7 +6,7 @@
 
 <ul>
 
-<li><b>2016年4月2日</b>更新和优化蓝灯，压缩包不再包含Chrome程序，需自行下载安装Chrome。
+<li><b>2016年4月2日</b>更新和优化压缩包，不再包含Chrome程序，需自行下载安装Chrome（解决Chrome的更新问题）,如果老版本能够正常翻墙，可不必下载。
 </li>
 <li>有问题请发邮件到<a href="mailto:freeman105@gmail.com">freeman105@gmail.com</a>,反馈邮件请注明“蓝灯版”。</li>
 </ul>
@@ -16,16 +16,20 @@
 
 <h3>下载地址(下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
+
 <li>
- 下载链接1：<a href="https://mega.nz/#!WpEhSArC!AIvdunWRUibTx6LzEpiislqitYt4xSajIK6odBiIg48" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接1：<a href="http://pan.baidu.com/s/1mixTKz2" target="_blank">网盘下载</a>,下载密码：e53q
+</li>
+<li>
+ 下载链接2：<a href="https://mega.nz/#!WpEhSArC!AIvdunWRUibTx6LzEpiislqitYt4xSajIK6odBiIg48" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 
 <li>
- 下载链接2(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/0d0iw00vyj8wbvf/ChromeLT.7z?dl=0" target="_blank">dropbox网盘下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/0d0iw00vyj8wbvf/ChromeLT.7z?dl=0" target="_blank">dropbox网盘下载</a>
 </li>
 
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvSVJNa0ZOc0VXbWs/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接4(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvSVJNa0ZOc0VXbWs/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li><b>文件信息：</b>  ChromeLT.7z，6,532,121 bytes，MD5：11e801488beffd7c29a742478922fa43
 <li>
