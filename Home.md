@@ -15,6 +15,10 @@
 <li>
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击exe文件启动程序，然后点击“启动打开”按钮即可实现翻墙浏览了。文件信息：jwd.zip 文件大小：312,102 bytes，MD5：28f157764cc93fa2dab7763037e06fa4) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
+
+ <li>
+      <strong><a href="http://aa01.tttnew.com/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jwd.zip">下载2</a></strong>
+    </li>
   <li>
       <strong><a href="http://jw08.webdns.work/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://jw08.webdns.work/jwd.zip">下载1</a></strong>
     </li> 
@@ -22,9 +26,7 @@
     <li>
       <strong><a href="http://jw07.baiduseo.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://jw07.baiduseo.work/jwd.zip">下载3</a></strong>
     </li>  
-        <li>
-      <strong><a href="http://aa01.tttnew.com/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://aa01.tttnew.com/jwd.zip">下载2</a></strong>
-    </li>
+       
     
 
 
