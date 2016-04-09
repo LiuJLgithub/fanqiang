@@ -5,7 +5,8 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
 
 <ul>
-
+<li><b>2016年4月9日</b>更新蓝灯，解决翻墙失败问题。
+</li>
 <li><b>2016年4月2日</b>更新和优化压缩包，不再包含Chrome程序，需自行下载安装Chrome（解决Chrome的更新问题）,如果老版本能够正常翻墙，可不必下载。
 </li>
 <li>有问题请发邮件到<a href="mailto:freeman105@gmail.com">freeman105@gmail.com</a>,反馈邮件请注明“蓝灯版”。</li>
