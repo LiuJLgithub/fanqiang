@@ -29,7 +29,7 @@
 </li>
 
 <li>
- 下载链接4(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvSVJNa0ZOc0VXbWs/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接4(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvNEpfZ2Fma2Q5UG8/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li><b>文件信息：</b>  ChromeLT.7z，6,532,121 bytes，MD5：11e801488beffd7c29a742478922fa43
 <li>
