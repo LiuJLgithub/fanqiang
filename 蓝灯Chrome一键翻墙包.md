@@ -18,9 +18,7 @@
 <h3>下载地址(下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
 
-<li>
- 下载链接1：<a href="http://pan.baidu.com/s/1i54fMBF" target="_blank">网盘下载</a>,下载密码：s9uc
-</li>
+
 <li>
  下载链接2：<a href="https://mega.nz/#!X1EXHZjA!R6BM1tEcZ-wWFmeHbxLl3iEVIz6onwU-dxvoBgSDPWM" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
