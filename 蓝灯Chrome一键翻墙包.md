@@ -30,6 +30,10 @@
 <li>
  下载链接4(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvU0dsY2pxT296UkE/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
+
+<li>
+ 下载链接1：<a href="http://pan.baidu.com/s/1i54fMBF" target="_blank">网盘下载</a>,下载密码：s9uc
+</li>
 <li><b>文件信息：</b> 
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
