@@ -17,17 +17,12 @@
   <li>
       <strong><a href="http://zzz.dnscity.info/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.dnscity.info/jwd.zip">下载1</a></strong>
     </li> 
-    
+   <li>
+      <strong><a href="http://zzy.dnsnet.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://zzy.dnsnet.work/jwd.zip">下载2</a></strong>
+    </li>       
     <li>
       <strong><a href="http://zzy.baiduseo.work/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://zzy.baiduseo.work/jwd.zip">下载3</a></strong>
     </li>  
-   <li>
-      <strong><a href="http://zzy.dnsnet.work/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://zzy.dnsnet.work/jwd.zip">下载2</a></strong>
-    </li>     
-    
-
-
-
 
  <li>
  <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" /> <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
