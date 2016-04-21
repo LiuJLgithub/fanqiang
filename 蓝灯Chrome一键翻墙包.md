@@ -1,5 +1,5 @@
 # 蓝灯Chrome一键翻墙包
-
+**简介：**使用蓝灯和Google chrome翻墙，不修改系统的代理设置，不影响其它软件上网。
 <h3>
 
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
