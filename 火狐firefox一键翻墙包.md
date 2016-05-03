@@ -37,7 +37,7 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvUTFNcE5WYnFXSXc/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：96929ea47e99412cd42dfc2fb22a11ac ，文件大小：72,360,017 bytes
+<b>文件信息：</b>文件名：Firefox-Goagent.7z md5：5cc9a1303e3220489d17d9d97df5aab8 ，文件大小：73,006,641 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
