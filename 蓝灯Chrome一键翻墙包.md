@@ -22,7 +22,7 @@
 </li>
 
 <li>
- 下载链接2：<a href="https://mega.nz/#!X1EXHZjA!R6BM1tEcZ-wWFmeHbxLl3iEVIz6onwU-dxvoBgSDPWM" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!ipEH2IKJ!7ELJL3LPJBMB9mKKTq8yeSfdrhgDpf9cZoB6qBUxiFQ" target="_blank">MEGA网盘下载</a>； 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 
 <li>
