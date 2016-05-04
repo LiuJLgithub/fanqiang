@@ -34,7 +34,7 @@
 </li>
 
 
-<li><b>文件信息：大小：6,535,881 bytes  ，md5：4a51c5c777b623f5fa95034d8d2eb23a</b> 
+<li><b>文件信息：大小：6,489,914 bytes ，md5：2e717297c2b1a82a04ca799a864941e4</b> 
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
