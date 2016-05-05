@@ -18,7 +18,7 @@
 <h3>下载地址(下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
 <li>
- 下载链接1：<a href="http://zzu.dnsco.xyz/ChromeLT.7z" target="_blank">网盘下载</a>,下载密码：fpqf
+ 下载链接1：<a href="http://pan.baidu.com/s/1mihaqsK" target="_blank">网盘下载</a>,下载密码：ceuj
 </li>
 
 <li>
