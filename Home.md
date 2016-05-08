@@ -101,6 +101,9 @@
       <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="http://zzr.dnscity.info/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzx.infodns.xyz/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://zzt.dnsco.xyz/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
+      <strong>网门安卓版：</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
+    </li> 
+ <li>
       <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
     </li> 
 
