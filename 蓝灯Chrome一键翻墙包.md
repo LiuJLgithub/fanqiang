@@ -5,6 +5,7 @@
 <a id="user-content-说明" class="anchor" href="#%E8%AF%B4%E6%98%8E" aria-hidden="true"><span class="octicon octicon-link"></span></a>更新日志：</h3>
 
 <ul>
+<li><b>2016年5月12日</b>发布包含Chrome的绿色完整版，采用最新版Chrome，不支持XP。
 <li><b>2016年5月4日</b>更新蓝灯。
 </li>
 <li><b>2016年4月2日</b>更新和优化压缩包，不再包含Chrome程序，需自行下载安装Chrome（解决Chrome的更新问题）,如果老版本能够正常翻墙，可不必下载。
