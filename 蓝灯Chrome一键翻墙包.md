@@ -50,7 +50,7 @@
 </li>
 
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="#" target="_blank">dropbox网盘下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/nyxnw60xu0vxl2f/ChromeLT-G.7z?dl=0" target="_blank">dropbox网盘下载</a>
 </li>
 
 <li>
