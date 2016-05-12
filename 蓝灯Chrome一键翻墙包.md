@@ -43,7 +43,7 @@
 <h3>完整版下载地址(已包含Chrome绿色版，下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
 <li>
- 下载链接1：<a href="#" target="_blank">网盘下载</a>,下载密码：ceuj
+ 下载链接1：<a href="http://zzs.dnsco.xyz/ChromeLT-G.7z" target="_blank">网盘下载</a>,下载密码：ceuj
 </li>
 
 <li>
