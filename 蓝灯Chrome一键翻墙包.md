@@ -12,7 +12,7 @@
 <li>有问题请发邮件到<a href="mailto:freeman105@gmail.com">freeman105@gmail.com</a>,反馈邮件请注明“蓝灯版”。</li>
 </ul>
 
-<h3>轻便版下载地址(需自行下载安装Chrome，下载解压后请务必阅读其中的使用说明文档)</h3>
+<h3>轻便版下载地址(适合已安装chrome的网友，如果还没安装chrome，需自行下载安装Chrome，下载解压后请务必阅读其中的使用说明文档)</h3>
 <ul>
 <li>
  下载链接1：<a href="http://pan.baidu.com/s/1mihaqsK" target="_blank">网盘下载</a>,下载密码：ceuj
