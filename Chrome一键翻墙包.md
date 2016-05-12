@@ -41,7 +41,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </blockquote>
 
 
-<h3>完整版下载地址(下载后请务必阅读其中的使用说明文档)</h3>
+<h3>完整版下载地址</h3>完整版已包含Chrome绿色版，下载解压后请务必阅读其中的使用说明文档。
 <blockquote>
 <ul class="task-list">
 <li>
