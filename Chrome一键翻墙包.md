@@ -37,14 +37,35 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
 </li>
-<li>
-<strong>特别提示：</strong>新版包含了更新程序wget.exe，金山毒霸和QQ电脑管家可能会认为它不安全，继而拦截下载，所以使用金山毒霸或者QQ电脑管家的朋友需要先关闭杀毒软件才能下载。wget.exe这个程序在多引擎病毒扫描网<a href="https://www.virustotal.com/">VirusTotal</a>的分析结果你可以<a href="https://www.virustotal.com/zh-cn/file/cf8a9b5db43dd4820ea28e10786f3fac00cf294f793ead1aef86de75246f4495/analysis/">点这里</a>查看。检出率：1/56，只有金山毒霸的引擎认为它不安全，如果你仍然不放心，那就删除解压后的ip_id_Update文件夹。然后你就只能使用手动更新ip和流量了。
-</li>
-
-
 </ul>
 </blockquote>
 
+
+<h3>完整版下载地址(下载后请务必阅读其中的使用说明文档)</h3>
+<blockquote>
+<ul class="task-list">
+<li>
+ 下载链接1：<a href="#" target="_blank">网盘下载</a>，下载密码：4c9c
+</li>
+<li>
+ 下载链接2：<a href="https://mega.nz/#!eldgAIaB!4DoqB5FgyXSC-P1l3UzO9S4OOALE1pT3Rgra_BvgZl4" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+</li>
+
+<li>
+ 下载链接3(已墙，需翻墙下载)：<a href="" target="_blank">dropbox下载</a>
+</li>
+<li>
+ 下载链接4(已墙，需翻墙下载)：<a href="" target="_blank">Google网盘下载</a>
+</li>
+
+<li>
+ <b>文件信息：</b>文件名：Chrome-Goagent-G.7z  ，文件大小：53,715,524 bytes  MD5：5f5df35d4e45892912d1bd4239f61c35
+</li>
+<li>
+ <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
+</li>
+</ul>
+</blockquote>
 
 <h4>注意事项：</h4>
 <ul class="task-list">
