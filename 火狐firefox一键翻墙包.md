@@ -33,9 +33,9 @@
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!mlEEEQQK!73mijDgZdEyu2yFiEO2QOVKGJXNRmxdgJzL-KrnVbp4" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
-<b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/7uhfq16o9rhw9ic/FirefoxFQ.7z?dl=0" target="_blank">dropbox网盘下载</a><br><br>
+<b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
+<b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/7uhfq16o9rhw9ic/FirefoxFQ.7z?dl=0" target="_blank">dropbox网盘下载</a><br><br>
 
 <b>文件信息：</b>文件名：FirefoxFQ.7z md5：f717db095c73f8ebbb7bd34154aa0232 ，文件大小：78,686,345 bytes
 </li>
