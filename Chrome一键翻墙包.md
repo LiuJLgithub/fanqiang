@@ -42,7 +42,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </blockquote>
 
 
-<h3>完整版下载地址</h3>完整版已包含Chrome绿色版，下载解压后请务必阅读其中的使用说明文档。
+<h3>完整版下载地址</h3>完整版已包含Chrome绿色版器版本 50.0.2661.102,支持win7以上操作系统，不支持xp。下载解压后请务必阅读其中的使用说明文档。
 <blockquote>
 <ul class="task-list">
 <li>
@@ -78,11 +78,11 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接2：<a href="https://mega.nz/#!v18HzSII!1sxUBmqXebtvvaYhrAwocdKbRCOAOVwzaA0-GBji8rQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ3pzWDMxLUg4NkU/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent-G.7z  ，文件大小：53,715,524 bytes  MD5：5f5df35d4e45892912d1bd4239f61c35
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：57,903,057 bytes  MD5：ac769f5137455022f74778c9c337a06c
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
