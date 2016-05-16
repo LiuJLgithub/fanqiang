@@ -68,6 +68,28 @@ Chrome一键翻墙包（每天共享多G流量）
 </ul>
 </blockquote>
 
+<h3>Chrome一键翻墙包for Windows XP下载地址</h3>Google Chrome 版本50之后不再支持XP，这个是打包的支持XP的最高版本Chrome49.0.2623.112翻墙包，包括Goagent和蓝灯翻墙软件，哪个好用用哪个。
+<blockquote>
+<ul class="task-list">
+<li>
+ 下载链接1：<a href="#" target="_blank">网盘下载</a>，下载密码：c3ed
+</li>
+<li>
+ 下载链接2：<a href="https://mega.nz/#!v18HzSII!1sxUBmqXebtvvaYhrAwocdKbRCOAOVwzaA0-GBji8rQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+</li>
+<li>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ3pzWDMxLUg4NkU/view?usp=sharing" target="_blank">Google网盘下载</a>
+</li>
+
+<li>
+ <b>文件信息：</b>文件名：Chrome-Goagent-G.7z  ，文件大小：53,715,524 bytes  MD5：5f5df35d4e45892912d1bd4239f61c35
+</li>
+<li>
+ <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
+</li>
+</ul>
+</blockquote>
+
 <h4>注意事项：</h4>
 <ul class="task-list">
 	<li>需要<strong>以管理员身份运行</strong>Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
