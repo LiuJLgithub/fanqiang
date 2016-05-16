@@ -72,7 +72,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="#" target="_blank">网盘下载</a>，下载密码：c3ed
+ 下载链接1：<a href="#" target="_blank">网盘下载(暂缺)</a>，下载密码：c3ed
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!v18HzSII!1sxUBmqXebtvvaYhrAwocdKbRCOAOVwzaA0-GBji8rQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
