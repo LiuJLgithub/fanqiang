@@ -67,7 +67,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 </ul>
 </blockquote>
-
+<a name="ChromeGo-XP"></a>
 <h3>Chrome一键翻墙包for Windows XP下载地址</h3>Google Chrome 版本50之后不再支持XP，这个是打包的支持XP的最高版本Chrome49.0.2623.112翻墙包，包括Goagent和蓝灯翻墙软件，哪个好用用哪个。
 <blockquote>
 <ul class="task-list">
