@@ -58,7 +58,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接4(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/c2tr90x89ia52af/Chrome-Goagent-G.7z?dl=0" target="_blank">dropbox下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent-G.7z  ，文件大小：53,715,524 bytes  MD5：5f5df35d4e45892912d1bd4239f61c35
+ <b>文件信息：</b>文件名： ，文件大小：
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
