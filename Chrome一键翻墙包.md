@@ -24,16 +24,14 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>
  下载链接2：<a href="https://mega.nz/#!ihNEXLYL!fS_GtaE6K9z_aj8T9lHLle4sms55cDwufhY30E34zb8" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
-
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- 下载链接4(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvTlZHSlgwbF9lVGc/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接4(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
 </li>
-
 <li>
- <b>文件信息：</b>文件名：Chrome-Goagent.7z  ，文件大小：10,496,206 bytes  MD5：12104b924d97d7f798dd21e9aff23b9f
+ <b>文件信息：</b>文件名：  ，文件大小：
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
