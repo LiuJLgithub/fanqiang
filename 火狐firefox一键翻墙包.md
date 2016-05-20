@@ -33,7 +33,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接1</b>(极速下载)：<a href="http://pan.baidu.com/s/1pLaiVwR" target="_blank">网盘下载</a>,下载密码:etpc<br><br>
+<b>下载链接1</b>(不含蓝灯)：<a href="http://pan.baidu.com/s/1pLaiVwR" target="_blank">网盘下载</a>,下载密码:etpc<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!mlEEEQQK!73mijDgZdEyu2yFiEO2QOVKGJXNRmxdgJzL-KrnVbp4" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
