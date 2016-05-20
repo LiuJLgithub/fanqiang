@@ -86,7 +86,7 @@ Chrome一键翻墙包（每天共享多G流量）
 
 <h4>注意事项：</h4>
 <ul class="task-list">
-	<li>需要<strong>以管理员身份运行</strong>Chrome+.exe才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
+	<li>需要<strong>以管理员身份运行</strong>  GoAgent翻墙.cmd  才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
 </ul>
 <h4><a href="https://github.com/comeforu2012/FQ_FAQ/wiki">常见问题：</a></h4>
 <ol class="task-list">
