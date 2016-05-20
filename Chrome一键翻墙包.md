@@ -28,9 +28,6 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- 下载链接4(已墙，需翻墙下载)：<a href="https://www.dropbox.com/s/me80qfc0efhqn43/Chrome-Goagent.7z?dl=0" target="_blank">dropbox下载</a>
-</li>
-<li>
  <b>文件信息：</b>文件名：  ，文件大小：
 </li>
 <li>
