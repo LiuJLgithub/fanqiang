@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。（注意：下载链接1仍为上一次发布版本。）</li>
+<li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
 <li><strong>2016年5月3日</strong> 更新goagent，如果你的软件仍然能用，就没必要下载。</li>
 <h3>
 <a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
@@ -33,7 +33,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接1</b>(不含蓝灯)：<a href="http://pan.baidu.com/s/1pLaiVwR" target="_blank">网盘下载</a>,下载密码:etpc<br><br>
+<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1i45n9lj" target="_blank">网盘下载</a>,下载密码:guaf<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!mlEEEQQK!73mijDgZdEyu2yFiEO2QOVKGJXNRmxdgJzL-KrnVbp4" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
