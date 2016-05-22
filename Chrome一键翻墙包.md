@@ -54,7 +54,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接4：<a href="http://zdown.baiduseo.work/ChromeGo.7z" target="_blank">ChromeGo.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名： ，文件大小：
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：58,147,858 bytes  MD5:2718c2fe7b1ebb67fd9e434dad59addc
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
