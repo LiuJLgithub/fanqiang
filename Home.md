@@ -15,16 +15,16 @@
 
 
   <li>
-      <strong><a href="http://zzz.goforhealth.xyz/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.goforhealth.xyz/jwd.zip">下载1</a></strong>
+      <strong><a href="http://zzz.infoonhealth.xyz/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.goforhealth.xyz/jwd.zip">下载1</a></strong>
     </li> 
     
  
    <li>
-      <strong><a href="http://zzz.infoonhealth.xyz/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.infoonhealth.xyz/jwd.zip">下载2</a></strong>
+      <strong><a href="http://zzz.comhealth.xyz/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.infoonhealth.xyz/jwd.zip">下载2</a></strong>
     </li>     
     
     <li>
-      <strong><a href="http://zzz.comhealth.xyz/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.comhealth.xyz/jwd.zip">下载3</a></strong>
+      <strong><a href="http://zzz.goforhealth.xyz/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.comhealth.xyz/jwd.zip">下载3</a></strong>
     </li> 
 
 
