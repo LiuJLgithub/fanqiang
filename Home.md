@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/attation.jpg" /><br/>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
-<br>本页短网址：https://git.io/jww
+<br>本页短网址：https://git.io/jww  https://x.co/bnews
 
 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
