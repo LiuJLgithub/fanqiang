@@ -65,7 +65,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1boEnq7l" target="_blank">ChromeGo-XP.7z</a>，下载密码：xpyv
+ 下载链接1：<a href="" target="_blank">暂缺</a>，下载密码：xpyv
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!D08AUTgA!gnXYp_fiyf63XObP4Xkn-QEplHtgMMfyd7wuJ_LhKMM" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
