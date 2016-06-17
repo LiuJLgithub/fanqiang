@@ -41,10 +41,10 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1jILaPp0" target="_blank">网盘下载</a>，下载密码：j15v
+ 下载链接1：<a href="" target="_blank">暂缺</a>，下载密码：j15v
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!28M2gT6b!6KY-FzKHQBfHzfrDTZTdQjMtUP83Qc4yqpmFWFioes4" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!Co82RTSA!uK2C1jH2Lkfy2vpL1da9rWgk3BOhXjzNq1fVFVbURFk" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
