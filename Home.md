@@ -211,13 +211,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://zzz.mesothelioma.accountant/18/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
+      <strong><a href="https://zzz.mesothelioma.accountant/18/" class="wiki-page-link" target="_blank">神州正道网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://zzz.mesothelioma.download/18/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
+      <strong><a href="https://zzz.mesothelioma.download/18/" class="wiki-page-link" target="_blank">神州正道网-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://zzz.mesothelioma.racing/18/" class="wiki-page-link" target="_blank">无界网-镜像3</a></strong>
+      <strong><a href="https://zzz.mesothelioma.racing/18/" class="wiki-page-link" target="_blank">神州正道网-镜像3</a></strong>
     </li>
   </ul>
 </div>
