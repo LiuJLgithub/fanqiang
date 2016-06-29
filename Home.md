@@ -207,7 +207,7 @@
   </ul>
 </div>
 
-<h2>神州正道网直连</h2><a name="toszzd"></a>
+<h2>神州正道网直连</h2><a name="toszzd"></a> 短网址：https://x.co/shzzd
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
