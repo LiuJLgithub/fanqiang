@@ -81,7 +81,7 @@
   </ul>
 </div>
 
-<a name="androidfq"></a><h2>安卓手机翻墙</h2>
+<a name="androidfq"></a><h2>安卓手机翻墙</h2> 短网址：https://x.co/fqiang
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
