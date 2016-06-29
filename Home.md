@@ -42,7 +42,7 @@
 
 </div>
 
-<a name="fanqiangsoft"></a><h2>PC翻墙软件下载</h2>短网址: https://x.co/killgfw
+<a name="fanqiangsoft"></a><h2>PC翻墙软件下载</h2>短网址:https://x.co/killgfw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
