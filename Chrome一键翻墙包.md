@@ -109,5 +109,5 @@ Chrome一键翻墙包（每天共享多G流量）
 </ul>
 </li>
 </ol>
-<h2>本页面短网址：<a href="https://git.io/fanqiang">https://git.io/fanqiang</a></h2>
+<h2>本页面短网址：https://git.io/fanqiang    https://x.co/chromefq</h2>
 </div>
