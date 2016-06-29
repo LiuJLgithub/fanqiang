@@ -142,7 +142,7 @@
 
 <h2>广传真相平台</h2><a name="gczxpt"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
-广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。
+广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。 短网址:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
       <strong><a href="https://zzy.mesothelioma.accountant/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
