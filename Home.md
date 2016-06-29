@@ -162,7 +162,7 @@
   </ul>
 </div>
 
-<h2>退出党、团、队</h2><a name="3tui"></a>
+<h2>退出党、团、队</h2><a name="3tui"></a>短网址：https://x.co/3tui
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
