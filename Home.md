@@ -181,13 +181,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://zzv.healthysites.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
+      <strong><a href="http://zzz.healthysite.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="http://zzz.healthysite.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
+      <strong><a href="https://zzz.heathnews.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://zzz.heathnews.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
+      <strong><a href="https://zzv.healthysites.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
     </li>
   </ul>
 </div>
