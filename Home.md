@@ -64,12 +64,12 @@
 
   
  <li>
-      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://zzs.healthysites.xyz/fg.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.healthysite.xyz/fg.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://zzw.heathnews.xyz/fg.zip">下载3</a>
+      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 
     </li> 
 
 
  <li>
-      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://zzs.healthysites.xyz/u.zip">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.healthysite.xyz/u.zip">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://zzw.heathnews.xyz/u.zip">下载3</a>
+      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 
     </li> 
 
 
@@ -109,15 +109,15 @@
     </li> 
 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://zzs.healthysites.xyz/fg.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.healthysite.xyz/fg.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://zzw.heathnews.xyz/fg.apk">下载3</a>
+      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 
     </li> 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong> 或&nbsp;&nbsp;&nbsp;<a href="http://zzs.healthysites.xyz/u.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://zzz.healthysite.xyz/u.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://zzw.heathnews.xyz/u.apk">下载3</a>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong>
     </li> 
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或&nbsp;&nbsp;&nbsp;<a href="http://zzs.healthysites.xyz/iNTD_TV.apk">下载1</a> <a href="http://zzz.healthysite.xyz/iNTD_TV.apk">下载2</a> <a href="https://zzw.heathnews.xyz/iNTD_TV.apk">下载3</a></strong>下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
