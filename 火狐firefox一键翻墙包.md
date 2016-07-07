@@ -36,7 +36,7 @@
 
 <b>下载链接1</b>：<a href="http://pan.baidu.com/s/1o8PDZR0" target="_blank">FirefoxFQ.7z</a>,下载密码:r9c9  （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接2</b>：<a href="https://mega.nz/#!LhdUTABS!OhbIkxoEuQ_xq3AeZaprxhZ8lGgCKaDJmwOxIhXK7X8" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+<b>下载链接2</b>：<a href="https://mega.nz/#!WhNmBLyI!9O16bw5KbkztMFyUEk9s11tpALqdznP2Mw0xFO5VXrc" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
 <b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
