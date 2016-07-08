@@ -32,7 +32,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <b>下载链接4</b>：<a href="https://zdown.baiduseo.work/ChromeGo-lite.7z" target="_blank">ChromeGo-lite.7z</a><br><br>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：14,847,824 bytes MD5:5a965509f9e544389d9afef55267d597
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：14,675,893 bytes MD5:d3bdb9b80d15f184d61c2ea63a0054a5
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -57,7 +57,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接4：<a href="https://zdown.baiduseo.work/ChromeGo.7z" target="_blank">ChromeGo.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：58,146,685 bytes  MD5:931cd73b4ee9cc7d22708d659219da08
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：58,167,495 bytes  MD5:5183dcf5327bb8748b5a4c327137704f
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -81,7 +81,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <b>下载链接4</b>：<a href="https://zdown.baiduseo.work/ChromeGo-XP.7z" target="_blank">ChromeGo-XP.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：57,893,650 bytes  MD5：d2faae740c638a774925f804a3c48fcc
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：57,890,108 bytes  MD5：9a0704a594eaba9e94ac4be8f0bfd90c
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
