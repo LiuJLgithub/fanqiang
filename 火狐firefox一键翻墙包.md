@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年6月17日</strong> 更新蓝灯和goagent，解决翻墙失败问题。更新Firefox到版本47。</li>
+<li><strong>2016年7月8日</strong> 更新蓝灯和goagent，解决翻墙失败问题。更新Firefox到版本47。</li>
 <li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
 <li><strong>2016年5月3日</strong> 更新goagent，如果你的软件仍然能用，就没必要下载。</li>
 <h3>
@@ -34,7 +34,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1o8PDZR0" target="_blank">FirefoxFQ.7z</a>,下载密码:r9c9  （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
+<b>下载链接1</b>：<a href="#" target="_blank">暂缺</a>,下载密码:r9c9  （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!WhNmBLyI!9O16bw5KbkztMFyUEk9s11tpALqdznP2Mw0xFO5VXrc" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
@@ -42,7 +42,7 @@
 
 <b>下载链接4</b>：<a href="https://zdown.baiduseo.work/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a><br><br>
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：f3264a7e27768cbf9bb9002374e8bbb4 ，文件大小：81,414,403 bytes
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：093180332b96faf67780aca848f97fb3 ，文件大小：81,414,965 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
