@@ -125,6 +125,21 @@
   </ul>
 </div>
 
+<h2>谷歌翻墙搜索</h2><a name="fqsearch"></a>短网址：https://x.co/wjfq
+<div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
+  <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
+    <li>
+      <strong><a href="http://zzr.dncsite.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://zzx.healthysite.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="http://zzr.heathnews.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像3</a></strong>
+    </li>
+  </ul>
+</div>
+
 <h2>手机禁网平台、手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
