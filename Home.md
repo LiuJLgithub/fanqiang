@@ -125,7 +125,7 @@
   </ul>
 </div>
 
-<h2>谷歌翻墙搜索</h2><a name="fqsearch"></a>短网址：https://x.co/wjfq
+<h2>谷歌翻墙搜索</h2><a name="fqsearch"></a>短网址：https://git.io/vKBdx  https://x.co/fqsearch
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
