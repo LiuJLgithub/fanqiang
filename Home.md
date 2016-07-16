@@ -192,7 +192,7 @@
   </ul>
 </div>
 
-<h2>动态网直连</h2><a name="to-dtw"></a> 短网址：https://x.co/dongtw
+<h2>动态网直连</h2><a name="to-dtw"></a> 短网址：https://x.co/dongtw 或 https://git.io/vKz97
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
@@ -207,7 +207,7 @@
   </ul>
 </div>
 
-<h2>无界网直连</h2><a name="to-wjw"></a>短网址：https://x.co/wjfq
+<h2>无界网直连</h2><a name="to-wjw"></a>短网址：https://x.co/wjfq 或 https://git.io/vKz9X
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
