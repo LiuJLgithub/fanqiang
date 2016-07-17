@@ -1,6 +1,6 @@
 <h1><a href="#jwproxy">禁闻代理翻墙</a>、<a href="#to-dtw">动态网</a>、<a href="#to-wjw">无界网</a>、<a href="#fqsearch">翻墙Google</a>、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 
-<h2>请记录收藏本网页网址</h2>
+<h2>请记录收藏本网页网址, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">反馈交流</a></h2>
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/attation.jpg" /><br/>
 <strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
