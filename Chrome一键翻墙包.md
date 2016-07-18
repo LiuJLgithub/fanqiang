@@ -23,7 +23,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://pan.baidu.com/s/1bHahx8" target="_blank">ChromeGo-lite.7z</a>，下载密码：xw4w（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!WhME1YIT!HgocB6zruvhAl5Pz-Ds7fvx48FOEjW1_Wiw402lLAeQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!m8Vy2RBY!vGr2QviuZM-3AxFL3Zyh1hrIV_D8vr-Ij6L25v-sQI4" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
@@ -48,7 +48,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://pan.baidu.com/s/1kVGXXrh" target="_blank">ChromeGo.7z</a>，下载密码：vawb（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!igdQiKLY!DfK5kFZbqkbmCk9lyLti0Pqzw3qnmwM4D0jQxX1xcHM" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!jo0HBBTZ!veSqF6ffBMr2v7dKq8-HfGqSZhkRIU8ZxSNfKy8uAKQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
@@ -72,7 +72,7 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://pan.baidu.com/s/1mijLY56" target="_blank">ChromeGo-XP.7z</a>，下载密码：bmve（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!rkEkyapK!vU5JuI3BCbi9VAENsM8J52bhFF3_PDjyWKr3hrgf7vA" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!q0M0QRTR!bQoAgkHp7rJBFF1E0oDjBuTZ88ZEnAU2rbSVhKZDye4" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
