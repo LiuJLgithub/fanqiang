@@ -34,7 +34,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接1</b>：<a href="#" target="_blank">暂缺</a>,下载密码:r9c9  （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
+<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1miJDMAG" target="_blank">FirefoxFQ.7z</a>,下载密码:r9c9  （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!WhNmBLyI!9O16bw5KbkztMFyUEk9s11tpALqdznP2Mw0xFO5VXrc" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
