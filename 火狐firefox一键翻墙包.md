@@ -42,7 +42,7 @@
 
 <b>下载链接4</b>：<a href="https://zdown.baiduseo.work/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a><br><br>
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：093180332b96faf67780aca848f97fb3 ，文件大小：81,414,965 bytes
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：d8f95b0361bf367c674b08c96047e259 ，文件大小：81,630,699 bytes
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
