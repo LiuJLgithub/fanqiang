@@ -4,7 +4,7 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2016年7月8日</strong> 更新蓝灯，解决翻墙失败问题。</li>
+<li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月20 </strong>  Chrome一键翻墙包添加蓝灯，GoAgent和蓝灯哪个好用用哪个，启动GoAgent请右键点击GoAgent翻墙.cmd，然后再点“以管理员身份运行”。 </li>
 <li><strong>2016年5月12 </strong>  添加绿色完整版，包括绿色Chrome浏览器版本 50.0.2661.102 。 </li>
 <li>推荐更好用的翻墙软件：<strong><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好。</li>
