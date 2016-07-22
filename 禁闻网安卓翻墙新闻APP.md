@@ -9,7 +9,7 @@
 <blockquote>
 <ul >
 <li>一键下载：<a href="https://github.com/kgfw/fg/raw/master/apk/jinwen.apk" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://copy.com/uj7i0BsgFR2oYqju" target="_blank">点击下载</a></li>
+<li>下载2：<a href="https://storage.googleapis.com/jwnews/jinwen.apk" target="_blank">点击下载</a></li>
 <li>google安卓市场下载：<a href="https://play.google.com/store/apps/details?id=org.bannedbook.app.news4dalu" target="_blank">禁闻网安卓翻墙新闻APP</a></li>
 <li><a href="https://github.com/bannedbook/fanqiang/wiki#androidfq" target="_blank">更多禁闻网安卓翻墙新闻APP下载点</a></li>
 </ul>
