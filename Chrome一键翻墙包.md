@@ -28,9 +28,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
-<li>
-<b>下载链接4</b>：<a href="https://zdown.baiduseo.work/ChromeGo-lite.7z" target="_blank">ChromeGo-lite.7z</a><br><br>
-</li>
+
 <li>
  <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：14,675,893 bytes MD5:d3bdb9b80d15f184d61c2ea63a0054a5
 </li>
@@ -53,9 +51,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
-<li>
- 下载链接4：<a href="https://zdown.baiduseo.work/ChromeGo.7z" target="_blank">ChromeGo.7z</a>
-</li>
+
 <li>
  <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：58,167,495 bytes  MD5:5183dcf5327bb8748b5a4c327137704f
 </li>
@@ -77,9 +73,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
-<li>
-<b>下载链接4</b>：<a href="https://zdown.baiduseo.work/ChromeGo-XP.7z" target="_blank">ChromeGo-XP.7z</a>
-</li>
+
 <li>
  <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：57,890,108 bytes  MD5：9a0704a594eaba9e94ac4be8f0bfd90c
 </li>
