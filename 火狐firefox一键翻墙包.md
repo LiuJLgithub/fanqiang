@@ -1,5 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
+<li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
 <li><strong>2016年5月3日</strong> 更新goagent，如果你的软件仍然能用，就没必要下载。</li>
