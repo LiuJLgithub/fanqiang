@@ -68,5 +68,5 @@
 </li>
 </ul>
 
-<h4>本页面短网址：https://git.io/firefox    or   https://x.co/firefq</h4>
+<h4>本页面短网址：https://git.io/firefox    或   https://x.co/firefq</h4>
     </div>
