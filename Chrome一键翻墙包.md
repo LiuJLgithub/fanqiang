@@ -89,7 +89,7 @@ Chrome一键翻墙包（每天共享多G流量）
 	<li>需要<strong>以管理员身份运行</strong>  GoAgent翻墙.cmd  才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
 
 <li>
-**怎么更新Chrome：**
+<b>怎么更新Chrome：</b><br/>
 启动goagent成功翻墙后，在托盘区找到goagent图标，右键点 goagent图标，设置ie代理，127.0.0.1：8087，然后在chrome 里 帮助/关于chrome/更新即可</li>
 
 </ul>
