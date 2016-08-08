@@ -76,10 +76,8 @@
 <strong>Over Quota、Hosts DenyURL 或 /_gh/ was not found </strong>
 
 <ul>
-<li>1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">自建流量</a>”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，</li>
+<li>1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“<a href="https://github.com/bannedbook/fanqiang/wiki/GoAgent-v3.2.3---%E8%87%AA%E5%BB%BA%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%E5%99%A8">GoAgent自建流量教程</a>”来创建自己的流量，建议有一点电脑基础的朋友自建流量。</li>
 <li>2）网页上显示“Hosts Deny”的网站本软件现在不支持。你可以通过自建流量来解决这个问题。
-自建流量方法：
-<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip</a>
 </li>
 <li>3）网页上显示“Error: Not Found-The requested URL /_gh/ was not found on this server.”说明当前使用的appid可能失效了。你也可以通过自建流量来解决这个问题。
 </li>
