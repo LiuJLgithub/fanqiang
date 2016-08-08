@@ -98,14 +98,17 @@ Chrome一键翻墙包（每天共享多G流量）
 	<li>访问https开头的网址出现SSL错误，解决方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a>
 </li>
 <li>
-<strong>Over Quota、Hosts Deny</strong>
+<strong>Over Quota、Hosts DenyURL 或 /_gh/ was not found </strong>
 
 <ul>
-<li>1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“<a href="https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F">自建流量</a>”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，</li>
+<li>1）网页上显示“Over Quota”，说明你用的版本当天的流量已用光，你可以等到北京时间下午四点流量重置后再用；或者依照“<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">自建流量</a>”的教程来创建自己的流量，建议有一点电脑基础的朋友自建流量，</li>
 <li>2）网页上显示“Hosts Deny”的网站本软件现在不支持。你可以通过自建流量来解决这个问题。
 自建流量方法：
-<a href="https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F">https://github.com/comeforu2012/truth/wiki/%E8%87%AA%E5%BB%BA%E6%B5%81%E9%87%8F</a>
+<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip</a>
 </li>
+<li>3）网页上显示“Error: Not Found-The requested URL /_gh/ was not found on this server.”说明当前使用的appid可能失效了。你也可以通过自建流量来解决这个问题。
+</li>
+
 </ul>
 </li>
 </ol>
