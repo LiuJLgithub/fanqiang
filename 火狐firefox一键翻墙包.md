@@ -68,7 +68,7 @@
 </li>
 </ul>
 
-<h4><a href="https://github.com/comeforu2012/FQ_FAQ/wiki">GoAgent常见问题：</a></h4>
+<h4>GoAgent常见问题：</h4>
 <ol class="task-list">
 	<li>访问https开头的网址出现SSL错误，解决方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a>
 </li>
