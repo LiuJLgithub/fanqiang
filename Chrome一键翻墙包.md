@@ -93,7 +93,7 @@ Chrome一键翻墙包（每天共享多G流量）
 启动goagent成功翻墙后，在托盘区找到goagent图标，右键点 goagent图标，设置ie代理，127.0.0.1：8087，然后在chrome 里 帮助/关于chrome/更新即可</li>
 
 </ul>
-<h4><a href="https://github.com/comeforu2012/FQ_FAQ/wiki">GoAgent常见问题：</a></h4>
+<h4>GoAgent常见问题：</h4>
 <ol class="task-list">
 	<li>访问https开头的网址出现SSL错误，解决方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a>
 </li>
