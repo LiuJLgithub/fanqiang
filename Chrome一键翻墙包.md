@@ -106,6 +106,8 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 <li>3）网页上显示“Error: Not Found-The requested URL /_gh/ was not found on this server.”说明当前使用的appid可能失效了。你也可以通过自建流量来解决这个问题。
 </li>
+<li>4）只能访问谷歌，不能访问其他网址,说明当前使用的APP id 流量可能暂且用尽。你也可以通过自建流量来解决这个问题。
+</li>
 
 </ul>
 </li>
