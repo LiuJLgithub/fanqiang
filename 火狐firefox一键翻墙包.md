@@ -85,6 +85,12 @@
 </li>
 </ul>
 </li>
+
+<li>
+<B>扫描和更新IP</B><BR>
+虽然这2个翻墙包都已携带三种翻墙软件，其中的GoAgent也会每日自动更新IP，大多数网友都可以利用来成功翻墙。但大陆网络环境错综复杂，个别网友反馈GoAgent翻墙不太稳定甚至无法翻墙，因此向大家介绍<a href="https://github.com/bannedbook/fanqiang/wiki/GoAgent%E6%89%AB%E6%8F%8Fip%E6%95%99%E7%A8%8B" target="_blank">GoAgent扫描IP教程</a>。让对电脑有一定基础的使用者可以自己扫描和更新IP，从而在自己的网络环境更加快速的翻墙，没有电脑基础的朋友，如果你有耐心，严格按照教程的步骤操作，也是可以成功的。
+</li>
+
 </ol>
 
 <h4>本页面短网址：https://git.io/firefox    或   https://x.co/firefq</h4>
