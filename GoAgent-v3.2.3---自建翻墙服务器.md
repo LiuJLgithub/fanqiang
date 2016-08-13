@@ -120,7 +120,7 @@ serving.</p>
 
 <p  >可以看到提示信息：</p>
 
-<pre >GoAgent 服务端已经在 2016-08-08 16:22:12 升级到 3.2.0 版本, 请更新您的客户端。说明GoAgent 服务端已部署成功啦。</pre>
+> GoAgent 服务端已经在 2016-08-08 16:22:12 升级到 3.2.0 版本, 请更新您的客户端。说明GoAgent 服务端已部署成功啦。
 
 <p  >这时也可以打开GAE首页：<a href="https://appengine.google.com/">https://appengine.google.com/</a>
 ，看看创建的appid的状态。 </p>
