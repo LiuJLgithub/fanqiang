@@ -22,7 +22,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1geTIo99" target="_blank">ChromeGo-lite.7z</a>，下载密码：xw4w（如果提示百度云升级，链接不存在等，刷新一下就出来了）
+ 下载链接1：<a href="http://pan.baidu.com/s/1geTIo99" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!Cx9SmRQK!V393Z7uDIxorlFfvC2t7EmvWjU8FgUDvX5ljHBcB4GM" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
@@ -45,7 +45,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://t.cn/RtA9hfA" target="_blank">ChromeGo.7z</a>，下载密码：vawb（如果提示百度云升级，链接不存在等，刷新一下就出来了）
+ 下载链接1：<a href="http://t.cn/RtA9hfA" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!j4kWmYoK!ZMvl2bQEvj_dibe2cf2-8xS7DKIAs9e8wlA-gYoJcE4" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
@@ -67,7 +67,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1slxkeNb" target="_blank">ChromeGo-XP.7z</a>，下载密码：bmve（如果提示百度云升级，链接不存在等，刷新一下就出来了）
+ 下载链接1：<a href="http://pan.baidu.com/s/1slxkeNb" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!f5NU3A4D!OaDHdIF6gy9xAbaTLBpND5uJjvZ6QFYZyLEnLBBW5nQ" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
