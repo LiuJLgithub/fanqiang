@@ -4,6 +4,7 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月20 </strong>  Chrome一键翻墙包添加蓝灯，GoAgent和蓝灯哪个好用用哪个，启动GoAgent请右键点击GoAgent翻墙.cmd，然后再点“以管理员身份运行”。 </li>
@@ -31,7 +32,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：16,199,726 bytes MD5:13ebe0257d5b400294a364d7450a0709
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：19,115,459 字节 MD5:a409545002788ddc5aaf740070e70944
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -54,7 +55,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：59,668,717 bytes  MD5:6d707d0f571612d36e86596101bfb1c7
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：62,664,290 字节  MD5:516b826912a479ada85b2c294f11b922
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -76,7 +77,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：59,415,381 bytes  MD5：a9e5e82f0f0c86bbe0a56a5260b715a3
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：62,446,186 字节  MD5：85679d73981333350946b88498c541f2
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
