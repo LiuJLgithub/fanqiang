@@ -1,5 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
+<li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
@@ -43,7 +44,7 @@
 
 
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：6d471babf9d9c27bae4a458eae6b8060 ，文件大小：83,383,130 bytes
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：9b824ccd46fb176fa787d9fae9fae7ae ，文件大小：86,293,981 字节
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
