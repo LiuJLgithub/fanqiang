@@ -92,7 +92,7 @@ Chrome一键翻墙包（每天共享多G流量）
 
 <li>
 <b>怎么更新Chrome：</b><br/>
-启动goagent成功翻墙后，在托盘区找到goagent图标，右键点 goagent图标，设置ie代理，127.0.0.1：8087，然后在chrome 里 帮助/关于chrome/更新即可</li>
+启动goagent成功翻墙后，在托盘区找到goagent图标，右键点 goagent图标，设置ie代理，127.0.0.1：8087，然后在chrome右上角点“三”按钮，然后点帮助/关于chrome/更新即可</li>
 
 </ul>
 <h4>GoAgent常见问题：</h4>
