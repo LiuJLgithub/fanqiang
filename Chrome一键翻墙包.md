@@ -4,6 +4,7 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2016年8月18日</strong> 发布<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeGo-lantern-update.7z" target="_blank">ChromeGo蓝灯升级包</a>，如果你的蓝灯翻墙不好用，请下载升级（下载后，复制到chromego、ChromeGo-lite或ChromeGo-XP文件夹，然后右键点击ChromeGo-lantern-update.7z，解压到当前文件夹，覆盖替换原有文件即可）。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
