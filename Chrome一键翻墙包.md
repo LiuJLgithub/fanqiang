@@ -98,7 +98,7 @@ Chrome一键翻墙包（每天共享多G流量）
 <li>3.右键单击 GoAgent翻墙.cmd 或GoAgent2翻墙.cmd，以管理员身份启动；</li>
 <li>4.启动后关闭Chrome浏览器；</li>
 <li>5.右键点GoAgent图标，设置IE代理，127.0.0.1:8087</li>
-<li>6.在ChromeUpdate文件夹内有个MyChrome.vbs程序，双击运行它(注意不是MyChrome.exe)，启动后,稍候片刻界面状态栏会出现“已成功获取Chrome更新信息”，然后点击“立即更新”按钮即可。</li>
+<li>6.在第2步解压出的ChromeUpdate文件夹内有个MyChrome.vbs程序，双击运行它(注意不是MyChrome.exe)，启动后,稍候片刻界面状态栏会出现“已成功获取Chrome更新信息”，然后点击“立即更新”按钮即可。</li>
 </ul>
 </li>
 
