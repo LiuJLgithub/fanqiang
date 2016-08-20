@@ -92,12 +92,14 @@ Chrome一键翻墙包（每天共享多G流量）
 
 <li>
 <b>怎么更新Chrome：</b><br/>
-1.下载<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录<br>
-2.右键点击ChromeUpdate.7z，选择“解压到当前文件夹”，注意不要选“解压到ChromeUpdate\”<br>
-3.右键单击 GoAgent翻墙.cmd 或GoAgent2翻墙.cmd，以管理员身份启动；<br>
-4.启动后关闭Chrome浏览器；<br>
-5.右键点GoAgent图标，设置IE代理，127.0.0.1:8087<br>
-6.在ChromeUpdate文件夹内有个MyChrome.vbs程序，双击运行它(注意不是MyChrome.exe)，启动后,稍候片刻界面状态栏会出现“已成功获取Chrome更新信息”，然后点击“立即更新”按钮即可。
+<ul>
+<li>1.下载<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录</li>
+<li>2.右键点击ChromeUpdate.7z，选择“解压到当前文件夹”，注意不要选“解压到ChromeUpdate\”</li>
+<li>3.右键单击 GoAgent翻墙.cmd 或GoAgent2翻墙.cmd，以管理员身份启动；</li>
+<li>4.启动后关闭Chrome浏览器；</li>
+<li>5.右键点GoAgent图标，设置IE代理，127.0.0.1:8087</li>
+<li>6.在ChromeUpdate文件夹内有个MyChrome.vbs程序，双击运行它(注意不是MyChrome.exe)，启动后,稍候片刻界面状态栏会出现“已成功获取Chrome更新信息”，然后点击“立即更新”按钮即可。</li>
+</ul>
 </li>
 
 </ul>
