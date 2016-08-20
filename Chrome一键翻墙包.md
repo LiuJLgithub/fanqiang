@@ -4,6 +4,7 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2016年8月20日</strong> 发布Chrome浏览器升级包，如需升级Chrome，请查看<a href="#chromeupdate" target="_blank">Chrome升级方法</a></li>
 <li><strong>2016年8月18日</strong> 发布<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeGo-lantern-update.7z" target="_blank">ChromeGo蓝灯升级包</a>，如果你的蓝灯翻墙不好用，请下载升级（下载后，复制到chromego、ChromeGo-lite或ChromeGo-XP文件夹，然后右键点击ChromeGo-lantern-update.7z，解压到当前文件夹，覆盖替换原有文件即可）。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
@@ -91,7 +92,7 @@ Chrome一键翻墙包（每天共享多G流量）
 	<li>需要<strong>以管理员身份运行</strong>  GoAgent翻墙.cmd  才可以自动导入goagnt证书，如果没有导入证书，那么在访问YouTube、Facebook等https开头网址时就会出现SSL错误，如果是因为证书没有自动导入，那么你也可以手动导入证书。方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a></li>
 
 <li>
-<b>怎么更新Chrome：</b><br/>
+<b><a name="chromeupdate"></a>怎么更新Chrome：</b><br/>
 <ul>
 <li>1.下载<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录里</li>
 <li>2.右键点击ChromeUpdate.7z，选择“解压到当前文件夹”，注意不要选“解压到ChromeUpdate\”</li>
