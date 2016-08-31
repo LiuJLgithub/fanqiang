@@ -1,30 +1,21 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<h4>更新日志：</h4>
+<h3>更新日志：</h3>
 <li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。同时更新Firefox到最新47.0.1版。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
 <li><strong>2016年5月3日</strong> 更新goagent，如果你的软件仍然能用，就没必要下载。</li>
-<h3>
-<a id="user-content-公告" class="anchor" href="#%E5%85%AC%E5%91%8A" aria-hidden="true"><span class="octicon octicon-link"></span></a>公告：</h3>
+
+<h3>公告和注意：</h3>
 
 <ul class="task-list">
 
-<li><strong>请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> <a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a></li>
+<li><strong>电脑上需要安装用于火狐的flash插件才可以播放网页视频。请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> <a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a></li>
 
 <li>最近本软件依赖的谷歌ip在中国大陆已经被封的越来越少。为了保证能够继续翻墙，请朋友们多预备几款翻墙软件，这里推荐非常好用的  <strong><a href="https://github.com/bannedbook/fanqiang/wiki"><strong>禁闻代理</strong>
 </li>
-
-</ul>
-
-
-
-<ul class="task-list">
-
-
-
 <li>将压缩包解压出来，解压路径中不要包含中文，否则可能会出现运行火狐后闪退的情况，比如解压到桌面就有可能出现这个情况。本翻墙包包括GoAgent和蓝灯2个翻墙工具，哪个好用就用哪个。
 1、 双击运行GoAgent翻墙.bat（Win7以上系统需要右键点击GoAgent翻墙.bat，然后再点“以管理员身份运行”），就可以同时启动GoAgent和浏览器。代理软件GoAgent打开后是个黑色窗口，翻墙过程中不要关闭此黑色窗口，可以点托盘图标将其最小化。
 2、 双击运行蓝灯翻墙.bat就可以同时启动蓝灯和浏览器开始翻墙。
