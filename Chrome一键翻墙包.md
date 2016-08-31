@@ -4,8 +4,8 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。</li>
 <li><strong>2016年8月20日</strong> 发布Chrome浏览器升级包，如需升级Chrome，请查看<a href="#chromeupdate" target="_blank">Chrome升级方法</a></li>
-<li><strong>2016年8月18日</strong> 发布<a href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/ChromeGo-lantern-update.7z" target="_blank">ChromeGo蓝灯升级包</a>，如果你的蓝灯翻墙不好用，请下载升级（下载后，复制到chromego、ChromeGo-lite或ChromeGo-XP文件夹，然后右键点击ChromeGo-lantern-update.7z，解压到当前文件夹，覆盖替换原有文件即可）。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
@@ -34,7 +34,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：19,115,459 字节 MD5:a409545002788ddc5aaf740070e70944
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,126,392 字节 MD5:30a554ee6c9a639bfe39a25cfa22d2d7
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -57,7 +57,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：62,664,290 字节  MD5:516b826912a479ada85b2c294f11b922
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,004,334 字节  MD5:81fb8fa030e239c3ebcc86fc5cfc8e83
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -79,7 +79,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：62,446,186 字节  MD5：85679d73981333350946b88498c541f2
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,454,988 字节  MD5：194c6fa33fd5d28a097ebd6102cf320b
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
