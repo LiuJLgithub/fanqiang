@@ -161,4 +161,4 @@ href="https://appengine.google.com/">GAE首页</a>，点击每个appid的名字�
 
 <p  style='margin-top:13.4pt;margin-right:0cm;
 margin-bottom:13.4pt;margin-left:18.0pt;text-align:left;line-height:20.1pt;
-background:white'>自建流量的过程到这里基本也就结束了，如果哪一步还有疑问，可以给我发邮件，我邮箱：freeman105@gmail.com</p>
+background:white'>自建流量的过程到这里基本也就结束了，如果哪一步还有疑问，<a href="https://github.com/bannedbook/fanqiang/issues">请发帖反馈交流</a></p>
