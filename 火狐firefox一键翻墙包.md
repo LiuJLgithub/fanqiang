@@ -45,23 +45,7 @@
 </ul>
 </blockquote>
 
-
-
-
-<h4>
-<a id="user-content-注意事项" class="anchor" href="#%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9" aria-hidden="true"><span class="octicon octicon-link"></span></a>注意事项：</h4>
-
-<ul class="task-list">
-<li>电脑上需要安装用于火狐的flash插件才可以播放网页视频。
-
-<ul class="task-list">
-<li> 用于火狐的Flash插件：<a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a>
-</li>
-</ul>
-</li>
-</ul>
-
-<h4>GoAgent常见问题：</h4>
+<h3>GoAgent常见问题：</h3>
 <ol class="task-list">
 	<li>访问https开头的网址出现SSL错误，解决方法：<a href="http://goo.gl/SXaoej">http://goo.gl/SXaoej</a>
 </li>
