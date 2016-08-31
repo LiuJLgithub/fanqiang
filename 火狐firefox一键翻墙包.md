@@ -1,6 +1,6 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
-<li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。</li>
+<li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。同时更新Firefox到最新47.0.1版。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
