@@ -34,7 +34,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,126,392 字节 MD5:30a554ee6c9a639bfe39a25cfa22d2d7
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,127,023 字节 MD5: 8fc73dbc095a8d634704e9c954c5cd21
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -57,7 +57,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,004,334 字节  MD5:81fb8fa030e239c3ebcc86fc5cfc8e83
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,014,981 字节  MD5: 1143aa428e8e35a17534922c3b4ff0a2
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -79,7 +79,7 @@ Chrome一键翻墙包（每天共享多G流量）
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,454,988 字节  MD5：194c6fa33fd5d28a097ebd6102cf320b
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,466,572 字节  MD5：ee06a5b38fe7f0a005cd62b988e483b9
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
