@@ -36,7 +36,7 @@
 
 
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：eeaf915c973181f70c9b11c49cbf87d5 ，文件大小：87,582,697 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：902d59dbd13d8bb4eacf703ddd0a851b ，文件大小：87,639,322 字节
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
