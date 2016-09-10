@@ -4,7 +4,7 @@
 Chrome一键翻墙包（每天共享多G流量）
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2016年9月5日</strong>  更新流量，如果你的goagent仍可用，可不必下载。 </li>
+<li><strong>2016年9月5日</strong>  更新流量，如果你的goagent仍可用，可不必下载。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/></li>
 <li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。同时更新chrome至当前最新版52.0.2743.116</li>
 <li><strong>2016年8月20日</strong> 发布Chrome浏览器升级包，如需升级Chrome，请查看<a href="#chromeupdate" target="_blank">Chrome升级方法</a></li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
