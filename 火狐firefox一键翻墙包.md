@@ -1,11 +1,11 @@
 <div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
+<li><strong>2016年10月9日</strong> 更新。</li>
 <li><strong>2016年9月8日</strong> 更新，<a href="https://github.com/bannedbook/fanqiang/issues/12" target="_blank">解决firefoxfq goagent-https网站链接问题</a>。  为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/></li>
 <li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。同时更新Firefox到最新47.0.1版。</li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
-<li><strong>2016年7月18日</strong> 更新GoAgent，解决翻墙失败问题。</li>
 <li><strong>2016年5月15日</strong> 添加蓝灯，蓝灯和goagent哪个好用就用哪个。更新Firefox到版本46.0.1。</li>
 
 <h3>公告和注意：</h3>
@@ -30,13 +30,13 @@
 
 <b>下载链接1</b>：<a href="http://pan.baidu.com/s/1bp1Gu2j" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接2</b>：<a href="https://mega.nz/#!qgFAXJhD!2NFSRkCjr-76KdCpqF059PfJreIZUPap1FPcW9Gj1x4" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+<b>下载链接2</b>：<a href="https://mega.nz/#!S4UASZqK!kYJyaqdLdg8QjBVTr7HRpBzUydUGIyydUZIG6_6vUBM" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
 <b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
 
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：902d59dbd13d8bb4eacf703ddd0a851b ，文件大小：87,639,322 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：92c1dd92d8b1577eea04411adce4849b ，文件大小：87,641,404 字节
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
