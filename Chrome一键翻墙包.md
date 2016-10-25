@@ -27,14 +27,14 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://pan.baidu.com/s/1geTIo99" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!z911RJjD!B-RhGm0HH56SIAd1Kf9V3FfC9a11X8JfjcQXWW9bZqg" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!vgtnjaab!dH0u7OwbVvvk2J1oHAV0ti1gFyy9gspznJ-NPyqPOro" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,127,399 字节 MD5: 55fc576a16f2abe1796f87fe9d8be774
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,128,464 字节 MD5: f1ef0edc5ad7737449c5840506304984
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -50,14 +50,14 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://t.cn/RcPYr4R" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!PxkXXQpD!cSUpfmZKb3gtMAtu8_YhXoJXMvC5jy42nKQlnyX5Drs" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!r9U1mY5J!ACYS02WrblNYby992_u6ix-QX5-7FjEooSdMc_iZjUI" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,033,638 字节  MD5: fd90f07752cabc980db17da31fbbfa47
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：64,993,236 字节  MD5: 047c4d19eeb142149f41dd38500c5f1c
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -72,14 +72,14 @@ Chrome一键翻墙包（每天共享多G流量）
  下载链接1：<a href="http://pan.baidu.com/s/1slxkeNb" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://mega.nz/#!3h8llawK!cQPpE528kKjk4NQshxYGPClQXIxTKdCPnvW-Xvy3MbA" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
+ 下载链接2：<a href="https://mega.nz/#!ekNjTBLR!ybJcRgTN1OXJjCSyf1wcPZm7cz0HkFF04XXV_3ngjOo" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,459,675 字节  MD5：4fa8af46935fd79b18df24fd08ac1a3d
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,455,466 字节  MD5：bdcffc7ee34fcb53dbe465e1e2ead34c
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
