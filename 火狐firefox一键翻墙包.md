@@ -30,13 +30,13 @@
 
 <b>下载链接1</b>：<a href="http://pan.baidu.com/s/1bp1Gu2j" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接2</b>：<a href="https://mega.nz/#!S4UASZqK!kYJyaqdLdg8QjBVTr7HRpBzUydUGIyydUZIG6_6vUBM" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+<b>下载链接2</b>：<a href="https://mega.nz/#!TwNBjSgZ!dCB3SG9foy7Mz2NwOYBxaQh05NfurMquf1by82KiIuQ" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
 <b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
 
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5：92c1dd92d8b1577eea04411adce4849b ，文件大小：87,641,404 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5：2eea6b536a21a42483fe67ff9264d8e3 ，文件大小：87,643,635 字节
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
