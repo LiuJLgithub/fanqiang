@@ -16,22 +16,22 @@
 
  
    <li>
-      <strong><a href="https://xg.dnsfree.space/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnsfree.space/jwd.zip">下载2</a></strong>
+      <strong><a href="http://xh.dnsfree.space/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnsfree.space/jwd.zip">下载2</a></strong>
     </li>     
     
     <li>
-      <strong><a href="https://xg.namedns.xyz/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnstool.xyz/jwd.zip">下载3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnstool.xyz/jwd.zip">下载3</a></strong>
     </li> 
 
   <li>
-      <strong><a href="https://xg.dnstool.xyz/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.namedns.xyz/jwd.zip">下载1</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.namedns.xyz/jwd.zip">下载1</a></strong>
     </li> 
 
  <li>
  <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" /> <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     禁闻代理在线-镜像域名后面加/20/ 就是<a href="https://xg.namedns.xyz/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="https://xg.namedns.xyz/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="https://xg.namedns.xyz/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="https://xg.namedns.xyz/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="https://xg.namedns.xyz/jygdl.php" target="_blank">聚缘阁代理</a>。
+     禁闻代理在线-镜像域名后面加/20/ 就是<a href="http://xh.namedns.xyz/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://xh.namedns.xyz/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="http://xh.namedns.xyz/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="http://xh.namedns.xyz/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="http://xh.namedns.xyz/jygdl.php" target="_blank">聚缘阁代理</a>。
     </li>
  
 
@@ -44,7 +44,7 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="https://xg.dnsfree.space/jwd.zip">下载1</a> <a href="https://xg.dnstool.xyz/jwd.zip">下载2</a> <a href="https://xg.namedns.xyz/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="http://xh.dnsfree.space/jwd.zip">下载1</a> <a href="http://xh.dnstool.xyz/jwd.zip">下载2</a> <a href="http://xh.namedns.xyz/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
@@ -83,20 +83,20 @@
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="https://xg.dnsfree.space/JWBrowser.apk">下载1</a> <a href="https://xg.dnstool.xyz/JWBrowser.apk">下载2</a> <a href="https://xg.namedns.xyz/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="http://xh.dnsfree.space/JWBrowser.apk">下载1</a> <a href="http://xh.dnstool.xyz/JWBrowser.apk">下载2</a> <a href="http://xh.namedns.xyz/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="https://xg.dnsfree.space/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnstool.xyz/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.namedns.xyz/jinwen.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://xh.dnsfree.space/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnstool.xyz/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.namedns.xyz/jinwen.apk">下载3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="https://xg.dnsfree.space/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnstool.xyz/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.namedns.xyz/dweb.apk">下载3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="http://xh.dnsfree.space/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnstool.xyz/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.namedns.xyz/dweb.apk">下载3</a>
     </li>     
  <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="https://xg.dnsfree.space/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnstool.xyz/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.namedns.xyz/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="http://xh.dnsfree.space/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnstool.xyz/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.namedns.xyz/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
       <strong>网门安卓版：</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
@@ -126,13 +126,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像3</a></strong>
     </li>
   </ul>
 </div>
@@ -141,13 +141,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/1/" target="_blank">手机禁网平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnsfree.space/jinwen.apk">下载1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/1/" target="_blank">手机禁网平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnsfree.space/jinwen.apk">下载1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.dnstool.xyz/jinwen.apk">下载2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.dnstool.xyz/jinwen.apk">下载2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/1/" target="_blank">手机禁网平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="https://xg.namedns.xyz/jinwen.apk">下载3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/1/" target="_blank">手机禁网平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="http://xh.namedns.xyz/jinwen.apk">下载3</a></strong>
     </li>
   </ul>
 </div>
@@ -157,19 +157,19 @@
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。 短网址:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
     </li>
   <li>
-      <strong><a href="https://xg.dnstool.xyz/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
     </li>
   <li>
-      <strong><a href="https://xg.dnstool.xyz/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
     </li>
   </ul>
 </div>
@@ -178,13 +178,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
     </li>
   </ul>
 </div>
@@ -193,13 +193,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnstool.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
+      <strong><a href="http://xh.namedns.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnsfree.space/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
+      <strong><a href="http://xh.dnsfree.space/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
     </li>
   </ul>
 </div>
@@ -208,13 +208,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像3</a></strong>
     </li>
   </ul>
 </div>
@@ -223,13 +223,13 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/18/" class="wiki-page-link" target="_blank">神州正道网-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/18/" class="wiki-page-link" target="_blank">神州正道网-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像3</a></strong>
     </li>
   </ul>
 </div>
@@ -238,24 +238,24 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://xg.dnsfree.space/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像3</a></strong>
     </li>
 
 
  <li>
-      <strong><a href="https://xg.dnsfree.space/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
+      <strong><a href="http://xh.dnsfree.space/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.dnstool.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
+      <strong><a href="http://xh.dnstool.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
     </li>
     <li>
-      <strong><a href="https://xg.namedns.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像3</a></strong>
+      <strong><a href="http://xh.namedns.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像3</a></strong>
     </li>
 
   </ul>
