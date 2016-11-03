@@ -22,4 +22,4 @@
 <h2>
 本页短网址：https://git.io/ifq
 </h2>
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="Image and video hosting by TinyPic">
+<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
