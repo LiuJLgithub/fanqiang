@@ -22,4 +22,4 @@
 <h2>
 本页短网址：https://git.io/ifq
 </h2>
-<a href="https://github.com/bannedbook/fanqiang/wiki/jwproxy" target="_blank"><img src="http://i58.tinypic.com/zxsi9k.jpg" border="0" alt="Image and video hosting by TinyPic"></a>
+<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="Image and video hosting by TinyPic">
