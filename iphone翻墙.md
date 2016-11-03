@@ -5,7 +5,7 @@
 
 <ul class="task-list">
 <li> 特别推出，iOS (iPhone/iPad) pac 翻墙,pac地址：https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
-<h3>iOS (iPhone/iPad)</h3>
+<h3>iOS (iPhone/iPad)翻墙设置</h3>
 <ol>
 <li>打开设置, 选择Wi-Fi (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/1.png" target="_blank">图</a>)</li>
 <li>选择当前使用的热点 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/2.png" target="_blank">图</a>)</li>
