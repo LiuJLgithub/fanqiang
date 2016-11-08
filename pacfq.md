@@ -1,4 +1,7 @@
 <h1>PAC翻墙</h1>
+pac地址：
+https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
+
 <h2 id="style-guide" class="content-subhead">使用教程</h2>
 
 <h3>Windows</h3>
