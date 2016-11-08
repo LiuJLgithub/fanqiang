@@ -1,30 +1,30 @@
-聚缘阁禁闻导航提供海外禁网新闻大全浏览，各种海外中文媒体的翻墙浏览功能，youtube、google、facebook、推特等等。
+<h1>苹果iPhone、ios翻墙方法</h1>
 
-<h3>更新日志：</h3>
 
-<ul>
-<li>
-<strong>2015年12月29日：</strong>更新到2.0.1版，更新代理网址。</li>
 
-</ul>
-<br><br>
-**聚缘阁禁闻 安卓翻墙APP下载**<br><br>
-聚缘阁安卓翻墙APP是聚缘阁禁闻导航的安卓手机APP，并附加更多翻墙看禁闻的秘密通道。
-<blockquote>
-<ul >
-<li>一键下载：<a href="https://github.com/kgfw/fg/raw/master/apk/jygjw.apk" target="_blank">点击一键下载</a></li>
-<li>下载2：<a href="https://fliiby.com/file/qur3jymtpsn/" target="_blank">点击下载</a></li>
 
-</ul>
-</blockquote>
+<ul class="task-list">
+<li> 特别推出，iOS (iPhone/iPad) pac 翻墙,pac地址：https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
+<h3>iOS (iPhone/iPad)翻墙设置</h3>
+<ol>
+<li>打开设置, 选择Wi-Fi (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/1.png" target="_blank">图</a>)</li>
+<li>选择当前使用的热点 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/2.png" target="_blank">图</a>)</li>
+<li>拖到最下面的代理设置，选择"自动"，填写PAC地址 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/3.png" target="_blank">图</a>)</li>
+</ol>
+</li>
+<li> 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a>
+</li>
 
-**推荐禁闻代理 极速翻墙**
-<blockquote>
-<ul >
-<li>点击打开：<a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></li>
+
 
 </ul>
-</blockquote>
+
+<h2>
+本页短网址：https://git.io/ifq
+</h2>
+<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
+
+
 
 
 
