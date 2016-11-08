@@ -20,18 +20,6 @@
 </p>
 
 <ul class="task-list">
-
-</li>
-<li> 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a>
-</li>
-
-
-
+<li> 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></li>
 </ul>
-
-<h2>
-本页短网址：https://git.io/ifq
-</h2>
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
-
-<h2>本页面短网址：https://git.io/jyg </h2>
