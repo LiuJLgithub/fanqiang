@@ -24,13 +24,4 @@
 </h2>
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
 
-
-
-
-
 <h2>本页面短网址：https://git.io/jyg </h2>
-
-
-
-
-<img src="http://i59.tinypic.com/2im5kbq.jpg" border="1" alt="Image and video hosting by TinyPic">
