@@ -1,21 +1,24 @@
-<h1><a href="#jwproxy">���Ŵ�����ǽ</a>��<a href="#to-dtw">��̬��</a>��<a href="#to-wjw">�޽���</a>��<a href="#fqsearch">��ǽGoogle</a>��<a href="#mobilejinwang">�ֻ�����ƽ̨</a>��<a href="#fanqiangsoft">��ǽ��������</a>��<a href="#androidfq">��׿�ֻ���ǽ</a>��<a href="#gczxpt">�㴫����ƽ̨</a></h1> 
+<h1><a href="#jwproxy">禁闻代理翻墙</a>、<a href="#to-dtw">动态网</a>、<a href="#to-wjw">无界网</a>、<a href="#fqsearch">翻墙Google</a>、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 
-<h2>ȫ���Ƴ�: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone��ǽ</a>�����¼�ղر���ҳ��ַ, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">��������</a></h2>
+<h2>近来，github上公布的直连网址经常很快被封，推荐大家尝试下列翻墙方式：<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>、<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac多平台翻墙</a>
 
-<strong>�뽫��ǰҳ����ַ��������������ղؼС���ǩ���ȣ������ֱ����ַʧЧʱ�����ǻἰʱ�ڴ�ҳ��������½���ֱ����ַ 
-<br>�ղط��������Է��ʿɰ�Ctrl+D �����ֻ������밴�ֻ��ղط����ղ�</strong>
-<br>��ҳ����ַ��https://git.io/jww  https://x.co/bnews
+<h2>全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。请记录收藏本网页网址, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">反馈交流</a></h2>
+
+<strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
+<br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
+<br>本页短网址：https://git.io/jww  https://x.co/bnews
 
 
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
 <a name="jwproxy"></a>
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">���Ŵ�������</a>(���Ŵ�����飺��������ǽ����,���ٷ��ʾ��������ǽ��վ�����Ŵ����ṩ2�ַ�ǽģʽ������ģʽ��ֱ��ģʽ��Ĭ��ʹ�ô���ģʽ���������ģʽ���Ӳ������ɳ���ʹ��ֱ��ģʽ���Ƽ�ʹ��Google Chrome����������ؽ�ѹ��˫��exe�ļ���������Ȼ�����������򿪡���ť����ʵ�ַ�ǽ����ˡ�</strong>���ض���ַ:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。禁闻代理提供2种翻墙模式，代理模式和直翻模式，默认使用代理模式，如果代理模式链接不畅，可尝试使用直翻模式。推荐使用Google Chrome浏览器。下载解压后，双击exe文件启动程序，然后点击“启动打开”按钮即可实现翻墙浏览了。</strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
    <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/" target="_blank">���Ŵ�������-����2</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.dnssite.xyz/jwd.zip">����2</a></strong>
     </li>     
     
@@ -25,13 +28,28 @@
 
   <li>
       <strong><a href="http://wn.healthysites.xyz/" target="_blank">���Ŵ�������-����1</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthorg.xyz/jwd.zip">����1</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/" target="_blank">禁闻代理在线-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.getdns.xyz/jwd.zip">下载2</a></strong>
+    </li>     
+    
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/" target="_blank">禁闻代理在线-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.healththe.xyz/jwd.zip">下载3</a></strong>
+    </li> 
+
+  <li>
+      <strong><a href="https://wm.healththe.xyz/" target="_blank">禁闻代理在线-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.gooddns.xyz/jwd.zip">下载1</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li> 
 
  <li>
  <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" /> <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
+<<<<<<< HEAD
      ���Ŵ�������-�������������/20/ ����<a href="http://wn.healthorg.xyz/20/" target="_blank">��̬��</a>������� /31/ ����<a href="http://wn.healthorg.xyz/31/" target="_blank">�޽���</a>������� /jygjw.php ����<a href="http://wn.healthorg.xyz/jygjw.php" target="_blank">��Ե����ŵ���</a>�������/gczx.html����<a href="http://wn.healthorg.xyz/gczx.html" target="_blank">�㴫����ƽ̨</a>�������/jygdl.php����<a href="http://wn.healthorg.xyz/jygdl.php" target="_blank">��Ե�����</a>��
+=======
+     禁闻代理在线-镜像域名后面加/20/ 就是<a href="https://wm.gooddns.xyz/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="https://wm.gooddns.xyz/31/" target="_blank">无界网</a>，后面加 /jygjw.php 就是<a href="https://wm.gooddns.xyz/jygjw.php" target="_blank">聚缘阁禁闻导航</a>，后面加/gczx.html就是<a href="https://wm.gooddns.xyz/gczx.html" target="_blank">广传真相平台</a>，后面加/jygdl.php就是<a href="https://wm.gooddns.xyz/jygdl.php" target="_blank">聚缘阁代理</a>。
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
  
 
@@ -39,82 +57,101 @@
 
 </div>
 
-<a name="fanqiangsoft"></a><h2>PC��ǽ��������</h2>����ַ:https://x.co/killgfw
+<a name="fanqiangsoft"></a><h2>PC翻墙软件下载</h2>短网址:https://x.co/killgfw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
+<<<<<<< HEAD
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">���Ŵ�������</a>(���Ŵ�����飺��������ǽ����,���ٷ��ʾ��������ǽ��վ:<a href="http://wn.dnssite.xyz/jwd.zip">����1</a> <a href="http://wn.healthysites.xyz/jwd.zip">����2</a> <a href="http://wn.healthorg.xyz/jwd.zip">����3</a>   ) </strong>���ض���ַ:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+=======
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="https://wm.getdns.xyz/jwd.zip">下载1</a> <a href="https://wm.healththe.xyz/jwd.zip">下载2</a> <a href="https://wm.gooddns.xyz/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chromeһ����ǽ��</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">����Chromeһ����ǽ��</a></strong> 
+      <strong><a href="/bannedbook/fanqiang/wiki/%E8%93%9D%E7%81%AFChrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">蓝灯Chrome一键翻墙包</a></strong> 
     </li>
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">���firefoxһ����ǽ��</a></strong> 
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">火狐firefox一键翻墙包</a></strong> 
     </li>  
 
 
   
  <li>
-      <strong><a href="https://git.io/fgt" target="_blank">����������PC��</a></strong> 
+      <strong><a href="https://git.io/fgt" target="_blank">最新自由门PC版</a></strong> 
     </li> 
 
 
  <li>
-      <strong><a href="https://git.io/wj" target="_blank">�����޽�PC��</a></strong> 
+      <strong><a href="https://git.io/wj" target="_blank">最新无界PC版</a></strong> 
     </li> 
 
 
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowserһ����ǽ��</a></strong> 
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowser一键翻墙包</a></strong> 
     </li>
 
   </ul>
 </div>
 
-<a name="androidfq"></a><h2>��׿�ֻ���ǽ</h2>����ַ:https://x.co/fqiang
+<a name="androidfq"></a><h2>安卓手机翻墙</h2>短网址:https://x.co/fqiang
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
 <li>
+<<<<<<< HEAD
       <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">���������</a>(ȫ������V1.2�棬��ǽ���������������׿��ǽ����-��������� JWBrowser,��������ǽ����,���ٷ�ǽ��JWBrowser��ּ�ǰ����й���½�������ɷ�ǽ��������ȡ���������������Ϣ,JWBrowser���ٶ�Ϊ��һ��ּ�������������������԰�ȫ��Ҫ��ܸߵ�������ʿ�������û��á�<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">����ͼ</a>�� <a href="http://wn.dnssite.xyz/JWBrowser.apk">����1</a> <a href="http://wn.healthysites.xyz/JWBrowser.apk">����2</a> <a href="http://wn.healthorg.xyz/JWBrowser.apk">����3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google��׿�г�����</a>  ) </strong>���ض���ַ:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+=======
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="https://wm.getdns.xyz/JWBrowser.apk">下载1</a> <a href="https://wm.healththe.xyz/JWBrowser.apk">下载2</a> <a href="https://wm.gooddns.xyz/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
 
 </li>
 
  <li>
+<<<<<<< HEAD
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">��������׿��ǽ����APP</a>��</strong> &nbsp;&nbsp;&nbsp;<a href="http://wn.dnssite.xyz/jinwen.apk">����1</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthysites.xyz/jinwen.apk">����2</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthorg.xyz/jinwen.apk">����3</a>
+=======
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">禁闻网安卓翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="https://wm.getdns.xyz/jinwen.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.healththe.xyz/jinwen.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.gooddns.xyz/jinwen.apk">下载3</a>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>   
     
 
  <li>
+<<<<<<< HEAD
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">��̬����ǽ����APP</a>��</strong> &nbsp;&nbsp;&nbsp;<a href="http://wn.dnssite.xyz/dweb.apk">����1</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthysites.xyz/dweb.apk">����2</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthorg.xyz/dweb.apk">����3</a>
     </li>     
  <li>
       <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">��׿�������Ŵ���</a>������APP��ֱ�Ӵ򿪱�ҳ�棬�ٰ���׿���ؼ��������һ��ֱ������ǽ��</strong> ��&nbsp;&nbsp;&nbsp;<a href="http://wn.dnssite.xyz/jw.apk">����1</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthysites.xyz/jw.apk">����2</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthorg.xyz/jw.apk">����3</a>  ���ض���ַ��<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+=======
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">动态网翻墙新闻APP</a>：</strong> &nbsp;&nbsp;&nbsp;<a href="https://wm.getdns.xyz/dweb.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.healththe.xyz/dweb.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.gooddns.xyz/dweb.apk">下载3</a>
+    </li>     
+ <li>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">安卓精简版禁闻代理</a>（启动APP后直接打开本页面，再按安卓返回键则随机打开一个直连镜像翻墙）</strong> 或&nbsp;&nbsp;&nbsp;<a href="https://wm.getdns.xyz/jw.apk">下载1</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.healththe.xyz/jw.apk">下载2</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.gooddns.xyz/jw.apk">下载3</a>  下载短网址：<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li> 
  <li>
-      <strong>���Ű�׿�棺</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
+      <strong>网门安卓版：</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
     </li> 
  <li>
-      <strong>Greatfire���������</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK����</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google��׿�г�����</a>
+      <strong>Greatfire自由浏览：</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APK下载</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google安卓市场下载</a>
     </li> 
 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">���������Ű�׿��</a></strong> 
+      <strong><a href="https://git.io/fgma" target="_blank">最新自由门安卓版</a></strong> 
     </li> 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">�����޽簲׿��</a></strong>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">最新无界安卓版</a></strong>
     </li> 
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">��ǽ���ӣ���׿�� iNTD TV</a>�����ض���ַ:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或下载短网址:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
@@ -122,10 +159,11 @@
   </ul>
 </div>
 
-<h2>�ȸ跭ǽ����</h2><a name="fqsearch"></a>����ַ1��https://git.io/vKBdx  ����ַ2��https://x.co/fqsearch
+<h2>谷歌翻墙搜索</h2><a name="fqsearch"></a>短网址1：https://git.io/vKBdx  短网址2：https://x.co/fqsearch
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/91/" class="wiki-page-link" target="_blank">�ȸ跭ǽ����-����1</a></strong>
     </li>
     <li>
@@ -133,14 +171,24 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/91/" class="wiki-page-link" target="_blank">�ȸ跭ǽ����-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>�ֻ�����ƽ̨���ֻ�����ƽ̨</h2><a name="mobilejinwang"></a> ����ַ�� https://git.io/mjw
+<h2>手机禁网平台、手机禁网平台</h2><a name="mobilejinwang"></a> 短网址： https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/1/" target="_blank">�ֻ�����ƽ̨-����1</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.dnssite.xyz/jinwen.apk">����1</a></strong>
     </li>
     <li>
@@ -148,15 +196,25 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/1/" target="_blank">�ֻ�����ƽ̨-����3</a>&nbsp;&nbsp;&nbsp;<a href="http://wn.healthorg.xyz/jinwen.apk">����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/1/" target="_blank">手机禁网平台-镜像1</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.getdns.xyz/jinwen.apk">下载1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/1/" target="_blank">手机禁网平台-镜像2</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.healththe.xyz/jinwen.apk">下载2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/1/" target="_blank">手机禁网平台-镜像3</a>&nbsp;&nbsp;&nbsp;<a href="https://wm.gooddns.xyz/jinwen.apk">下载3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>�㴫����ƽ̨</h2><a name="gczxpt"></a>
+<h2>广传真相平台</h2><a name="gczxpt"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
-�㴫����ƽ̨2.0�������Ӧʽ��ƣ��Զ���Ӧ�ֻ��͵��Է��ʣ����¼�ʱ����ǽ���ǣ������ر��á� ����ַ:https://x.co/gczxpt
+广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧，请下载备用。 短网址:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/gczx.html" class="wiki-page-link" target="_blank">�㴫����ƽ̨-����1</a></strong>
     </li>
     <li>
@@ -170,14 +228,30 @@
     </li>
   <li>
       <strong><a href="http://wn.healthysites.xyz/wstp.apk" class="wiki-page-link" target="_blank">�㴫����ƽ̨-��׿������</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/gczx.html" class="wiki-page-link" target="_blank">广传真相平台-镜像3</a></strong>
+    </li>
+  <li>
+      <strong><a href="https://wm.healththe.xyz/wstp.zip" class="wiki-page-link" target="_blank">广传真相平台-PC版下载</a></strong>
+    </li>
+  <li>
+      <strong><a href="https://wm.healththe.xyz/wstp.apk" class="wiki-page-link" target="_blank">广传真相平台-安卓版下载</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>�˳������š���</h2><a name="3tui"></a>����ַ��https://x.co/3tui
+<h2>退出党、团、队</h2><a name="3tui"></a>短网址：https://x.co/3tui
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/98/" class="wiki-page-link" target="_blank">�˳������š���-����1</a></strong>
     </li>
     <li>
@@ -185,14 +259,24 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/98/" class="wiki-page-link" target="_blank">�˳������š���-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/98/" class="wiki-page-link" target="_blank">退出党、团、队-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>��̬��ֱ��</h2><a name="to-dtw"></a> ����ַ��https://x.co/dongtw �� https://git.io/vKz97
+<h2>动态网直连</h2><a name="to-dtw"></a> 短网址：https://x.co/dongtw 或 https://git.io/vKz97
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.healthysites.xyz/20/" class="wiki-page-link" target="_blank">��̬��-����1</a></strong>
     </li>
     <li>
@@ -200,14 +284,24 @@
     </li>
     <li>
       <strong><a href="http://wn.dnssite.xyz/20/" class="wiki-page-link" target="_blank">��̬��-����3</a></strong>
+=======
+      <strong><a href="https://wm.healththe.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.getdns.xyz/20/" class="wiki-page-link" target="_blank">动态网-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>�޽���ֱ��</h2><a name="to-wjw"></a>����ַ��https://x.co/wjfq �� https://git.io/vKz9X
+<h2>无界网直连</h2><a name="to-wjw"></a>短网址：https://x.co/wjfq 或 https://git.io/vKz9X
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/31/" class="wiki-page-link" target="_blank">�޽���-����1</a></strong>
     </li>
     <li>
@@ -215,14 +309,24 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/31/" class="wiki-page-link" target="_blank">�޽���-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/31/" class="wiki-page-link" target="_blank">无界网-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>����������ֱ��</h2><a name="toszzd"></a> ����ַ��https://x.co/shzzd
+<h2>神州正道网直连</h2><a name="toszzd"></a> 短网址：https://x.co/shzzd
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/18/" class="wiki-page-link" target="_blank">����������-����1</a></strong>
     </li>
     <li>
@@ -230,14 +334,24 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/18/" class="wiki-page-link" target="_blank">����������-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/18/" class="wiki-page-link" target="_blank">神州正道网-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
   </ul>
 </div>
 
-<h2>��Ե��</h2><a name="to-juyuange"></a>
+<h2>聚缘阁</h2><a name="to-juyuange"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/jygjw.php" class="wiki-page-link" target="_blank">��Ե����ŵ���-����1</a></strong>
     </li>
     <li>
@@ -245,10 +359,20 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/jygjw.php" class="wiki-page-link" target="_blank">��Ե����ŵ���-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
 
 
  <li>
+<<<<<<< HEAD
       <strong><a href="http://wn.dnssite.xyz/jygdl.php" class="wiki-page-link" target="_blank">��Ե�����-����1</a></strong>
     </li>
     <li>
@@ -256,11 +380,20 @@
     </li>
     <li>
       <strong><a href="http://wn.healthorg.xyz/jygdl.php" class="wiki-page-link" target="_blank">��Ե�����-����3</a></strong>
+=======
+      <strong><a href="https://wm.getdns.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像1</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.healththe.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像2</a></strong>
+    </li>
+    <li>
+      <strong><a href="https://wm.gooddns.xyz/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理-镜像3</a></strong>
+>>>>>>> 126eb030052bfeafda170740bbf9a58d1c08cd51
     </li>
 
   </ul>
 </div>
 
 <h2>
-��ҳ�����ַ��https://git.io/jww
+本页面短网址：https://git.io/jww
 </h2>
