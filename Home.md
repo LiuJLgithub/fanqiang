@@ -1,6 +1,6 @@
 <h1><a href="#jwproxy">禁闻代理翻墙</a>、<a href="#to-dtw">动态网</a>、<a href="#to-wjw">无界网</a>、<a href="#fqsearch">翻墙Google</a>、<a href="#mobilejinwang">手机禁网平台</a>、<a href="#fanqiangsoft">翻墙软件下载</a>、<a href="#androidfq">安卓手机翻墙</a>、<a href="#gczxpt">广传真相平台</a></h1> 
 
-<h2>近来，github上公布的直连网址经常很快被封，推荐大家尝试下列翻墙方式：<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>、<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac翻墙</a>
+<h2>近来，github上公布的直连网址经常很快被封，推荐大家尝试下列翻墙方式：<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a>、<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac多平台翻墙</a>
 
 <h2>全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。请记录收藏本网页网址, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">反馈交流</a></h2>
 
