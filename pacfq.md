@@ -22,7 +22,5 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
     设置 -&gt; WiFi -&gt; 修改网络 -&gt; 显示高级选项 -&gt; 代理选择【代理自动配置】 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
 
-<ul class="task-list">
-<li> 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></li>
-</ul>
+
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
