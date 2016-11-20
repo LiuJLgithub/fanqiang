@@ -1,10 +1,14 @@
 <h1>PAC翻墙</h1>
+
+
+
+<h2>pac翻墙优点：无需客户端软件、插件，直接在浏览器或手机中做简单设置就可自由翻墙，非常方便。设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。</h2>
+
+<h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
+
 禁闻翻墙pac地址：
 https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
-
-<h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
-<h3>pac翻墙优点：无需客户端软件、插件，直接在浏览器或手机中做简单设置就可自由翻墙，非常方便。设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。</h3>
 
 <h3>Windows</h3>
 <p>
