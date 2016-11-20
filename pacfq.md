@@ -4,6 +4,7 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
+<h3>pac翻墙有点，无需客户端软件、插件，直接在浏览器或手机中做简单设置就可自由翻墙，非常方便。设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。</h3>
 
 <h3>Windows</h3>
 <p>
@@ -22,6 +23,5 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
 <p>
     设置 -&gt; WiFi -&gt; 修改网络 -&gt; 显示高级选项 -&gt; 代理选择【代理自动配置】 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
-设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。
 
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
