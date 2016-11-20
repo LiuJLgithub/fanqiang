@@ -1,9 +1,9 @@
 <h1>PAC翻墙</h1>
-禁闻网专用pac地址(只能访问禁闻网www.bannedbook.org等有限几个网站)：
+禁闻翻墙pac地址：
 https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
-如果您希望访问更多网站，推荐<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
+您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
-<h2 id="style-guide" class="content-subhead">使用教程</h2>
+<h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
 
 <h3>Windows</h3>
 <p>
@@ -22,6 +22,6 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac
 <p>
     设置 -&gt; WiFi -&gt; 修改网络 -&gt; 显示高级选项 -&gt; 代理选择【代理自动配置】 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
-
+设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。
 
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
