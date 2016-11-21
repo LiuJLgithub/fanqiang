@@ -28,4 +28,4 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址
     设置 -&gt; WiFi -&gt; 修改网络 -&gt; 显示高级选项 -&gt; 代理选择【代理自动配置】 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
 
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
+<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/pac.jpg" border="0" alt="pac翻墙">
