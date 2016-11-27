@@ -7,7 +7,7 @@
 <h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
 
 禁闻翻墙pac地址：
-https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
+https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h3>Windows</h3>
