@@ -10,7 +10,7 @@
 https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
-<h3>Windows</h3>
+<h3>Internet Explore</h3>
 <p>
     Internet选项 -&gt; 连接 选项卡 -&gt; 局域网设置(如果是电脑拨号上网, 这里点'设置') -&gt; 使用自动配置脚本 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
