@@ -11,7 +11,7 @@
 <li>打开设置, 选择Wi-Fi (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/1.png" target="_blank">图</a>)</li>
 <li>选择当前使用的热点 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/2.png" target="_blank">图</a>)</li>
 <li>拖到最下面的代理设置，选择"自动"，填写PAC地址 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/3.png" target="_blank">图</a>)</li>
-<li>设置后后，直接在iphone的浏览器 safari 输入 a.dtwang.org 即可开始自有翻墙啦。</li>
+<li>设置后后，直接在iphone的浏览器 safari 输入 a.dtwang.org 即可开始自由翻墙啦。</li>
 </ol>
 </li>
 <li> 禁闻在线代理，浏览器直接访问，无需安装： <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a>
