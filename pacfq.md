@@ -41,7 +41,7 @@ https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下�
 <p>
     系统设置 -&gt; 网络 -&gt; 高级 -&gt; 代理 -&gt; 自动代理配置 -&gt; 填入PAC地址 -&gt; 好。
 </p>
-<h3>iOS (iPhone/iPad)</h3>
+<h3>iOS (iPhone/iPad)的PAC设置</h3>
 <p>
     设置 -&gt; WiFi -&gt; 使用的热点 -&gt; 代理 -&gt; 代理设置 -&gt; 选择"自动" -&gt; URL中填入PAC地址 -&gt; 好。
 </p>
