@@ -10,10 +10,27 @@
 https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
-<h3>Internet Explore</h3>
+<h3>Windows下Internet Explore或Google Chrome设置：</h3>
 <p>
-    Internet选项 -&gt; 连接 选项卡 -&gt; 局域网设置(如果是电脑拨号上网, 这里点'设置') -&gt; 使用自动配置脚本 -&gt; 填入PAC地址 -&gt; 确定。
+    Internet选项 -&gt; 连接 选项卡 -&gt; 局域网设置(如果是电脑拨号上网, 这里点'设置') -&gt; 使用自动配置脚本 -&gt; 填入PAC地址 :<a href="https://git.oschina.net/j365/go/raw/master/ios.pac" target="_blank">https://git.oschina.net/j365/go/raw/master/ios.pac</a> &nbsp;(下面其它设备的设置也使用这个地址)-&gt; 确定。 设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。
 </p>
+
+
+<h3>火狐(Firefox)浏览器设置：</h3>
+
+<div>打开火狐（Firefix）浏览器，点击右上角的“打开菜单”（3个横按钮）-&gt;“选项”；</div>
+
+<div>切换到“高级”选项卡；</div>
+
+<div>选择“网络” ；</div>
+
+<div>点击“设置”按钮。</div>
+
+<div>选择“自动代理配置（PAC）”；</div>
+
+<div>填入PAC地址；</div>
+
+<div>点击“确定”按钮；</div>
 
 <h3>Mac OS X</h3>
 <p>
