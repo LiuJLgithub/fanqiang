@@ -50,7 +50,7 @@ https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下�
     设置 -&gt; WiFi -&gt; 修改网络 -&gt; 显示高级选项 -&gt; 代理选择【代理自动配置】 -&gt; 填入PAC地址 -&gt; 确定。
 </p>
 
-<h3>Android 4.x 及更老版本 的PAC设置</h3>
+<h3>Android 4.x ，Android 3.x 的PAC设置</h3>
 请参考：<a href="https://github.com/uku/Unblock-Youku/issues/259" target="_blank">这里</a>。
 
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/pac.jpg" border="0" alt="pac翻墙">
