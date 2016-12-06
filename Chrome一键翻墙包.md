@@ -24,7 +24,7 @@ Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https
 
 <h3>公告：</h3>
 <ul class="task-list">
-<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您的BT Sync软件会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC</li>
+<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC</li>
 </ul>
 
 <h3>轻便版下载地址</h3> 轻便版适合已安装chrome的网友，如果还没安装chrome，需自行下载安装Chrome，下载解压后请务必阅读其中的使用说明文档。
