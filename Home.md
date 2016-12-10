@@ -44,7 +44,7 @@
 <a name="fanqiangsoft"></a><h2>PC翻墙软件下载</h2>短网址:https://x.co/killgfw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
-
+<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 <li>
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站:<a href="https://xl.domain888.pw/jwd.zip">下载1</a> <a href="https://xl.freepac.pw/jwd.zip">下载2</a> <a href="https://xl.opendn.xyz/jwd.zip">下载3</a>   ) </strong>下载短网址:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
