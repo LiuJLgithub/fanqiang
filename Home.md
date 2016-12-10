@@ -86,6 +86,8 @@
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
+<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
+
 <li>
       <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">禁闻浏览器</a>(全新升级V1.2版，翻墙能力大大提升。安卓翻墙工具-禁闻浏览器 JWBrowser,轻量级翻墙工具,极速翻墙。JWBrowser宗旨是帮助中国大陆网友自由翻墙上网，获取海外自由世界的信息,JWBrowser以速度为第一宗旨，不加密网络流量，对安全性要求很高的敏感人士建议慎用或不用。<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">看截图</a>。 <a href="https://xt.domain888.pw/JWBrowser.apk">下载1</a> <a href="https://xt.freepac.pw/JWBrowser.apk">下载2</a> <a href="https://xt.opendn.xyz/JWBrowser.apk">下载3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google安卓市场下载</a>  ) </strong>下载短网址:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
