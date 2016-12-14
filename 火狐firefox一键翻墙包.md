@@ -28,6 +28,7 @@
 <blockquote>
 <ul class="task-list">
 <li>
+<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 
 <b>下载链接1</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
@@ -39,7 +40,6 @@
 
 <b>文件信息：</b>文件名：FirefoxFQ.7z md5: afcfd45b11f3968ec64fcaa86e5e09ab ，文件大小：82,800,908 字节
 </li>
-<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
