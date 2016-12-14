@@ -1,4 +1,4 @@
-<div class="markdown-body">
+﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
 <li><strong>2016年12月6日</strong> 更新蓝灯，解决蓝灯翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
@@ -29,7 +29,7 @@
 <ul class="task-list">
 <li>
 
-<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1bp1Gu2j" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
+<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
 <b>下载链接2</b>：<a href="https://mega.nz/#!qpllXBBT!2rbM-KEhk_PReXkAj4zQJUSI6-P8EAwyb0EaNPVC3Kg" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
