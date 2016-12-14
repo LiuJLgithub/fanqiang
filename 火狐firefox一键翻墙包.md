@@ -11,7 +11,6 @@
 <h3>公告和注意：</h3>
 
 <ul class="task-list">
-<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 
 <li><strong>电脑上需要安装用于火狐的flash插件才可以播放网页视频。请及时更新flash插件，用于火狐的最新版flash插件官网下载地址：</strong> <a href="http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe">http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe</a></li>
 
