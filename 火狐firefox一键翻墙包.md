@@ -28,13 +28,13 @@
 <blockquote>
 <ul class="task-list">
 
-<li>全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
+<li><b>下载链接1</b>：全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 <li>
-<b>下载链接1</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
+<b>下载链接2</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接2</b>：<a href="https://mega.nz/#!qpllXBBT!2rbM-KEhk_PReXkAj4zQJUSI6-P8EAwyb0EaNPVC3Kg" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+<b>下载链接3</b>：<a href="https://mega.nz/#!qpllXBBT!2rbM-KEhk_PReXkAj4zQJUSI6-P8EAwyb0EaNPVC3Kg" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
 
-<b>下载链接3</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
+<b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
 
 
