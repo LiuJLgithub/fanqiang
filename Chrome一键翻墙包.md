@@ -1,4 +1,4 @@
-<div class="markdown-body">
+﻿<div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
 
 Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
@@ -31,7 +31,7 @@ Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1geTIo99" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
+ 下载链接1：<a href="http://pan.baidu.com/s/1dFzHyCx" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!3ssBkK5D!23ycI_HWyaL_VPexyHxDDuUTEZzkh8sWBWgwuRGYw1o" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
@@ -76,7 +76,7 @@ Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="http://pan.baidu.com/s/1slxkeNb" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
+ 下载链接1：<a href="http://pan.baidu.com/s/1c030Eq" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，链接不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://mega.nz/#!ypNFCAKD!7eV9vQ7uc1Zk6o-FvwInY2m7LyBTPy4JY-humTBjgWw" target="_blank">MEGA网盘下载</a>，如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。
