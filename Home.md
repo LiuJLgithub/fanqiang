@@ -1,6 +1,6 @@
 <h1><a href="#jwproxy">½ûÎÅ´úÀí·­Ç½</a>¡¢<a href="#to-dtw">¶¯Ì¬Íø</a>¡¢<a href="#to-wjw">ÎÞ½çÍø</a>¡¢<a href="#fqsearch">·­Ç½Google</a>¡¢<a href="#mobilejinwang">ÊÖ»ú½ûÍøÆ½Ì¨</a>¡¢<a href="#fanqiangsoft">·­Ç½Èí¼þÏÂÔØ</a>¡¢<a href="#androidfq">°²×¿ÊÖ»ú·­Ç½</a>¡¢<a href="#gczxpt">¹ã´«ÕæÏàÆ½Ì¨</a></h1> 
 
-<h2>½üÀ´£¬githubÉÏ¹«²¼µÄÖ±Á¬ÍøÖ·¾­³£ºÜ¿ì±»·â£¬ÍÆ¼ö´ó¼Ò³¢ÊÔÏÂÁÐ·­Ç½·½Ê½£º<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">ChromeÒ»¼ü·­Ç½°ü</a>¡¢<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac¶àÆ½Ì¨·­Ç½</a>
+<h2>½üÀ´£¬githubÉÏ¹«²¼µÄÖ±Á¬ÍøÖ·¾­³£ºÜ¿ì±»·â£¬ÍÆ¼ö´ó¼Ò³¢ÊÔÏÂÁÐ·­Ç½·½Ê½£º<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">ChromeÒ»¼ü·­Ç½°ü</a>¡¢<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac·­Ç½£ºµçÄÔWindows¡¢MAC¡¢ÊÖ»úµÈ¶àÆ½Ì¨·­Ç½</a>
 
 <h2>È«ÐÂÍÆ³ö: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone·­Ç½</a>¡£Çë¼ÇÂ¼ÊÕ²Ø±¾ÍøÒ³ÍøÖ·, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">·´À¡½»Á÷</a></h2>
 
@@ -8,7 +8,7 @@
 <br>ÊÕ²Ø·½·¨£ºµçÄÔ·ÃÎÊ¿É°´Ctrl+D ¼ü£¬ÊÖ»ú·ÃÎÊÇë°´ÊÖ»úÊÕ²Ø·½·¨ÊÕ²Ø</strong>
 <br>±¾Ò³¶þÎ¬Âë¡¢¶ÌÍøÖ·£º <br>
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" /><br>
-https://git.io/jww  https://x.co/bnews  
+https://git.io/jww »ò https://x.co/bnews<br>
 httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´ò¿ª<br>
 
 Èç¹ûIE6-10»ò¹ú²úä¯ÀÀÆ÷ÆÁ±Î±¾Ò³Ãæ£¬´ò²»¿ª±¾Ò³Ãæ£¬¿ÉÑ¡ÓÃ¹È¸èä¯ÀÀÆ÷£º<br>
@@ -26,14 +26,14 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
     </li>
 
   <li>
-      <strong><a href="https://sk.freepac.pw/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.deptofhealth.xyz/jwd.zip">ÏÂÔØ1</a></strong>
+      <strong><a href="https://sl.freepac.pw/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.deptofhealth.xyz/jwd.zip">ÏÂÔØ1</a></strong>
     </li> 
    <li>
-      <strong><a href="https://sk.domain888.pw/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.domain888.pw/jwd.zip">ÏÂÔØ2</a></strong>
+      <strong><a href="https://sl.domain888.pw/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.domain888.pw/jwd.zip">ÏÂÔØ2</a></strong>
     </li>     
     
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.freepac.pw/jwd.zip">ÏÂÔØ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.freepac.pw/jwd.zip">ÏÂÔØ3</a></strong>
     </li> 
 
  
@@ -42,7 +42,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
   <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://sk.deptofhealth.xyz/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://sk.deptofhealth.xyz/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://sk.deptofhealth.xyz/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://sk.deptofhealth.xyz/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://sk.deptofhealth.xyz/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
+     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://sl.deptofhealth.xyz/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://sl.deptofhealth.xyz/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://sl.deptofhealth.xyz/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://sl.deptofhealth.xyz/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://sl.deptofhealth.xyz/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
     </li>
  
 
@@ -57,7 +57,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <li>È«ÐÂÍÆ³öBT SyncÏÂÔØ£¬·Ç³£ºÃÓÃ·½±ã£¬ÓÀ¾Ã×Ô¶¯Í¬²½£¬ÎÒÃÇ·¢²¼ÐÂ°æ·­Ç½Èí¼þºó£¬Äú»á×Ô¶¯»ñµÃÍ¬²½¸üÐÂ¡£BT SyncÍ¬²½ÃÜÔ¿: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  £¬<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync£¨RESILIO SYNC£©-ÏÂÔØÉñÆ÷£¬P2PÍ¬²½ÀûÆ÷ºÍ·Ö²¼Ê½ÍøÅÌ</a></li>
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾:<a href="https://sk.domain888.pw/jwd.zip">ÏÂÔØ1</a> <a href="https://sk.freepac.pw/jwd.zip">ÏÂÔØ2</a> <a href="https://sk.deptofhealth.xyz/jwd.zip">ÏÂÔØ3</a>   ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾:<a href="https://sl.domain888.pw/jwd.zip">ÏÂÔØ1</a> <a href="https://sl.freepac.pw/jwd.zip">ÏÂÔØ2</a> <a href="https://sl.deptofhealth.xyz/jwd.zip">ÏÂÔØ3</a>   ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
@@ -98,20 +98,20 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <li>È«ÐÂÍÆ³öBT SyncÏÂÔØ£¬·Ç³£ºÃÓÃ·½±ã£¬ÓÀ¾Ã×Ô¶¯Í¬²½£¬ÎÒÃÇ·¢²¼ÐÂ°æ·­Ç½Èí¼þºó£¬Äú»á×Ô¶¯»ñµÃÍ¬²½¸üÐÂ¡£BT SyncÍ¬²½ÃÜÔ¿: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  £¬<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync£¨RESILIO SYNC£©-ÏÂÔØÉñÆ÷£¬P2PÍ¬²½ÀûÆ÷ºÍ·Ö²¼Ê½ÍøÅÌ</a></li>
 
 <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">½ûÎÅä¯ÀÀÆ÷</a>(È«ÐÂÉý¼¶V1.2°æ£¬·­Ç½ÄÜÁ¦´ó´óÌáÉý¡£°²×¿·­Ç½¹¤¾ß-½ûÎÅä¯ÀÀÆ÷ JWBrowser,ÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·­Ç½¡£JWBrowser×ÚÖ¼ÊÇ°ïÖúÖÐ¹ú´óÂ½ÍøÓÑ×ÔÓÉ·­Ç½ÉÏÍø£¬»ñÈ¡º£Íâ×ÔÓÉÊÀ½çµÄÐÅÏ¢,JWBrowserÒÔËÙ¶ÈÎªµÚÒ»×ÚÖ¼£¬²»¼ÓÃÜÍøÂçÁ÷Á¿£¬¶Ô°²È«ÐÔÒªÇóºÜ¸ßµÄÃô¸ÐÈËÊ¿½¨ÒéÉ÷ÓÃ»ò²»ÓÃ¡£<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">¿´½ØÍ¼</a>¡£ <a href="https://sk.domain888.pw/JWBrowser.apk">ÏÂÔØ1</a> <a href="https://sk.freepac.pw/JWBrowser.apk">ÏÂÔØ2</a> <a href="https://sk.deptofhealth.xyz/JWBrowser.apk">ÏÂÔØ3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google°²×¿ÊÐ³¡ÏÂÔØ</a>  ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">½ûÎÅä¯ÀÀÆ÷</a>(È«ÐÂÉý¼¶V1.2°æ£¬·­Ç½ÄÜÁ¦´ó´óÌáÉý¡£°²×¿·­Ç½¹¤¾ß-½ûÎÅä¯ÀÀÆ÷ JWBrowser,ÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·­Ç½¡£JWBrowser×ÚÖ¼ÊÇ°ïÖúÖÐ¹ú´óÂ½ÍøÓÑ×ÔÓÉ·­Ç½ÉÏÍø£¬»ñÈ¡º£Íâ×ÔÓÉÊÀ½çµÄÐÅÏ¢,JWBrowserÒÔËÙ¶ÈÎªµÚÒ»×ÚÖ¼£¬²»¼ÓÃÜÍøÂçÁ÷Á¿£¬¶Ô°²È«ÐÔÒªÇóºÜ¸ßµÄÃô¸ÐÈËÊ¿½¨ÒéÉ÷ÓÃ»ò²»ÓÃ¡£<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">¿´½ØÍ¼</a>¡£ <a href="https://sl.domain888.pw/JWBrowser.apk">ÏÂÔØ1</a> <a href="https://sl.freepac.pw/JWBrowser.apk">ÏÂÔØ2</a> <a href="https://sl.deptofhealth.xyz/JWBrowser.apk">ÏÂÔØ3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google°²×¿ÊÐ³¡ÏÂÔØ</a>  ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">½ûÎÅÍø°²×¿·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://sk.domain888.pw/jinwen.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.freepac.pw/jinwen.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.deptofhealth.xyz/jinwen.apk">ÏÂÔØ3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">½ûÎÅÍø°²×¿·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://sl.domain888.pw/jinwen.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.freepac.pw/jinwen.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.deptofhealth.xyz/jinwen.apk">ÏÂÔØ3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">¶¯Ì¬Íø·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://sk.domain888.pw/dweb.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.freepac.pw/dweb.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.deptofhealth.xyz/dweb.apk">ÏÂÔØ3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">¶¯Ì¬Íø·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://sl.domain888.pw/dweb.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.freepac.pw/dweb.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.deptofhealth.xyz/dweb.apk">ÏÂÔØ3</a>
     </li>     
  <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">°²×¿¾«¼ò°æ½ûÎÅ´úÀí</a>£¨Æô¶¯APPºóÖ±½Ó´ò¿ª±¾Ò³Ãæ£¬ÔÙ°´°²×¿·µ»Ø¼üÔòËæ»ú´ò¿ªÒ»¸öÖ±Á¬¾µÏñ·­Ç½£©</strong> »ò&nbsp;&nbsp;&nbsp;<a href="https://sk.domain888.pw/jw.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.freepac.pw/jw.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.deptofhealth.xyz/jw.apk">ÏÂÔØ3</a>  ÏÂÔØ¶ÌÍøÖ·£º<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">°²×¿¾«¼ò°æ½ûÎÅ´úÀí</a>£¨Æô¶¯APPºóÖ±½Ó´ò¿ª±¾Ò³Ãæ£¬ÔÙ°´°²×¿·µ»Ø¼üÔòËæ»ú´ò¿ªÒ»¸öÖ±Á¬¾µÏñ·­Ç½£©</strong> »ò&nbsp;&nbsp;&nbsp;<a href="https://sl.domain888.pw/jw.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.freepac.pw/jw.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.deptofhealth.xyz/jw.apk">ÏÂÔØ3</a>  ÏÂÔØ¶ÌÍøÖ·£º<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
       <strong>ÍøÃÅ°²×¿°æ£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
@@ -141,13 +141,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -156,13 +156,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.domain888.pw/jinwen.apk">ÏÂÔØ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.domain888.pw/jinwen.apk">ÏÂÔØ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.freepac.pw/jinwen.apk">ÏÂÔØ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.freepac.pw/jinwen.apk">ÏÂÔØ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://sk.deptofhealth.xyz/jinwen.apk">ÏÂÔØ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://sl.deptofhealth.xyz/jinwen.apk">ÏÂÔØ3</a></strong>
     </li>
   </ul>
 </div>
@@ -172,19 +172,19 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 ¹ã´«ÕæÏàÆ½Ì¨2.0°æ²ÉÓÃÏìÓ¦Ê½Éè¼Æ£¬×Ô¶¯ÊÊÓ¦ÊÖ»úºÍµçÄÔ·ÃÎÊ£¬¸üÐÂ¼°Ê±£¬·­Ç½ÎÞÓÇ£¬ÇëÏÂÔØ±¸ÓÃ¡£ ¶ÌÍøÖ·:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ3</a></strong>
     </li>
   <li>
-      <strong><a href="https://sk.freepac.pw/wstp.zip" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-PC°æÏÂÔØ</a></strong>
+      <strong><a href="https://sl.freepac.pw/wstp.zip" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-PC°æÏÂÔØ</a></strong>
     </li>
   <li>
-      <strong><a href="https://sk.freepac.pw/wstp.apk" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-°²×¿°æÏÂÔØ</a></strong>
+      <strong><a href="https://sl.freepac.pw/wstp.apk" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-°²×¿°æÏÂÔØ</a></strong>
     </li>
   </ul>
 </div>
@@ -193,13 +193,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -208,13 +208,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.freepac.pw/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.freepac.pw/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.domain888.pw/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.domain888.pw/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -223,13 +223,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -238,13 +238,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -253,24 +253,24 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://sk.domain888.pw/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ3</a></strong>
     </li>
 
 
  <li>
-      <strong><a href="https://sk.domain888.pw/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ1</a></strong>
+      <strong><a href="https://sl.domain888.pw/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.freepac.pw/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ2</a></strong>
+      <strong><a href="https://sl.freepac.pw/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://sk.deptofhealth.xyz/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ3</a></strong>
+      <strong><a href="https://sl.deptofhealth.xyz/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ3</a></strong>
     </li>
 
   </ul>
