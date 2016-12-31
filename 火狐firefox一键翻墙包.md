@@ -35,7 +35,7 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接5</b>: 全新推出磁力连接下载 ：<a href="magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR" target="_blank">magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR</a><br><br>
+<b>下载链接5</b>: 全新推出磁力连接下载 ：magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR<br><br>
 
 <b>文件信息：</b>文件名：FirefoxFQ.7z md5: afcfd45b11f3968ec64fcaa86e5e09ab ，文件大小：82,800,908 字节
 </li>

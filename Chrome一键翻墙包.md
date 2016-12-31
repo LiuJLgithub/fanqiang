@@ -25,7 +25,7 @@ Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https
 <h3>公告：</h3>
 <ul class="task-list">
 <li>全新推出BT Sync（RESILIO SYNC）下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
-<li>全新推出磁力连接下载, 轻松下载我们的所有翻墙软件，封不掉：<a href="magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR">magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR</a></li>
+<li>全新推出磁力连接下载, 轻松下载我们的所有翻墙软件，封不掉：magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR</li>
 </ul>
 
 <h3>轻便版下载地址</h3> 轻便版适合已安装chrome的网友，如果还没安装chrome，需自行下载安装Chrome，下载解压后请务必阅读其中的使用说明文档。
