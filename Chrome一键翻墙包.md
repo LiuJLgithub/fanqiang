@@ -1,7 +1,7 @@
 ﻿<div class="markdown-body">
 <h1>Chrome一键翻墙包</h1>
 
-Chrome一键翻墙包（每天共享多G流量），全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
+Chrome一键翻墙包（每天共享数千G流量），全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
 <h3>更新日志：</h3>
 <ul class="task-list">
 <li><strong>2017年1月3日</strong> 更新GoAgent和蓝灯，解决翻墙失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/></li>
