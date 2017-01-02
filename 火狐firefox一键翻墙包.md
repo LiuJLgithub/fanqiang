@@ -1,7 +1,7 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
-<li><strong>2016年12月6日</strong> 更新蓝灯，解决蓝灯翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
+<li><strong>2017年1月2日</strong> 更新蓝灯，解决蓝灯翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
 <li><strong>2016年11月1日</strong> 更新Agent2</li>
 <li><strong>2016年9月8日</strong> 更新，<a href="https://github.com/bannedbook/fanqiang/issues/12" target="_blank">解决firefoxfq goagent-https网站链接问题</a>。 </li>
@@ -35,9 +35,9 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接5</b>: 全新推出磁力连接下载 ：magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR<br><br>
+<b>下载链接5</b>: 全新推出磁力连接下载 ：<br>magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR<br><br>
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: afcfd45b11f3968ec64fcaa86e5e09ab ，文件大小：82,800,908 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: adb3ce616e8d13b329a0011e7f036a56，文件大小：82,813,362 字节
 </li>
 
 <li>
