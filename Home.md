@@ -56,7 +56,7 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
   
 <li>х╚пбмфЁЖBT Syncобтьё╛╥гЁё╨цсц╥╫╠Цё╛сю╬цвт╤╞м╛╡╫ё╛нрцг╥╒╡╪пб╟Ф╥╜г╫хМ╪Ч╨Сё╛дЗ╩Авт╤╞╩Я╣цм╛╡╫╦Эпб║ёBT Syncм╛╡╫цэт©: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ё╛<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Syncё╗RESILIO SYNCё╘-обтьиЯфВё╛P2Pм╛╡╫юШфВ╨м╥ж╡╪й╫мЬел</a></li>
 
-<li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR</li>
+<li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
 <li>
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">╫Шне╢ЗюМобть</a>(╫Шне╢ЗюМ╪Р╫Иё╨гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥цнй╬Ь╢С╤ЮйЩ╠╩г╫мЬу╬:<a href="https://yy.usadns.info/jwd.zip">обть1</a> <a href="https://yy.webdns.work/jwd.zip">обть2</a> <a href="https://yy.setdns.work/jwd.zip">обть3</a>   ) </strong>обть╤лмЬж╥:  <a href="https://git.io/jwd">https://git.io/jwd</a>
@@ -101,7 +101,7 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 
 <li>
 
-<li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR</li>
+<li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
       <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">╫ШнеД╞ююфВ</a>(х╚пбиЩ╪╤V1.2╟Фё╛╥╜г╫дэа╕╢С╢СлАиЩ║ё╟╡в©╥╜г╫╧╓╬ъ-╫ШнеД╞ююфВ JWBrowser,гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥╜г╫║ёJWBrowserвзж╪йг╟ОжЗжп╧З╢Сб╫мЬсявтси╥╜г╫иомЬё╛╩Ях║╨ёмБвтсийю╫Г╣дпео╒,JWBrowserрткы╤хн╙╣зр╩взж╪ё╛╡╩╪сцэмЬбГаВа©ё╛╤т╟╡х╚птр╙гС╨э╦ъ╣дцТ╦пхкй©╫╗рИиВсц╩Р╡╩сц║ё<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">©╢╫ьм╪</a>║ё <a href="https://yy.usadns.info/JWBrowser.apk">обть1</a> <a href="https://yy.webdns.work/JWBrowser.apk">обть2</a> <a href="https://yy.setdns.work/JWBrowser.apk">обть3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google╟╡в©йпЁ║обть</a>  ) </strong>обть╤лмЬж╥:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 

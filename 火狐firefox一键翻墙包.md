@@ -35,7 +35,7 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接5</b>: 全新推出磁力连接下载 ：<br>magnet:?xt=urn:btih:PPQDKMPVSD3WATEZ5IPF4GP2SBMG6GFR<br><br>
+<b>下载链接5</b>: 全新推出磁力连接下载 ：<br>magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3<br><br>
 
 <b>下载链接6</b>: 全新推出电驴(eMule)下载 ：<br>ed2k://|file|FirefoxFQ.7z|82811368|431409D506B920533A7B520A7A4F8A7B|h=66YNTOGOQEXY5YL6WSI3G7D2MUPELLXP|/<br><br>
 
