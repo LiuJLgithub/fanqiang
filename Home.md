@@ -26,14 +26,14 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
     </li>
 
   <li>
-      <strong><a href="https://yc.mesothelioma.accountant/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.39dns.info/jwd.zip">обть1</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.39dns.info/jwd.zip">обть1</a></strong>
     </li> 
    <li>
-      <strong><a href="https://yc.dnssite.xyz/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.dnssite.xyz/jwd.zip">обть2</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.dnssite.xyz/jwd.zip">обть2</a></strong>
     </li>     
     
     <li>
-      <strong><a href="https://yc.39dns.info/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.mesothelioma.accountant/jwd.zip">обть3</a></strong>
+      <strong><a href="https://yd.39dns.info/" target="_blank">╫Шне╢ЗюМтзоъ-╬╣оЯ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.mesothelioma.accountant/jwd.zip">обть3</a></strong>
     </li> 
 
  
@@ -42,7 +42,7 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
   <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ╫Шне╢ЗюМтзоъ-╬╣оЯсРцШ╨СцФ╪с/20/ ╬мйг<a href="https://yc.39dns.info/20/" target="_blank">╤╞л╛мЬ</a>ё╛╨СцФ╪с /31/ ╬мйг<a href="https://yc.39dns.info/31/" target="_blank">нч╫ГмЬ</a>ё╛╨СцФ╪с /jygjw.php ╬мйг<a href="https://yc.39dns.info/jygjw.php" target="_blank">╬шт╣╦С╫Шне╣╪╨╫</a>ё╛╨СцФ╪с/gczx.html╬мйг<a href="https://yc.39dns.info/gczx.html" target="_blank">╧Ц╢╚уФоЮф╫л╗</a>ё╛╨СцФ╪с/jygdl.php╬мйг<a href="https://yc.39dns.info/jygdl.php" target="_blank">╬шт╣╦С╢ЗюМ</a>║ё
+     ╫Шне╢ЗюМтзоъ-╬╣оЯсРцШ╨СцФ╪с/20/ ╬мйг<a href="https://yd.39dns.info/20/" target="_blank">╤╞л╛мЬ</a>ё╛╨СцФ╪с /31/ ╬мйг<a href="https://yd.39dns.info/31/" target="_blank">нч╫ГмЬ</a>ё╛╨СцФ╪с /jygjw.php ╬мйг<a href="https://yd.39dns.info/jygjw.php" target="_blank">╬шт╣╦С╫Шне╣╪╨╫</a>ё╛╨СцФ╪с/gczx.html╬мйг<a href="https://yd.39dns.info/gczx.html" target="_blank">╧Ц╢╚уФоЮф╫л╗</a>ё╛╨СцФ╪с/jygdl.php╬мйг<a href="https://yd.39dns.info/jygdl.php" target="_blank">╬шт╣╦С╢ЗюМ</a>║ё
     </li>
  
 
@@ -59,7 +59,7 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">╫Шне╢ЗюМобть</a>(╫Шне╢ЗюМ╪Р╫Иё╨гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥цнй╬Ь╢С╤ЮйЩ╠╩г╫мЬу╬:<a href="https://yc.dnssite.xyz/jwd.zip">обть1</a> <a href="https://yc.mesothelioma.accountant/jwd.zip">обть2</a> <a href="https://yc.39dns.info/jwd.zip">обть3</a>   ) </strong>обть╤лмЬж╥:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">╫Шне╢ЗюМобть</a>(╫Шне╢ЗюМ╪Р╫Иё╨гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥цнй╬Ь╢С╤ЮйЩ╠╩г╫мЬу╬:<a href="https://yd.dnssite.xyz/jwd.zip">обть1</a> <a href="https://yd.mesothelioma.accountant/jwd.zip">обть2</a> <a href="https://yd.39dns.info/jwd.zip">обть3</a>   ) </strong>обть╤лмЬж╥:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
@@ -103,20 +103,20 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 
 <li>х╚пбмфЁЖ╢еа╕а╛╫собть, гАкиобтьнрцг╣дкЫсп╥╜г╫хМ╪Чё╛╥Б╡╩╣Тё╨magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">╫ШнеД╞ююфВ</a>(х╚пбиЩ╪╤V1.2╟Фё╛╥╜г╫дэа╕╢С╢СлАиЩ║ё╟╡в©╥╜г╫╧╓╬ъ-╫ШнеД╞ююфВ JWBrowser,гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥╜г╫║ёJWBrowserвзж╪йг╟ОжЗжп╧З╢Сб╫мЬсявтси╥╜г╫иомЬё╛╩Ях║╨ёмБвтсийю╫Г╣дпео╒,JWBrowserрткы╤хн╙╣зр╩взж╪ё╛╡╩╪сцэмЬбГаВа©ё╛╤т╟╡х╚птр╙гС╨э╦ъ╣дцТ╦пхкй©╫╗рИиВсц╩Р╡╩сц║ё<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">©╢╫ьм╪</a>║ё <a href="https://yc.dnssite.xyz/JWBrowser.apk">обть1</a> <a href="https://yc.mesothelioma.accountant/JWBrowser.apk">обть2</a> <a href="https://yc.39dns.info/JWBrowser.apk">обть3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google╟╡в©йпЁ║обть</a>  ) </strong>обть╤лмЬж╥:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">╫ШнеД╞ююфВ</a>(х╚пбиЩ╪╤V1.2╟Фё╛╥╜г╫дэа╕╢С╢СлАиЩ║ё╟╡в©╥╜г╫╧╓╬ъ-╫ШнеД╞ююфВ JWBrowser,гАа©╪╤╥╜г╫╧╓╬ъ,╪╚кы╥╜г╫║ёJWBrowserвзж╪йг╟ОжЗжп╧З╢Сб╫мЬсявтси╥╜г╫иомЬё╛╩Ях║╨ёмБвтсийю╫Г╣дпео╒,JWBrowserрткы╤хн╙╣зр╩взж╪ё╛╡╩╪сцэмЬбГаВа©ё╛╤т╟╡х╚птр╙гС╨э╦ъ╣дцТ╦пхкй©╫╗рИиВсц╩Р╡╩сц║ё<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">©╢╫ьм╪</a>║ё <a href="https://yd.dnssite.xyz/JWBrowser.apk">обть1</a> <a href="https://yd.mesothelioma.accountant/JWBrowser.apk">обть2</a> <a href="https://yd.39dns.info/JWBrowser.apk">обть3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google╟╡в©йпЁ║обть</a>  ) </strong>обть╤лмЬж╥:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">╫ШнемЬ╟╡в©╥╜г╫пбнеAPP</a>ё╨</strong> &nbsp;&nbsp;&nbsp;<a href="https://yc.dnssite.xyz/jinwen.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.mesothelioma.accountant/jinwen.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.39dns.info/jinwen.apk">обть3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">╫ШнемЬ╟╡в©╥╜г╫пбнеAPP</a>ё╨</strong> &nbsp;&nbsp;&nbsp;<a href="https://yd.dnssite.xyz/jinwen.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.mesothelioma.accountant/jinwen.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.39dns.info/jinwen.apk">обть3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">╤╞л╛мЬ╥╜г╫пбнеAPP</a>ё╨</strong> &nbsp;&nbsp;&nbsp;<a href="https://yc.dnssite.xyz/dweb.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.mesothelioma.accountant/dweb.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.39dns.info/dweb.apk">обть3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">╤╞л╛мЬ╥╜г╫пбнеAPP</a>ё╨</strong> &nbsp;&nbsp;&nbsp;<a href="https://yd.dnssite.xyz/dweb.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.mesothelioma.accountant/dweb.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.39dns.info/dweb.apk">обть3</a>
     </li>     
  <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">╟╡в©╬╚╪Р╟Ф╫Шне╢ЗюМ</a>ё╗фТ╤╞APP╨Сж╠╫с╢Р©╙╠╬рЁцФё╛ты╟╢╟╡в©╥╣╩ь╪ЭтРкФ╩З╢Р©╙р╩╦Жж╠а╛╬╣оЯ╥╜г╫ё╘</strong> ╩Р&nbsp;&nbsp;&nbsp;<a href="https://yc.dnssite.xyz/jw.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.mesothelioma.accountant/jw.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.39dns.info/jw.apk">обть3</a>  обть╤лмЬж╥ё╨<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">╟╡в©╬╚╪Р╟Ф╫Шне╢ЗюМ</a>ё╗фТ╤╞APP╨Сж╠╫с╢Р©╙╠╬рЁцФё╛ты╟╢╟╡в©╥╣╩ь╪ЭтРкФ╩З╢Р©╙р╩╦Жж╠а╛╬╣оЯ╥╜г╫ё╘</strong> ╩Р&nbsp;&nbsp;&nbsp;<a href="https://yd.dnssite.xyz/jw.apk">обть1</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.mesothelioma.accountant/jw.apk">обть2</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.39dns.info/jw.apk">обть3</a>  обть╤лмЬж╥ё╨<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
       <strong>мЬце╟╡в©╟Фё╨</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
@@ -146,13 +146,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/91/" class="wiki-page-link" target="_blank">╧х╦Х╥╜г╫кякВ-╬╣оЯ3</a></strong>
     </li>
   </ul>
 </div>
@@ -161,13 +161,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.dnssite.xyz/jinwen.apk">обть1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.dnssite.xyz/jinwen.apk">обть1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.mesothelioma.accountant/jinwen.apk">обть2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.mesothelioma.accountant/jinwen.apk">обть2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yc.39dns.info/jinwen.apk">обть3</a></strong>
+      <strong><a href="https://yd.39dns.info/1/" target="_blank">йж╩З╫ШмЬф╫л╗-╬╣оЯ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yd.39dns.info/jinwen.apk">обть3</a></strong>
     </li>
   </ul>
 </div>
@@ -177,19 +177,19 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 ╧Ц╢╚уФоЮф╫л╗2.0╟Ф╡исцоЛс╕й╫иХ╪фё╛вт╤╞ййс╕йж╩З╨м╣Гдт╥цнйё╛╦Эпб╪╟й╠ё╛╥╜г╫нчсгё╛гКобть╠╦сц║ё ╤лмЬж╥:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/gczx.html" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╬╣оЯ3</a></strong>
     </li>
   <li>
-      <strong><a href="https://yc.mesothelioma.accountant/wstp.zip" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-PC╟Фобть</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/wstp.zip" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-PC╟Фобть</a></strong>
     </li>
   <li>
-      <strong><a href="https://yc.mesothelioma.accountant/wstp.apk" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╟╡в©╟Фобть</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/wstp.apk" class="wiki-page-link" target="_blank">╧Ц╢╚уФоЮф╫л╗-╟╡в©╟Фобть</a></strong>
     </li>
   </ul>
 </div>
@@ -198,13 +198,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/98/" class="wiki-page-link" target="_blank">мкЁЖ╣Ё║╒ме║╒╤с-╬╣оЯ3</a></strong>
     </li>
   </ul>
 </div>
@@ -213,13 +213,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.39dns.info/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.dnssite.xyz/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/20/" class="wiki-page-link" target="_blank">╤╞л╛мЬ-╬╣оЯ3</a></strong>
     </li>
   </ul>
 </div>
@@ -228,13 +228,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/31/" class="wiki-page-link" target="_blank">нч╫ГмЬ-╬╣оЯ3</a></strong>
     </li>
   </ul>
 </div>
@@ -243,13 +243,13 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/18/" class="wiki-page-link" target="_blank">иЯжщуЩ╣юмЬ-╬╣оЯ3</a></strong>
     </li>
   </ul>
 </div>
@@ -258,24 +258,24 @@ http╨Ср╩╤╗р╙╦Зsё╛хГ╧Шн╒пеюОж╠╫с╢Р╡╩©╙ё╛гКох╣Ц╩Вн╒песрио╫гхЩ╦Ж╣Цё╛я║тЯтзД╞ююфВжп╢
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.dnssite.xyz/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/jygjw.php" class="wiki-page-link" target="_blank">╬шт╣╦С╫Шне╣╪╨╫-╬╣оЯ3</a></strong>
     </li>
 
 
  <li>
-      <strong><a href="https://yc.dnssite.xyz/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ1</a></strong>
+      <strong><a href="https://yd.dnssite.xyz/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.mesothelioma.accountant/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ2</a></strong>
+      <strong><a href="https://yd.mesothelioma.accountant/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://yc.39dns.info/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ3</a></strong>
+      <strong><a href="https://yd.39dns.info/jygdl.php" class="wiki-page-link" target="_blank">╬шт╣╦С╢ЗюМ-╬╣оЯ3</a></strong>
     </li>
 
   </ul>
