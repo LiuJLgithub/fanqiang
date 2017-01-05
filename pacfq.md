@@ -7,12 +7,12 @@
 <h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
 
 禁闻翻墙pac地址：
-https://git.oschina.net/j365/go/raw/master/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
+https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h3>Windows下Internet Explore或Google Chrome/Chromium的PAC设置：</h3>
 <p>
-    Internet选项 -&gt; 连接 选项卡 -&gt; 局域网设置(如果是电脑拨号上网, 这里点'设置') -&gt; 使用自动配置脚本 -&gt; 填入PAC地址 :<a href="https://git.oschina.net/j365/go/raw/master/ios.pac" target="_blank">https://git.oschina.net/j365/go/raw/master/ios.pac</a> &nbsp;(下面其它设备的设置也使用这个地址)-&gt; 确定。 设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。
+    Internet选项 -&gt; 连接 选项卡 -&gt; 局域网设置(如果是电脑拨号上网, 这里点'设置') -&gt; 使用自动配置脚本 -&gt; 填入上面的禁闻翻墙pac地址 &nbsp;(下面其它设备的设置也使用这个地址)-&gt; 确定。 设置好后，在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。
 
 <p>
 <b>IE内核的浏览器</b>,包括：世界之窗（The World），傲游浏览器（Maxthon），腾讯TT（Tencent Traveler），爱帆浏览器（Avant Browser），360安全浏览器（360SE），搜狗浏览器（兼容模式）（Sougou Explorer），瑞影浏览器（Rayying）等等，也是使用这个设置方法。
