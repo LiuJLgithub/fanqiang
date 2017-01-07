@@ -7,8 +7,8 @@
 »ò<br/>
 104.28.25.67 usadns.info<br/>
 
-ÐÞ¸ÄhostsÎÄ¼þ£¬±£´æºÃºó£¬¹Ø±Õä¯ÀÀÆ÷£¬È»ºóÆô¶¯ä¯ÀÀÆ÷£¬È»ºóÖ±½Ó´ò¿ª£¨×¢ÒâÒ»¶¨Òªhttps£¬s²»ÄÜÉÙ£©£º<a href="https://usadns.info">https://usadns.info</a>,<br>
-ÈçºÎÐÞ¸Ä×Ô¼ºµÄhostsÎÄ¼þ£¬Çë´ó¼ÒÓÃ°Ù¶ÈËÑË÷£ºWin10ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ¡¢»òWindows8ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ£¬»òÕßWindows7ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ£¬ÄãÓÃµÄÊÇwindows10£¬¾ÍËÑwin10£¬ÓÃÄÄ¸ö¾ÍËÑË÷ÄÄ¸ö¼´¿É£¬ÐÞ¸ÄhostsÎÄ¼þÒ²ÊÇ¼«Æä¼òµ¥µÄ¡£
+ÐÞ¸ÄhostsÎÄ¼þ£¬±£´æºÃºó£¬¹Ø±Õä¯ÀÀÆ÷£¬ÖØÐÂÆô¶¯ä¯ÀÀÆ÷£¬È»ºóÖ±½Ó´ò¿ª£º<a href="https://usadns.info">https://usadns.info</a>  ,£¨×¢ÒâÒ»¶¨Òªhttps£¬s²»ÄÜÉÙ£©<br>
+<a href="https://github.com/ky0ncheng/smartladder/wiki/%E4%BF%AE%E6%94%B9Hosts%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95">²é¿´ÈçºÎÐÞ¸ÄhostsÎÄ¼þ</a>£¬»òÓÃ°Ù¶ÈËÑË÷£ºWin10ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ¡¢»òWindows8ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ£¬»òÕßWindows7ÔõÃ´ÐÞ¸ÄhostsÎÄ¼þ£¬ÄãÓÃµÄÊÇwindows10£¬¾ÍËÑwin10£¬ÓÃÄÄ¸ö¾ÍËÑË÷ÄÄ¸ö¼´¿É£¬ÐÞ¸ÄhostsÎÄ¼þÒ²ÊÇ¼«Æä¼òµ¥µÄ¡£
 
 Çë´ó¼Ò°ïÃ¦·´À¡ÕâÖÖhosts·­Ç½µÄÐ§¹û£¬·¢email»ò<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">·¢Ìû</a>¶¼¿ÉÒÔ¡£</h2>
 
@@ -36,14 +36,14 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
     </li>
 
   <li>
-      <strong><a href="https://ym.wwwdns.work/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.thedns.space/jwd.zip">ÏÂÔØ1</a></strong>
+      <strong><a href="https://yn.wwwdns.work/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.thedns.space/jwd.zip">ÏÂÔØ1</a></strong>
     </li> 
    <li>
-      <strong><a href="https://ym.bestdns.info/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.bestdns.info/jwd.zip">ÏÂÔØ2</a></strong>
+      <strong><a href="https://yn.bestdns.info/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.bestdns.info/jwd.zip">ÏÂÔØ2</a></strong>
     </li>     
     
     <li>
-      <strong><a href="https://ym.thedns.space/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.wwwdns.work/jwd.zip">ÏÂÔØ3</a></strong>
+      <strong><a href="https://yn.thedns.space/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.wwwdns.work/jwd.zip">ÏÂÔØ3</a></strong>
     </li> 
 
  
@@ -52,7 +52,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
   <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://ym.thedns.space/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://ym.thedns.space/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://ym.thedns.space/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://ym.thedns.space/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://ym.thedns.space/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
+     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://yn.thedns.space/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://yn.thedns.space/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://yn.thedns.space/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://yn.thedns.space/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://yn.thedns.space/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
     </li>
  
 
@@ -69,7 +69,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <li>È«ÐÂÍÆ³ö´ÅÁ¦Á¬½ÓÏÂÔØ, ÇáËÉÏÂÔØÎÒÃÇµÄËùÓÐ·­Ç½Èí¼þ£¬·â²»µô£ºmagnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾:<a href="https://ym.bestdns.info/jwd.zip">ÏÂÔØ1</a> <a href="https://ym.wwwdns.work/jwd.zip">ÏÂÔØ2</a> <a href="https://ym.thedns.space/jwd.zip">ÏÂÔØ3</a>   ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾:<a href="https://yn.bestdns.info/jwd.zip">ÏÂÔØ1</a> <a href="https://yn.wwwdns.work/jwd.zip">ÏÂÔØ2</a> <a href="https://yn.thedns.space/jwd.zip">ÏÂÔØ3</a>   ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
@@ -113,20 +113,20 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 
 <li>È«ÐÂÍÆ³ö´ÅÁ¦Á¬½ÓÏÂÔØ, ÇáËÉÏÂÔØÎÒÃÇµÄËùÓÐ·­Ç½Èí¼þ£¬·â²»µô£ºmagnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3</li>
 
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">½ûÎÅä¯ÀÀÆ÷</a>(È«ÐÂÉý¼¶V1.2°æ£¬·­Ç½ÄÜÁ¦´ó´óÌáÉý¡£°²×¿·­Ç½¹¤¾ß-½ûÎÅä¯ÀÀÆ÷ JWBrowser,ÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·­Ç½¡£JWBrowser×ÚÖ¼ÊÇ°ïÖúÖÐ¹ú´óÂ½ÍøÓÑ×ÔÓÉ·­Ç½ÉÏÍø£¬»ñÈ¡º£Íâ×ÔÓÉÊÀ½çµÄÐÅÏ¢,JWBrowserÒÔËÙ¶ÈÎªµÚÒ»×ÚÖ¼£¬²»¼ÓÃÜÍøÂçÁ÷Á¿£¬¶Ô°²È«ÐÔÒªÇóºÜ¸ßµÄÃô¸ÐÈËÊ¿½¨ÒéÉ÷ÓÃ»ò²»ÓÃ¡£<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">¿´½ØÍ¼</a>¡£ <a href="https://ym.bestdns.info/JWBrowser.apk">ÏÂÔØ1</a> <a href="https://ym.wwwdns.work/JWBrowser.apk">ÏÂÔØ2</a> <a href="https://ym.thedns.space/JWBrowser.apk">ÏÂÔØ3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google°²×¿ÊÐ³¡ÏÂÔØ</a>  ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">½ûÎÅä¯ÀÀÆ÷</a>(È«ÐÂÉý¼¶V1.2°æ£¬·­Ç½ÄÜÁ¦´ó´óÌáÉý¡£°²×¿·­Ç½¹¤¾ß-½ûÎÅä¯ÀÀÆ÷ JWBrowser,ÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·­Ç½¡£JWBrowser×ÚÖ¼ÊÇ°ïÖúÖÐ¹ú´óÂ½ÍøÓÑ×ÔÓÉ·­Ç½ÉÏÍø£¬»ñÈ¡º£Íâ×ÔÓÉÊÀ½çµÄÐÅÏ¢,JWBrowserÒÔËÙ¶ÈÎªµÚÒ»×ÚÖ¼£¬²»¼ÓÃÜÍøÂçÁ÷Á¿£¬¶Ô°²È«ÐÔÒªÇóºÜ¸ßµÄÃô¸ÐÈËÊ¿½¨ÒéÉ÷ÓÃ»ò²»ÓÃ¡£<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">¿´½ØÍ¼</a>¡£ <a href="https://yn.bestdns.info/JWBrowser.apk">ÏÂÔØ1</a> <a href="https://yn.wwwdns.work/JWBrowser.apk">ÏÂÔØ2</a> <a href="https://yn.thedns.space/JWBrowser.apk">ÏÂÔØ3</a> &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google°²×¿ÊÐ³¡ÏÂÔØ</a>  ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">½ûÎÅÍø°²×¿·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://ym.bestdns.info/jinwen.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.wwwdns.work/jinwen.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.thedns.space/jinwen.apk">ÏÂÔØ3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">½ûÎÅÍø°²×¿·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://yn.bestdns.info/jinwen.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.wwwdns.work/jinwen.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.thedns.space/jinwen.apk">ÏÂÔØ3</a>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">¶¯Ì¬Íø·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://ym.bestdns.info/dweb.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.wwwdns.work/dweb.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.thedns.space/dweb.apk">ÏÂÔØ3</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">¶¯Ì¬Íø·­Ç½ÐÂÎÅAPP</a>£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://yn.bestdns.info/dweb.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.wwwdns.work/dweb.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.thedns.space/dweb.apk">ÏÂÔØ3</a>
     </li>     
  <li>
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">°²×¿¾«¼ò°æ½ûÎÅ´úÀí</a>£¨Æô¶¯APPºóÖ±½Ó´ò¿ª±¾Ò³Ãæ£¬ÔÙ°´°²×¿·µ»Ø¼üÔòËæ»ú´ò¿ªÒ»¸öÖ±Á¬¾µÏñ·­Ç½£©</strong> »ò&nbsp;&nbsp;&nbsp;<a href="https://ym.bestdns.info/jw.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.wwwdns.work/jw.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.thedns.space/jw.apk">ÏÂÔØ3</a>  ÏÂÔØ¶ÌÍøÖ·£º<a href="https://git.io/vaBty">https://git.io/vaBty</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/jw.apk" target="_blank">°²×¿¾«¼ò°æ½ûÎÅ´úÀí</a>£¨Æô¶¯APPºóÖ±½Ó´ò¿ª±¾Ò³Ãæ£¬ÔÙ°´°²×¿·µ»Ø¼üÔòËæ»ú´ò¿ªÒ»¸öÖ±Á¬¾µÏñ·­Ç½£©</strong> »ò&nbsp;&nbsp;&nbsp;<a href="https://yn.bestdns.info/jw.apk">ÏÂÔØ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.wwwdns.work/jw.apk">ÏÂÔØ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.thedns.space/jw.apk">ÏÂÔØ3</a>  ÏÂÔØ¶ÌÍøÖ·£º<a href="https://git.io/vaBty">https://git.io/vaBty</a>
     </li> 
  <li>
       <strong>ÍøÃÅ°²×¿°æ£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
@@ -156,13 +156,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -171,13 +171,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.bestdns.info/jinwen.apk">ÏÂÔØ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ1</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.bestdns.info/jinwen.apk">ÏÂÔØ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.wwwdns.work/jinwen.apk">ÏÂÔØ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ2</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.wwwdns.work/jinwen.apk">ÏÂÔØ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://ym.thedns.space/jinwen.apk">ÏÂÔØ3</a></strong>
+      <strong><a href="https://yn.thedns.space/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨-¾µÏñ3</a>&nbsp;&nbsp;&nbsp;<a href="https://yn.thedns.space/jinwen.apk">ÏÂÔØ3</a></strong>
     </li>
   </ul>
 </div>
@@ -187,19 +187,19 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 ¹ã´«ÕæÏàÆ½Ì¨2.0°æ²ÉÓÃÏìÓ¦Ê½Éè¼Æ£¬×Ô¶¯ÊÊÓ¦ÊÖ»úºÍµçÄÔ·ÃÎÊ£¬¸üÐÂ¼°Ê±£¬·­Ç½ÎÞÓÇ£¬ÇëÏÂÔØ±¸ÓÃ¡£ ¶ÌÍøÖ·:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-¾µÏñ3</a></strong>
     </li>
   <li>
-      <strong><a href="https://ym.wwwdns.work/wstp.zip" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-PC°æÏÂÔØ</a></strong>
+      <strong><a href="https://yn.wwwdns.work/wstp.zip" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-PC°æÏÂÔØ</a></strong>
     </li>
   <li>
-      <strong><a href="https://ym.wwwdns.work/wstp.apk" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-°²×¿°æÏÂÔØ</a></strong>
+      <strong><a href="https://yn.wwwdns.work/wstp.apk" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨-°²×¿°æÏÂÔØ</a></strong>
     </li>
   </ul>
 </div>
@@ -208,13 +208,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -223,13 +223,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.wwwdns.work/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.wwwdns.work/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.thedns.space/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.bestdns.info/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.bestdns.info/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -238,13 +238,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -253,13 +253,13 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø-¾µÏñ3</a></strong>
     </li>
   </ul>
 </div>
@@ -268,24 +268,24 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ym.bestdns.info/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½-¾µÏñ3</a></strong>
     </li>
 
 
  <li>
-      <strong><a href="https://ym.bestdns.info/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ1</a></strong>
+      <strong><a href="https://yn.bestdns.info/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ1</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.wwwdns.work/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ2</a></strong>
+      <strong><a href="https://yn.wwwdns.work/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ2</a></strong>
     </li>
     <li>
-      <strong><a href="https://ym.thedns.space/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ3</a></strong>
+      <strong><a href="https://yn.thedns.space/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí-¾µÏñ3</a></strong>
     </li>
 
   </ul>
