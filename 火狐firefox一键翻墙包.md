@@ -1,7 +1,8 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
-<li><strong>2017年1月3日</strong> 更新蓝灯和GoAgent，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
+<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
+<li><strong>2017年1月3日</strong> 更新蓝灯和GoAgent，解决翻墙失败问题</li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
 <li><strong>2016年11月1日</strong> 更新Agent2</li>
 <li><strong>2016年9月8日</strong> 更新，<a href="https://github.com/bannedbook/fanqiang/issues/12" target="_blank">解决firefoxfq goagent-https网站链接问题</a>。 </li>
@@ -31,15 +32,11 @@
 <li>
 <b>下载链接2</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接3</b>：<a href="https://mega.nz/#!3l0lBQBS!Nvzg8kFc3BoCVl1H13Wk1jgUOhKOWolFOxTW-UWGOq0" target="_blank">MEGA网盘下载</a>， 如何下载MEGA网盘文件，请<strong><a target="_blank" href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/mega.jpg">点此</a></strong>查看。<br><br>
+<b>下载链接3</b>：<a href="https://github.com/kgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">Github下载</a><br><br>
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接5</b>: 全新推出磁力连接下载 ：<br>magnet:?xt=urn:btih:2IBZGJHAD3CNJTB6OW3C5KPCFLDPXZY3<br><br>
-
-<b>下载链接6</b>: 全新推出电驴(eMule)下载 ：<br>ed2k://|file|FirefoxFQ.7z|82811368|431409D506B920533A7B520A7A4F8A7B|h=66YNTOGOQEXY5YL6WSI3G7D2MUPELLXP|/<br><br>
-
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 11b993cec79fc964ac0c8bd444e33e49，文件大小：82,811,368 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 53881de09fcc091b285ee25b5c445ea7，文件大小：86,305,750 字节
 </li>
 
 <li>
