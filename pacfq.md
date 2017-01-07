@@ -43,7 +43,7 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址
 </p>
 <h3>iOS (iPhone/iPad)的PAC设置</h3>
 <p>
-    设置 -&gt; WiFi -&gt; 使用的热点 -&gt; 代理 -&gt; 代理设置 -&gt; 选择"自动" -&gt; URL中填入PAC地址 -&gt; 好。
+    请参考：<a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iphone翻墙</a>
 </p>
 <h3>Android5.0+ 的PAC设置</h3>
 <p>
