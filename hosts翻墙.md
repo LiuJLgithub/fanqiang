@@ -3,14 +3,14 @@
 
 <h2>hosts所在文件夹：</h2>
 <ul>
-	<li><strong>Windows</strong> 系统hosts位于 <span style="color: #ff0000;">C:\Windows\System32\drivers\etc\hosts</span></li>
-	<li><strong>Android</strong>（安卓）系统hosts位于<span style="color: #ff0000;"> /etc/hosts</span></li>
-	<li><strong>Mac</strong>（苹果电脑）系统hosts位于?<span style="color: #ff0000;">/etc/hosts</span></li>
-	<li><strong>iPhone</strong>（iOS）系统hosts位于?<span style="color: #ff0000;">/etc/hosts</span></li>
-	<li><strong>Linux</strong>系统hosts位于<span style="color: #ff0000;">?/etc/hosts</span></li>
+	<li><strong>Windows</strong> 系统hosts位于 C:\Windows\System32\drivers\etc\hosts</span></li>
+	<li><strong>Android</strong>（安卓）系统hosts位于 /etc/hosts</span></li>
+	<li><strong>Mac</strong>（苹果电脑）系统hosts位于/etc/hosts</span></li>
+	<li><strong>iPhone</strong>（iOS）系统hosts位于/etc/hosts</span></li>
+	<li><strong>Linux</strong>系统hosts位于/etc/hosts</span></li>
 	<li>绝大多数Unix系统都是在?/etc/hosts</li>
 </ul>
-你也可以用<span style="color: #ff0000;">Notepad++</span> 自行转换文本编码和换行符格式。当然，我们分享的都转换好了。
+你也可以用Notepad++</span> 自行转换文本编码和换行符格式。当然，我们分享的都转换好了。
 
 <strong>注意</strong>： 若更新后，hosts 没有立即生效，请重置网络：
 在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。
