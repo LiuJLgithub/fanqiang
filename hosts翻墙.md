@@ -32,7 +32,7 @@ Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blan
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome
 下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
 
-<strong>百度网盘&amp;微云网盘hosts下载：</strong>
+<strong>hosts下载（稍后提供）：</strong>
 
 里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。</span>
 
