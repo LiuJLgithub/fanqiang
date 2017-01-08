@@ -36,7 +36,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
     </li>
 
   <li>
-      <strong><a href="https://yc.theksj.info/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a></strong>
+      <strong><a href="https://yd.theksj.info/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a></strong>
     </li> 
    <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2£¨PAC·­Ç½£©</a></strong>
@@ -52,7 +52,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
   <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://yc.theksj.info/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://yc.theksj.info/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://yc.theksj.info/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://yc.theksj.info/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://yc.theksj.info/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
+     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://yd.theksj.info/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://yd.theksj.info/31/" target="_blank">ÎÞ½çÍø</a>£¬ºóÃæ¼Ó /jygjw.php ¾ÍÊÇ<a href="https://yd.theksj.info/jygjw.php" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a>£¬ºóÃæ¼Ó/gczx.html¾ÍÊÇ<a href="https://yd.theksj.info/gczx.html" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a>£¬ºóÃæ¼Ó/jygdl.php¾ÍÊÇ<a href="https://yd.theksj.info/jygdl.php" target="_blank">¾ÛÔµ¸ó´úÀí</a>¡£
     </li>
  
 
@@ -148,7 +148,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷</a></strong>
+      <strong><a href="https://yd.theksj.info/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷</a></strong>
     </li>
   </ul>
 </div>
@@ -157,7 +157,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨</a></strong>
+      <strong><a href="https://yd.theksj.info/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨</a></strong>
     </li>
   </ul>
 </div>
@@ -167,7 +167,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 ¹ã´«ÕæÏàÆ½Ì¨2.0°æ²ÉÓÃÏìÓ¦Ê½Éè¼Æ£¬×Ô¶¯ÊÊÓ¦ÊÖ»úºÍµçÄÔ·ÃÎÊ£¬¸üÐÂ¼°Ê±£¬·­Ç½ÎÞÓÇ¡£ ¶ÌÍøÖ·:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a></strong>
+      <strong><a href="https://yd.theksj.info/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a></strong>
     </li>
   </ul>
 </div>
@@ -176,7 +176,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó</a></strong>
+      <strong><a href="https://yd.theksj.info/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó</a></strong>
     </li>
   </ul>
 </div>
@@ -185,7 +185,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø</a></strong>
+      <strong><a href="https://yd.theksj.info/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø</a></strong>
     </li>
   </ul>
 </div>
@@ -194,7 +194,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø</a></strong>
+      <strong><a href="https://yd.theksj.info/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø</a></strong>
     </li>
 
   </ul>
@@ -204,7 +204,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø</a></strong>
+      <strong><a href="https://yd.theksj.info/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø</a></strong>
     </li>
   </ul>
 </div>
@@ -213,12 +213,12 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://yc.theksj.info/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a></strong>
+      <strong><a href="https://yd.theksj.info/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a></strong>
     </li>
 
 
 
- <li><strong><a href="https://yc.theksj.info/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí</a></strong>
+ <li><strong><a href="https://yd.theksj.info/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí</a></strong>
     </li>
   </ul>
 </div>
