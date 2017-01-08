@@ -42,9 +42,9 @@ Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blan
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome
 下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
 
-<strong>hosts下载（稍后提供）：</strong>
+<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
 
-里面包含Windows &amp; Mac 、Android &amp; Linux请对号入座。</span>
+里面包含Windows &amp; Android &amp; Linux请对号入座。</span>
 
 另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）</span>
 注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</span>
