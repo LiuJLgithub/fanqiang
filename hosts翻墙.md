@@ -1,6 +1,6 @@
 本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。
 
-<a class="fancybox" title="2017 Google hosts 持续更新【更新于:2017-01-02】" href="https://laod.cn/wp-content/uploads/2016/12/hosts-1.png" rel="box"><img class="alignnone size-full wp-image-2833" src="https://laod.cn/wp-content/uploads/2016/12/hosts-1.png" alt="2017 Google hosts 持续更新【更新于:2017-01-02】-老D" width="672" height="478" /></a>
+
 <h2>hosts所在文件夹：</h2>
 <ul>
 	<li><strong>Windows</strong> 系统hosts位于 <span style="color: #ff0000;">C:\Windows\System32\drivers\etc\hosts</span></li>
