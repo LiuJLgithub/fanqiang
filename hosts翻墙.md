@@ -1,7 +1,7 @@
 本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。
 
 
-<h2>hosts所在文件夹：</h2>
+<h2>hosts文件所在文件夹：</h2>
 <ul>
 	<li><strong>Windows</strong> 系统hosts位于 C:\Windows\System32\drivers\etc\hosts</span></li>
 	<li><strong>Android</strong>（安卓）系统hosts位于 /etc/hosts</span></li>
