@@ -8,7 +8,7 @@
 	<li><strong>Mac</strong>（苹果电脑）系统hosts位于/etc/hosts</span></li>
 	<li><strong>iPhone</strong>（iOS）系统hosts位于/etc/hosts</span></li>
 	<li><strong>Linux</strong>系统hosts位于/etc/hosts</span></li>
-	<li>绝大多数Unix系统都是在?/etc/hosts</li>
+	<li>绝大多数Unix系统都是在 /etc/hosts</li>
 </ul>
 你也可以用Notepad++</span> 自行转换文本编码和换行符格式。当然，我们分享的都转换好了。
 
