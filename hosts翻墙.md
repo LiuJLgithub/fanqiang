@@ -27,7 +27,7 @@ Google、Gmail、维基百科、Twitter、Facebook等必须请用<strong><span s
 谷歌香港：<a href="https://www.google.com.hk/ncr" rel="nofollow" target="_blank">https://www.google.com.hk/ncr</a>
 Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blank">https://twitter.com/?lang=zh-cn</a>
 
-另外可能有的地区&amp;网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！
+另外可能有的地区或网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！
 建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用Chrome
 下载&amp;修改hosts安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
