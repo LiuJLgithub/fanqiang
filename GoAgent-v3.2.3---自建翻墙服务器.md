@@ -66,7 +66,7 @@ href="http://zh.thetimenow.com/united_states/california/san_francisco">美国加
      href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip</a>
      </li>
  <li >解压后，用记事本打开app.yaml，把里面的第一行的YourAppid&nbsp; 替换为你自己申请到的appid，这里我们替换为：jinwen0001</li>
- <li >下载python &nbsp;<a
+ <li >下载python2.xx,注意不要下载3.xx &nbsp;<a
      href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
      （不翻墙可下载）并安装之。</li>
  <li >下载Google_App_Engine_SDK_for_Python （需翻墙下载）<a
