@@ -42,7 +42,7 @@
 在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。
 <br/><br/>
 <strong>特别提醒2：</strong>： <br/>
-Google、Gmail、维基百科、Twitter、Facebook等必须请用<strong><span style="color: #008000;">https</span></strong>加密方式打开。
+hosts翻墙方式，打开网页时，请务必使用https, 包括Google、Gmail、维基百科、Twitter、Facebook等都必须用<strong><span style="color: #008000;">https</span></strong>加密方式打开。
 一般这些网站都是SSL加密链接，如：
 
 谷歌学术：<a href="https://scholar.google.com/" rel="nofollow" target="_blank">https://scholar.google.com/</a>
