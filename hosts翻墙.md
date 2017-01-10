@@ -7,7 +7,7 @@
 <h3>hosts翻墙操作方法</h3> 
 下面具体介绍如何進行hosts翻墙。
 <blockquote>
-<ol class="task-list">
+<ul class="task-list">
 <li>
  <b>方法一</b>：(此方法可阅读绝大多数主流禁网新闻，如需直接访问google、脸书等，请使用方法二)<br/>
 请修改自己的hosts文件，添加这样一行：<br/>
