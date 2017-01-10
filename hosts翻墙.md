@@ -35,7 +35,7 @@
 
 里面包含Windows &amp; Android/Linux版请对号入座, 下载后解压出来，然后替换自己的hosts文件即可。windows版可以直接运行解压出来的批处理程序，hosts文件会被自动替换（如果无法自动替换，请用管理员身份权限手动修改）。 <br/>
 注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！
-<br/>
+<br/><br/>
 <strong>特别提醒1：</strong>： <br/>
 若更新后，hosts 没有立即生效，请重启浏览器或重置网络：
 在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。
@@ -54,10 +54,6 @@ Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blan
 建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome</a>
 , 另外下载&amp;修改hosts文件时安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
-
 </li>
 </ul>
 </blockquote>
-
-
-
