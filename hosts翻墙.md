@@ -29,6 +29,7 @@
 <a href="https://github.com/ky0ncheng/smartladder/wiki/%E4%BF%AE%E6%94%B9Hosts%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95">查看如何修改hosts文件</a>，或用百度搜索：Win10怎么修改hosts文件、或Windows8怎么修改hosts文件，或者Windows7怎么修改hosts文件，你用的是windows10，就搜win10，用哪个就搜索哪个即可，修改hosts文件也是极其简单的。
 
 请大家帮忙反馈这种hosts翻墙的效果，发email或<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">发帖</a>都可以。
+<br/><br/>
 </li>
 <li>
  <b>方法二</b>：<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
