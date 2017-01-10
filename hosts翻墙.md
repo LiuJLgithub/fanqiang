@@ -1,5 +1,8 @@
-本页面长期更新最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br><br>
+本页面长期更新提供海外主流禁网、海外主流新闻网站的hosts翻墙，以及最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br><br>
+
 本页面短网址： https://git.io/vMCSz
+
+<img src="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hostsites.jpg" /><br>
 
 <h2>全新推出: hosts直连翻墙，请修改自己的hosts文件，添加这样一行：<br/>
 104.28.24.67 usadns.info<br/>
