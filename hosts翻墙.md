@@ -21,7 +21,13 @@
 请大家帮忙反馈这种hosts翻墙的效果，发email或<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">发帖</a>都可以。
 </li>
 <li>
- <b>方法二</b>：
+ <b>方法二</b>：<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
+
+里面包含Windows &amp; Android/Linux版请对号入座。</span>
+
+另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）</span>
+注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</span>
+
 </li>
 </ul>
 </blockquote>
@@ -59,9 +65,3 @@ Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blan
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome</a>
 , 另外下载&amp;修改hosts文件时安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
 
-<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
-
-里面包含Windows &amp; Android &amp; Linux请对号入座。</span>
-
-另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）</span>
-注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！</span>
