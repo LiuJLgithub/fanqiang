@@ -37,10 +37,11 @@
 
 另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）
 注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！
-
-<strong>注意</strong>： 若更新后，hosts 没有立即生效，请重启浏览器或重置网络：
+<br/>
+<strong>注意</strong>： <br/>
+若更新后，hosts 没有立即生效，请重启浏览器或重置网络：
 在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。
-
+<br/><br/>
 Google、Gmail、维基百科、Twitter、Facebook等必须请用<strong><span style="color: #008000;">https</span></strong>加密方式打开。
 一般这些网站都是SSL加密链接，如：
 
