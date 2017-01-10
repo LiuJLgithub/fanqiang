@@ -9,7 +9,7 @@
 <blockquote>
 <ol class="task-list">
 <li>
- <b>方法一</b>：
+ <b>方法一</b>：(此方法可阅读绝大多数主流禁网新闻，如需直接访问google、脸书等，请使用方法二)<br/>
 请修改自己的hosts文件，添加这样一行：<br/>
 104.28.24.67 usadns.info<br/>
 或<br/>
