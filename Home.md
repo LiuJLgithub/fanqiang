@@ -35,8 +35,8 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
       <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾¡£ÍÆ¼öÊ¹ÓÃGoogle Chromeä¯ÀÀÆ÷¡£ÏÂÔØ½âÑ¹ºó£¬Ë«»÷exeÎÄ¼þÆô¶¯³ÌÐò£¬È»ºóµã»÷¡°Æô¶¯´ò¿ª¡±°´Å¥¼´¿ÉÊµÏÖ·­Ç½ä¯ÀÀÁË¡£</strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
-  <li>
-      <strong><a href="https://ya.wwwhealth.xyz/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a></strong>
+  <li><a name="jwurl"></a>
+      <strong><a href="https://ya.dnstogo.xyz/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a></strong>
     </li> 
    <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2£¨PAC·­Ç½£©</a></strong>
@@ -52,7 +52,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
   <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://ya.wwwhealth.xyz/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://ya.wwwhealth.xyz/31/" target="_blank">ÎÞ½çÍø</a>¡£
+     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://ya.dnstogo.xyz/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://ya.dnstogo.xyz/31/" target="_blank">ÎÞ½çÍø</a>¡£
     </li>
  
 
@@ -148,7 +148,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷</a></strong>
     </li>
   </ul>
 </div>
@@ -157,7 +157,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨</a></strong>
     </li>
   </ul>
 </div>
@@ -167,7 +167,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 ¹ã´«ÕæÏàÆ½Ì¨2.0°æ²ÉÓÃÏìÓ¦Ê½Éè¼Æ£¬×Ô¶¯ÊÊÓ¦ÊÖ»úºÍµçÄÔ·ÃÎÊ£¬¸üÐÂ¼°Ê±£¬·­Ç½ÎÞÓÇ¡£ ¶ÌÍøÖ·:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a></strong>
     </li>
   </ul>
 </div>
@@ -176,7 +176,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó</a></strong>
     </li>
   </ul>
 </div>
@@ -185,7 +185,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø</a></strong>
     </li>
   </ul>
 </div>
@@ -194,7 +194,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø</a></strong>
     </li>
 
   </ul>
@@ -204,7 +204,7 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø</a></strong>
     </li>
   </ul>
 </div>
@@ -213,12 +213,12 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ya.wwwhealth.xyz/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a></strong>
+      <strong><a href="https://ya.dnstogo.xyz/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a></strong>
     </li>
 
 
 
- <li><strong><a href="https://ya.wwwhealth.xyz/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí</a></strong>
+ <li><strong><a href="https://ya.dnstogo.xyz/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí</a></strong>
     </li>
   </ul>
 </div>
