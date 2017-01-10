@@ -14,7 +14,7 @@
 	<li>绝大多数Unix系统都是在 /etc/hosts</li>
 </ul>
 
-<h3>hosts翻墙操作方法</h3> 
+<h2>hosts翻墙操作方法</h2> 
 下面具体介绍如何進行hosts翻墙。
 <blockquote>
 <ul class="task-list">
