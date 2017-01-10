@@ -4,16 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hostsites.jpg" /><br>
 
-<h2>hosts文件的路径：</h2>
-<ul>
-	<li><strong>Windows</strong> 系统hosts位于 C:\Windows\System32\drivers\etc\hosts</span></li>
-	<li><strong>Android</strong>（安卓）系统hosts位于 /etc/hosts</span></li>
-	<li><strong>Mac</strong>（苹果电脑）系统hosts位于/etc/hosts</span></li>
-	<li><strong>iPhone</strong>（iOS）系统hosts位于/etc/hosts</span></li>
-	<li><strong>Linux</strong>系统hosts位于/etc/hosts</span></li>
-	<li>绝大多数Unix系统都是在 /etc/hosts</li>
-</ul>
-
 <h2>hosts翻墙操作方法</h2> 
 下面具体介绍如何進行hosts翻墙。
 <blockquote>
@@ -25,7 +15,7 @@
 或<br/>
 104.28.25.67 usadns.info<br/>
 
-修改hosts文件（<a href="https://github.com/ky0ncheng/smartladder/wiki/%E4%BF%AE%E6%94%B9Hosts%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95">查看如何修改hosts文件</a>），保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br/><br/>
+修改hosts文件（<a href="https://github.com/bannedbook/fanqiang/blob/master/hostsmodify.md">查看如何修改hosts文件</a>），保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br/><br/>
 请大家帮忙反馈这种hosts翻墙的效果，发email或<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">发帖</a>都可以。
 <br/><br/>
 </li>
