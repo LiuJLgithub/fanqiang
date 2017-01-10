@@ -47,7 +47,6 @@ hosts翻墙方式，打开网页时，请务必使用https, 包括Google、Gmail
 
 谷歌学术：<a href="https://scholar.google.com/" rel="nofollow" target="_blank">https://scholar.google.com/</a>
 谷歌：<a href="https://www.google.com/ncr" rel="nofollow" target="_blank">https://www.google.com/ncr</a>
-谷歌香港：<a href="https://www.google.com.hk/ncr" rel="nofollow" target="_blank">https://www.google.com.hk/ncr</a>
 Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blank">https://twitter.com/?lang=zh-cn</a>
 <br/><br/>
 <strong>特别提醒3：</strong>： <br/>
