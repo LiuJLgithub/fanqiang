@@ -45,12 +45,15 @@
 hosts翻墙方式，打开网页时，请务必使用https, 包括Google、Gmail、维基百科、Twitter、Facebook等都必须用<strong><span style="color: #008000;">https</span></strong>加密方式打开。
 一般这些网站都是SSL加密链接，如：
 
-谷歌学术：<a href="https://scholar.google.com/" rel="nofollow" target="_blank">https://scholar.google.com/</a>
-谷歌：<a href="https://www.google.com/ncr" rel="nofollow" target="_blank">https://www.google.com/ncr</a>
-Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blank">https://twitter.com/?lang=zh-cn</a>
+谷歌学术：<a href="https://scholar.google.com/"  target="_blank">https://scholar.google.com/</a>
+谷歌：<a href="https://www.google.com/ncr"  target="_blank">https://www.google.com/ncr</a>
+Twitter：<a href="https://twitter.com/?lang=zh-cn"  target="_blank">https://twitter.com/?lang=zh-cn</a>
 <br/><br/>
 <strong>特别提醒3：</strong>： <br/>
-可能有的地区或有的网络环境（铁通、联通）hosts无法正常使用，这个不是你我能左右的！
+<b>看youtube请通过禁闻网的底部导航進入</b>。<br/>可能有的地区或有的网络环境hosts无法正常使用，这个不是你我能左右的！<br/>
+
+对了，Google Play也不能正常下载，或者有时候图片加载不出来，通讯录不能同步。如果你希望使用这些应用，请尝试<a href="https://github.com/bannedbook/fanqiang/wiki/pacfq"  target="_blank">PAC翻墙</a>
+
 建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https
 它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome</a>
 , 另外下载&amp;修改hosts文件时安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
