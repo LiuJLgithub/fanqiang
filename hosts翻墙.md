@@ -4,6 +4,19 @@
 
 <img src="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hostsites.jpg" /><br>
 
+<h3>hosts翻墙操作方法</h3> 
+下面具体介绍如何進行hosts翻墙。
+<blockquote>
+<ol class="task-list">
+<li>
+ **方法一**：
+</li>
+<li>
+ **方法二**：
+</li>
+</ul>
+</blockquote>
+
 <h2>全新推出: hosts直连翻墙，请修改自己的hosts文件，添加这样一行：<br/>
 104.28.24.67 usadns.info<br/>
 或<br/>
