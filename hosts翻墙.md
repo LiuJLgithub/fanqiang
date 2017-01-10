@@ -25,9 +25,7 @@
 或<br/>
 104.28.25.67 usadns.info<br/>
 
-修改hosts文件，保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br>
-<a href="https://github.com/ky0ncheng/smartladder/wiki/%E4%BF%AE%E6%94%B9Hosts%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95">查看如何修改hosts文件</a>，或用百度搜索：Win10怎么修改hosts文件、或Windows8怎么修改hosts文件，或者Windows7怎么修改hosts文件，你用的是windows10，就搜win10，用哪个就搜索哪个即可，修改hosts文件也是极其简单的。
-
+修改hosts文件（<a href="https://github.com/ky0ncheng/smartladder/wiki/%E4%BF%AE%E6%94%B9Hosts%E6%B2%A1%E6%9C%89%E6%9D%83%E9%99%90%E8%A7%A3%E5%86%B3%E6%96%B9%E6%B3%95">查看如何修改hosts文件</a>），保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br/><br/>
 请大家帮忙反馈这种hosts翻墙的效果，发email或<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">发帖</a>都可以。
 <br/><br/>
 </li>
