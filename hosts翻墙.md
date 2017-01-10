@@ -33,15 +33,14 @@
 <li>
  <b>方法二</b>：<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
 
-里面包含Windows &amp; Android/Linux版请对号入座。
-
-另外windows可以直接运行批处理命令，hosts会自动替换（如果无法自动替换，请用管理员身份权限手动修改）
+里面包含Windows &amp; Android/Linux版请对号入座, 下载后解压出来，然后替换自己的hosts文件即可。windows版可以直接运行解压出来的批处理程序，hosts文件会被自动替换（如果无法自动替换，请用管理员身份权限手动修改）。 <br/>
 注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！
 <br/>
-<strong>注意</strong>： <br/>
+<strong>特别提醒1：</strong>： <br/>
 若更新后，hosts 没有立即生效，请重启浏览器或重置网络：
 在系统设置内开关网络，或启用禁用飞行模式，或者重启、刷新DNS缓存、浏览器缓存。
 <br/><br/>
+<strong>特别提醒2：</strong>： <br/>
 Google、Gmail、维基百科、Twitter、Facebook等必须请用<strong><span style="color: #008000;">https</span></strong>加密方式打开。
 一般这些网站都是SSL加密链接，如：
 
@@ -49,19 +48,16 @@ Google、Gmail、维基百科、Twitter、Facebook等必须请用<strong><span s
 谷歌：<a href="https://www.google.com/ncr" rel="nofollow" target="_blank">https://www.google.com/ncr</a>
 谷歌香港：<a href="https://www.google.com.hk/ncr" rel="nofollow" target="_blank">https://www.google.com.hk/ncr</a>
 Twitter：<a href="https://twitter.com/?lang=zh-cn" rel="nofollow" target="_blank">https://twitter.com/?lang=zh-cn</a>
+
+<strong>特别提醒3：</strong>： <br/>
+可能有的地区或有的网络环境（铁通、联通）hosts无法正常使用，这个不是你我能左右的！
+建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https
+它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome</a>
+, 另外下载&amp;修改hosts文件时安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
+
 </li>
 </ul>
 </blockquote>
 
-<h2>全新推出: hosts直连翻墙，</h2>
 
-
-你也可以用Notepad++</span> 自行转换文本编码和换行符格式。当然，我们分享的都转换好了。
-
-
-
-另外可能有的地区或网络（铁通、联通）hosts无法正常使用，这个不是你我能左右的！
-建议不要使用国产浏览器，国产软件也是，特别是360，因为国产浏览器即使你使用https
-它也会强制你使用默认http，还有就是会上传用户数据，尽可能使用<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome</a>
-, 另外下载&amp;修改hosts文件时安全软件可能会“报毒”（误报）你可以暂时退出或者添加信任即可！
 
