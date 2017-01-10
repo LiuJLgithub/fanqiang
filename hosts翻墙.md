@@ -15,7 +15,7 @@
 或<br/>
 104.28.25.67 usadns.info<br/>
 
-修改hosts文件（<a href="https://github.com/bannedbook/fanqiang/blob/master/hostsmodify.md">查看如何修改hosts文件</a>），保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br/><br/>
+修改hosts文件（<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/hostsmodify.md">查看如何修改hosts文件</a>），保存好后，关闭浏览器，重新启动浏览器，然后直接打开：<a href="https://usadns.info">https://usadns.info</a>  ,（注意一定要https，s不能少，打开主页后，页面底部的导航如上图，有大多数主流禁网，手机禁网平台还有更多禁网。）<br/><br/>
 请大家帮忙反馈这种hosts翻墙的效果，发email或<a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">发帖</a>都可以。
 <br/><br/>
 </li>
