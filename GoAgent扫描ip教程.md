@@ -7,6 +7,8 @@
      href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a>而写的，虽然这2个翻墙包都已携带三种翻墙软件，其中的GoAgent也会每日自动更新IP，大多数网友都可以利用来成功翻墙。但大陆网络环境错综复杂，个别网友反馈GoAgent翻墙不太稳定甚至无法翻墙，因此向大家介绍GoAgent扫描和更新IP的方法。让对电脑有一定基础的使用者可以自己扫描和更新IP，从而在自己的网络环境更加快速的翻墙，没有电脑基础的朋友，如果你有耐心，严格按照教程的步骤操作，也是可以成功的。</li>
  <li >如果使用中出现：<b>Over Quota</b><b>、</b><b>Hosts DenyURL </b><b>或</b><b> /_gh/ was not found </b><b>或者</b><b> </b><b>只能访问谷歌不能访问其它网站</b><b> </b>的问题，请依照“<a
      href="https://github.com/bannedbook/fanqiang/wiki/GoAgent-v3.2.3---%E8%87%AA%E5%BB%BA%E7%BF%BB%E5%A2%99%E6%9C%8D%E5%8A%A1%E5%99%A8">GoAgent自建流量教程</a>”来创建自己的appid，建议有一点电脑基础的朋友自建流量。</li>
+
+ <li >本页面短网址：https://git.io/scanip</li>
 </ul>
 
 <p >&nbsp;</p>
