@@ -2,7 +2,7 @@
 
 本页面短网址：https://git.io/vMCSz
 
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hostsites.jpg" /><br>
+<img src="https://github.com/bannedbook/fanqiang/blob/master/hosts/hostsites.jpg?raw=true" /><br>
 
 <h2>更新日志：</h2>
 <ul class="task-list">
@@ -25,7 +25,7 @@
 <br/><br/>
 </li>
 <li>
- <b>方法二</b>：<strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/hosts/hosts.zip">hosts文件下载</a></strong>
+ <b>方法二</b>：<strong><a href="https://github.com/bannedbook/fanqiang/raw/master/hosts/hosts.zip">hosts文件下载</a></strong>
 
 里面包含Windows &amp; Android/Linux版请对号入座, 下载后解压出来，然后替换自己的hosts文件即可。windows版可以直接运行解压出来的批处理程序，hosts文件会被自动替换（如果无法自动替换，请用管理员身份权限手动修改）。 <br/>
 注意：批处理命令会直接覆盖现有hosts，如现有hosts内容重要的话请备份后再使用，或者手动修改！
