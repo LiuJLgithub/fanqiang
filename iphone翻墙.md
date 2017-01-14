@@ -3,7 +3,7 @@
 <ul class="task-list">
 <li> 特别推出，iOS (iPhone/iPad) pac 翻墙,pac地址： 
 
-<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac">https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac</a>
+https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac
 
 <h3>iOS (iPhone/iPad)翻墙设置</h3>
 <ol>
