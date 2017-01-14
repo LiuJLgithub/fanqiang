@@ -1,6 +1,7 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
+<li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
 <li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
 <li><strong>2017年1月3日</strong> 更新蓝灯和GoAgent，解决翻墙失败问题</li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
@@ -36,7 +37,7 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 53881de09fcc091b285ee25b5c445ea7，文件大小：86,305,750 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 9ac817713eac6e68fa4ba6d416f4079c，文件大小：86,316,384 字节
 </li>
 
 <li>
