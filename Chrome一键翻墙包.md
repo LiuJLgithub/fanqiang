@@ -41,7 +41,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,892,127 字节 MD5: 2ec4937df472f5545fb27ec328078aff
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,892,117 字节 MD5: 5486b3cc6d026f18e80d0402aae92569
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -63,7 +63,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,723,751 字节  MD5: fea89f639ed213252ed753dcbce60884
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,723,985 字节  MD5: 53c778e36a48b97d2b4569384cc219f5
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -84,7 +84,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：64,163,543 字节  MD5：ce2882a1d8ee7947577a2a23f6135fb0
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：64,163,573 字节  MD5：edbff674197e8652887665d46f770bfe
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
