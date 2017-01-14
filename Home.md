@@ -1,22 +1,22 @@
-<h1><a href="#jwproxy">½ûÎÅ´úÀí·­Ç½</a>¡¢<a href="#to-dtw">¶¯Ì¬Íø</a>¡¢<a href="#to-wjw">ÎÞ½çÍø</a>¡¢<a href="#fqsearch">·­Ç½Google</a>¡¢<a href="#mobilejinwang">ÊÖ»ú½ûÍøÆ½Ì¨</a>¡¢<a href="#fanqiangsoft">·­Ç½Èí¼þÏÂÔØ</a>¡¢<a href="#androidfq">°²×¿ÊÖ»ú·­Ç½</a>¡¢<a href="#gczxpt">¹ã´«ÕæÏàÆ½Ì¨</a></h1> 
+<h1><a href="#jwproxy">ç¦é—»ä»£ç†ç¿»å¢™</a>ã€<a href="#to-dtw">åŠ¨æ€ç½‘</a>ã€<a href="#to-wjw">æ— ç•Œç½‘</a>ã€<a href="#fqsearch">ç¿»å¢™Google</a>ã€<a href="#mobilejinwang">æ‰‹æœºç¦ç½‘å¹³å°</a>ã€<a href="#fanqiangsoft">ç¿»å¢™è½¯ä»¶ä¸‹è½½</a>ã€<a href="#androidfq">å®‰å“æ‰‹æœºç¿»å¢™</a>ã€<a href="#gczxpt">å¹¿ä¼ çœŸç›¸å¹³å°</a></h1> 
 
-<h2>½üÀ´£¬githubÉÏ¹«²¼µÄÖ±Á¬ÍøÖ·¾­³£ºÜ¿ì±»·â£¬ÍÆ¼ö´ó¼Ò³¢ÊÔÏÂÁÐ·­Ç½·½Ê½£º<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">ChromeÒ»¼ü·­Ç½°ü</a>¡¢<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pac·­Ç½£ºµçÄÔWindows¡¢MAC¡¢ÊÖ»úµÈ¶àÆ½Ì¨·­Ç½</a>
+<h2>è¿‘æ¥ï¼Œgithubä¸Šå…¬å¸ƒçš„ç›´è¿žç½‘å€ç»å¸¸å¾ˆå¿«è¢«å°ï¼ŒæŽ¨èå¤§å®¶å°è¯•ä¸‹åˆ—ç¿»å¢™æ–¹å¼ï¼š<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chromeä¸€é”®ç¿»å¢™åŒ…</a>ã€<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">pacç¿»å¢™ï¼šç”µè„‘Windowsã€MACã€æ‰‹æœºç­‰å¤šå¹³å°ç¿»å¢™</a>
 
-<h2>È«ÐÂÍÆ³ö: <a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99">hostsÖ±Á¬·­Ç½</a>,³¹µ×½â¾öÖ±Á¬ÍøÖ·±»·âÎÊÌâ¡£
+<h2>å…¨æ–°æŽ¨å‡º: <a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99">hostsç›´è¿žç¿»å¢™</a>,å½»åº•è§£å†³ç›´è¿žç½‘å€è¢«å°é—®é¢˜ã€‚
 
-<h2>È«ÐÂÍÆ³ö: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone·­Ç½</a>¡£Çë¼ÇÂ¼ÊÕ²Ø±¾ÍøÒ³ÍøÖ·, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">·´À¡½»Á÷</a></h2>
+<h2>å…¨æ–°æŽ¨å‡º: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhoneç¿»å¢™</a>ã€‚è¯·è®°å½•æ”¶è—æœ¬ç½‘é¡µç½‘å€, <a href="https://github.com/bannedbook/fanqiang/issues" target="_blank">åé¦ˆäº¤æµ</a></h2>
 
-<strong>Çë½«µ±Ç°Ò³ÃæÍøÖ··ÅÈëÄúµÄä¯ÀÀÆ÷ÊÕ²Ø¼Ð¡¢ÊéÇ©À¸µÈ£¬ÏÂÃæµÄÖ±Á¬ÍøÖ·Ê§Ð§Ê±£¬ÎÒÃÇ»á¼°Ê±ÔÚ´ËÒ³Ãæ¸üÐÂ×îÐÂ½ûÎÅÖ±Á¬ÍøÖ· 
-<br>ÊÕ²Ø·½·¨£ºµçÄÔ·ÃÎÊ¿É°´Ctrl+D ¼ü£¬ÊÖ»ú·ÃÎÊÇë°´ÊÖ»úÊÕ²Ø·½·¨ÊÕ²Ø</strong>
-<br>±¾Ò³¶þÎ¬Âë¡¢¶ÌÍøÖ·£º <br>
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/qr.jpg" /><br>
-https://git.io/jww »ò https://x.co/bnews<br>
-httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´ò¿ª<br>
+<strong>è¯·å°†å½“å‰é¡µé¢ç½‘å€æ”¾å…¥æ‚¨çš„æµè§ˆå™¨æ”¶è—å¤¹ã€ä¹¦ç­¾æ ç­‰ï¼Œä¸‹é¢çš„ç›´è¿žç½‘å€å¤±æ•ˆæ—¶ï¼Œæˆ‘ä»¬ä¼šåŠæ—¶åœ¨æ­¤é¡µé¢æ›´æ–°æœ€æ–°ç¦é—»ç›´è¿žç½‘å€ 
+<br>æ”¶è—æ–¹æ³•ï¼šç”µè„‘è®¿é—®å¯æŒ‰Ctrl+D é”®ï¼Œæ‰‹æœºè®¿é—®è¯·æŒ‰æ‰‹æœºæ”¶è—æ–¹æ³•æ”¶è—</strong>
+<br>æœ¬é¡µäºŒç»´ç ã€çŸ­ç½‘å€ï¼š <br>
+<img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/qr.jpg" /><br>
+https://git.io/jww æˆ– https://x.co/bnews<br>
+httpåŽä¸€å®šè¦è·Ÿsï¼Œå¦‚æžœå¾®ä¿¡é‡Œç›´æŽ¥æ‰“ä¸å¼€ï¼Œè¯·å…ˆç‚¹å‡»å¾®ä¿¡å³ä¸Šè§’ä¸‰ä¸ªç‚¹ï¼Œé€‰æ‹©åœ¨æµè§ˆå™¨ä¸­æ‰“å¼€<br>
 
-Èç¹ûIE6-10»ò¹ú²úä¯ÀÀÆ÷ÆÁ±Î±¾Ò³Ãæ£¬´ò²»¿ª±¾Ò³Ãæ£¬¿ÉÑ¡ÓÃ¹È¸èä¯ÀÀÆ÷£º<br>
-      ¹È¸è°²×¿°æ
+å¦‚æžœIE6-10æˆ–å›½äº§æµè§ˆå™¨å±è”½æœ¬é¡µé¢ï¼Œæ‰“ä¸å¼€æœ¬é¡µé¢ï¼Œå¯é€‰ç”¨è°·æ­Œæµè§ˆå™¨ï¼š<br>
+      è°·æ­Œå®‰å“ç‰ˆ
       <a href="https://raw.githubusercontent.com/ogate/up/master/chrome.apk">https://git.io/chromea</a><br>
-      µçÄÔ°æ¹È¸èä¯ÀÀÆ÷Ò»¼ü·­Ç½°ü£º
+      ç”µè„‘ç‰ˆè°·æ­Œæµè§ˆå™¨ä¸€é”®ç¿»å¢™åŒ…ï¼š
       <a href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">https://git.io/fanqiang</a>
 
 
@@ -24,27 +24,27 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 <a name="jwproxy"></a>
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾¡£ÍÆ¼öÊ¹ÓÃGoogle Chromeä¯ÀÀÆ÷¡£ÏÂÔØ½âÑ¹ºó£¬Ë«»÷exeÎÄ¼þÆô¶¯³ÌÐò£¬È»ºóµã»÷¡°Æô¶¯´ò¿ª¡±°´Å¥¼´¿ÉÊµÏÖ·­Ç½ä¯ÀÀÁË¡£</strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">ç¦é—»ä»£ç†ä¸‹è½½</a>(ç¦é—»ä»£ç†ç®€ä»‹ï¼šè½»é‡çº§ç¿»å¢™å·¥å…·,æžé€Ÿè®¿é—®ç»å¤§å¤šæ•°è¢«å¢™ç½‘ç«™ã€‚æŽ¨èä½¿ç”¨Google Chromeæµè§ˆå™¨ã€‚ä¸‹è½½è§£åŽ‹åŽï¼ŒåŒå‡»exeæ–‡ä»¶å¯åŠ¨ç¨‹åºï¼Œç„¶åŽç‚¹å‡»â€œå¯åŠ¨æ‰“å¼€â€æŒ‰é’®å³å¯å®žçŽ°ç¿»å¢™æµè§ˆäº†ã€‚</strong>ä¸‹è½½çŸ­ç½‘å€:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
   <li><a name="jwurl"></a>
-      <strong><a href="https://ye.dnstool.xyz/" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ1</a>,´ò²»¿ª£¿Çë<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">Çë½â·â½ûÎÅÖ±Á¬ÍøÖ·</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/" target="_blank">ç¦é—»ä»£ç†åœ¨çº¿-é•œåƒ1</a>,æ‰“ä¸å¼€ï¼Ÿè¯·<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">è¯·è§£å°ç¦é—»ç›´è¿žç½‘å€</a></strong>
     </li> 
    <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ2£¨PAC·­Ç½£©</a></strong>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">ç¦é—»ä»£ç†åœ¨çº¿-é•œåƒ2ï¼ˆPACç¿»å¢™ï¼‰</a></strong>
     </li>     
     
     <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99" target="_blank">½ûÎÅ´úÀíÔÚÏß-¾µÏñ3(hosts·­Ç½)</a></strong>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99" target="_blank">ç¦é—»ä»£ç†åœ¨çº¿-é•œåƒ3(hostsç¿»å¢™)</a></strong>
     </li> 
 
  
 
  <li>
-  <img src="https://raw.githubusercontent.com/kgfw/fg/master/jw/jwproxy.jpg" />
+  <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     ½ûÎÅ´úÀíÔÚÏß-¾µÏñÓòÃûºóÃæ¼Ó/20/ ¾ÍÊÇ<a href="https://ye.dnstool.xyz/20/" target="_blank">¶¯Ì¬Íø</a>£¬ºóÃæ¼Ó /31/ ¾ÍÊÇ<a href="https://ye.dnstool.xyz/31/" target="_blank">ÎÞ½çÍø</a>¡£
+     ç¦é—»ä»£ç†åœ¨çº¿-é•œåƒåŸŸååŽé¢åŠ /20/ å°±æ˜¯<a href="https://ye.dnstool.xyz/20/" target="_blank">åŠ¨æ€ç½‘</a>ï¼ŒåŽé¢åŠ  /31/ å°±æ˜¯<a href="https://ye.dnstool.xyz/31/" target="_blank">æ— ç•Œç½‘</a>ã€‚
     </li>
  
 
@@ -52,83 +52,83 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
 
 </div>
 
-<a name="fanqiangsoft"></a><h2>PC·­Ç½Èí¼þÏÂÔØ</h2>¶ÌÍøÖ·:https://x.co/killgfw
+<a name="fanqiangsoft"></a><h2>PCç¿»å¢™è½¯ä»¶ä¸‹è½½</h2>çŸ­ç½‘å€:https://x.co/killgfw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
   
-<li>È«ÐÂÍÆ³öBT SyncÏÂÔØ£¬·Ç³£ºÃÓÃ·½±ã£¬ÓÀ¾Ã×Ô¶¯Í¬²½£¬ÎÒÃÇ·¢²¼ÐÂ°æ·­Ç½Èí¼þºó£¬Äú»á×Ô¶¯»ñµÃÍ¬²½¸üÐÂ¡£BT SyncÍ¬²½ÃÜÔ¿: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  £¬<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync£¨RESILIO SYNC£©-ÏÂÔØÉñÆ÷£¬P2PÍ¬²½ÀûÆ÷ºÍ·Ö²¼Ê½ÍøÅÌ</a></li>
+<li>å…¨æ–°æŽ¨å‡ºBT Syncä¸‹è½½ï¼Œéžå¸¸å¥½ç”¨æ–¹ä¾¿ï¼Œæ°¸ä¹…è‡ªåŠ¨åŒæ­¥ï¼Œæˆ‘ä»¬å‘å¸ƒæ–°ç‰ˆç¿»å¢™è½¯ä»¶åŽï¼Œæ‚¨ä¼šè‡ªåŠ¨èŽ·å¾—åŒæ­¥æ›´æ–°ã€‚BT SyncåŒæ­¥å¯†é’¥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ï¼Œ<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Syncï¼ˆRESILIO SYNCï¼‰-ä¸‹è½½ç¥žå™¨ï¼ŒP2PåŒæ­¥åˆ©å™¨å’Œåˆ†å¸ƒå¼ç½‘ç›˜</a></li>
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">½ûÎÅ´úÀíÏÂÔØ</a>(½ûÎÅ´úÀí¼ò½é£ºÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·ÃÎÊ¾ø´ó¶àÊý±»Ç½ÍøÕ¾) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/jwd">https://git.io/jwd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/jw/jwd.zip">ç¦é—»ä»£ç†ä¸‹è½½</a>(ç¦é—»ä»£ç†ç®€ä»‹ï¼šè½»é‡çº§ç¿»å¢™å·¥å…·,æžé€Ÿè®¿é—®ç»å¤§å¤šæ•°è¢«å¢™ç½‘ç«™) </strong>ä¸‹è½½çŸ­ç½‘å€:  <a href="https://git.io/jwd">https://git.io/jwd</a>
     </li>
 
  
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">ChromeÒ»¼ü·­Ç½°ü</a></strong>
+      <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chromeä¸€é”®ç¿»å¢™åŒ…</a></strong>
     </li>
 
 <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">»ðºüfirefoxÒ»¼ü·­Ç½°ü</a></strong> 
+      <strong><a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">ç«ç‹firefoxä¸€é”®ç¿»å¢™åŒ…</a></strong> 
     </li>  
 
 
   
  <li>
-      <strong><a href="https://git.io/fgt" target="_blank">×îÐÂ×ÔÓÉÃÅPC°æ</a></strong> 
+      <strong><a href="https://git.io/fgt" target="_blank">æœ€æ–°è‡ªç”±é—¨PCç‰ˆ</a></strong> 
     </li> 
 
 
  <li>
-      <strong><a href="https://git.io/wj" target="_blank">×îÐÂÎÞ½çPC°æ</a></strong> 
+      <strong><a href="https://git.io/wj" target="_blank">æœ€æ–°æ— ç•ŒPCç‰ˆ</a></strong> 
     </li> 
 
 
 
     <li>
-      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowserÒ»¼ü·­Ç½°ü</a></strong> 
+      <strong><a href="/bannedbook/fanqiang/wiki/TorBrowser%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">TorBrowserä¸€é”®ç¿»å¢™åŒ…</a></strong> 
     </li>
 
   </ul>
 </div>
 
-<a name="androidfq"></a><h2>°²×¿ÊÖ»ú·­Ç½</h2>¶ÌÍøÖ·:https://x.co/fqiang
+<a name="androidfq"></a><h2>å®‰å“æ‰‹æœºç¿»å¢™</h2>çŸ­ç½‘å€:https://x.co/fqiang
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
 
-<li>È«ÐÂÍÆ³öBT SyncÏÂÔØ£¬·Ç³£ºÃÓÃ·½±ã£¬ÓÀ¾Ã×Ô¶¯Í¬²½£¬ÎÒÃÇ·¢²¼ÐÂ°æ·­Ç½Èí¼þºó£¬Äú»á×Ô¶¯»ñµÃÍ¬²½¸üÐÂ¡£BT SyncÍ¬²½ÃÜÔ¿: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  £¬<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync£¨RESILIO SYNC£©-ÏÂÔØÉñÆ÷£¬P2PÍ¬²½ÀûÆ÷ºÍ·Ö²¼Ê½ÍøÅÌ</a></li>
+<li>å…¨æ–°æŽ¨å‡ºBT Syncä¸‹è½½ï¼Œéžå¸¸å¥½ç”¨æ–¹ä¾¿ï¼Œæ°¸ä¹…è‡ªåŠ¨åŒæ­¥ï¼Œæˆ‘ä»¬å‘å¸ƒæ–°ç‰ˆç¿»å¢™è½¯ä»¶åŽï¼Œæ‚¨ä¼šè‡ªåŠ¨èŽ·å¾—åŒæ­¥æ›´æ–°ã€‚BT SyncåŒæ­¥å¯†é’¥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ï¼Œ<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Syncï¼ˆRESILIO SYNCï¼‰-ä¸‹è½½ç¥žå™¨ï¼ŒP2PåŒæ­¥åˆ©å™¨å’Œåˆ†å¸ƒå¼ç½‘ç›˜</a></li>
 
 <li>
 
-      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">½ûÎÅä¯ÀÀÆ÷</a>(È«ÐÂÉý¼¶V1.2°æ£¬·­Ç½ÄÜÁ¦´ó´óÌáÉý¡£°²×¿·­Ç½¹¤¾ß-½ûÎÅä¯ÀÀÆ÷ JWBrowser,ÇáÁ¿¼¶·­Ç½¹¤¾ß,¼«ËÙ·­Ç½¡£JWBrowser×ÚÖ¼ÊÇ°ïÖúÖÐ¹ú´óÂ½ÍøÓÑ×ÔÓÉ·­Ç½ÉÏÍø£¬»ñÈ¡º£Íâ×ÔÓÉÊÀ½çµÄÐÅÏ¢,JWBrowserÒÔËÙ¶ÈÎªµÚÒ»×ÚÖ¼£¬²»¼ÓÃÜÍøÂçÁ÷Á¿£¬¶Ô°²È«ÐÔÒªÇóºÜ¸ßµÄÃô¸ÐÈËÊ¿½¨ÒéÉ÷ÓÃ»ò²»ÓÃ¡£<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">¿´½ØÍ¼</a>¡£  &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Google°²×¿ÊÐ³¡ÏÂÔØ</a>  ) </strong>ÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
+      <strong><a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.apk">ç¦é—»æµè§ˆå™¨</a>(å…¨æ–°å‡çº§V1.2ç‰ˆï¼Œç¿»å¢™èƒ½åŠ›å¤§å¤§æå‡ã€‚å®‰å“ç¿»å¢™å·¥å…·-ç¦é—»æµè§ˆå™¨ JWBrowser,è½»é‡çº§ç¿»å¢™å·¥å…·,æžé€Ÿç¿»å¢™ã€‚JWBrowserå®—æ—¨æ˜¯å¸®åŠ©ä¸­å›½å¤§é™†ç½‘å‹è‡ªç”±ç¿»å¢™ä¸Šç½‘ï¼ŒèŽ·å–æµ·å¤–è‡ªç”±ä¸–ç•Œçš„ä¿¡æ¯,JWBrowserä»¥é€Ÿåº¦ä¸ºç¬¬ä¸€å®—æ—¨ï¼Œä¸åŠ å¯†ç½‘ç»œæµé‡ï¼Œå¯¹å®‰å…¨æ€§è¦æ±‚å¾ˆé«˜çš„æ•æ„Ÿäººå£«å»ºè®®æ…Žç”¨æˆ–ä¸ç”¨ã€‚<a href="https://raw.githubusercontent.com/kgfw/fg/master/apk/JWBrowser.jpg" target="_blank">çœ‹æˆªå›¾</a>ã€‚  &nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=jwproxy.browser.bnews" target="_blank">Googleå®‰å“å¸‚åœºä¸‹è½½</a>  ) </strong>ä¸‹è½½çŸ­ç½‘å€:  <a href="https://git.io/vzafO">https://git.io/vzafO</a>
 
 </li>
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">½ûÎÅÍø°²×¿·­Ç½ÐÂÎÅAPP</a></strong>
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E7%A6%81%E9%97%BB%E7%BD%91%E5%AE%89%E5%8D%93%E7%BF%BB%E5%A2%99%E6%96%B0%E9%97%BBAPP" class="wiki-page-link">ç¦é—»ç½‘å®‰å“ç¿»å¢™æ–°é—»APP</a></strong>
     </li>   
     
 
  <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">¶¯Ì¬Íø·­Ç½ÐÂÎÅAPP</a></strong> 
+      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/%E5%8A%A8%E6%80%81%E7%BD%91%E6%96%B0%E9%97%BB-%E5%8A%A8%E6%80%81%E7%BD%91%E7%BF%BB%E5%A2%99-%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8" class="wiki-page-link">åŠ¨æ€ç½‘ç¿»å¢™æ–°é—»APP</a></strong> 
     </li>     
 
  <li>
-      <strong>ÍøÃÅ°²×¿°æ£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
+      <strong>ç½‘é—¨å®‰å“ç‰ˆï¼š</strong> &nbsp;&nbsp;&nbsp;<a href="https://git.io/ogatea">https://git.io/ogatea</a>
     </li> 
  <li>
-      <strong>Greatfire×ÔÓÉä¯ÀÀ£º</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APKÏÂÔØ</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Google°²×¿ÊÐ³¡ÏÂÔØ</a>
+      <strong>Greatfireè‡ªç”±æµè§ˆï¼š</strong> &nbsp;&nbsp;&nbsp;<a href="https://github.com/greatfire/z/raw/master/FreeBrowser.apk">APKä¸‹è½½</a>&nbsp;&nbsp;&nbsp;<a href="https://play.google.com/store/apps/details?id=org.greatfire.freebrowser&hl=zh-CN">Googleå®‰å“å¸‚åœºä¸‹è½½</a>
     </li> 
 
  <li>
-      <strong><a href="https://git.io/fgma" target="_blank">×îÐÂ×ÔÓÉÃÅ°²×¿°æ</a></strong> 
+      <strong><a href="https://git.io/fgma" target="_blank">æœ€æ–°è‡ªç”±é—¨å®‰å“ç‰ˆ</a></strong> 
     </li> 
  <li>
-      <strong><a href="https://git.io/2S1IBQ" target="_blank">×îÐÂÎÞ½ç°²×¿°æ</a></strong>
+      <strong><a href="https://git.io/2S1IBQ" target="_blank">æœ€æ–°æ— ç•Œå®‰å“ç‰ˆ</a></strong>
     </li> 
 
 
 <li>
-      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">·­Ç½µçÊÓ£º°²×¿°æ iNTD TV</a>»òÏÂÔØ¶ÌÍøÖ·:  <a href="https://git.io/ntd">https://git.io/ntd</a>
+      <strong><a href="https://github.com/kgfw/fg/raw/master/apk/iNTD_TV.apk">ç¿»å¢™ç”µè§†ï¼šå®‰å“ç‰ˆ iNTD TV</a>æˆ–ä¸‹è½½çŸ­ç½‘å€:  <a href="https://git.io/ntd">https://git.io/ntd</a>
 
 </li>
 
@@ -136,85 +136,85 @@ httpºóÒ»¶¨Òª¸ús£¬Èç¹ûÎ¢ÐÅÀïÖ±½Ó´ò²»¿ª£¬ÇëÏÈµã»÷Î¢ÐÅÓÒÉÏ½ÇÈý¸öµã£¬Ñ¡ÔñÔÚä¯ÀÀÆ÷ÖÐ´
   </ul>
 </div>
 
-<h2>¹È¸è·­Ç½ËÑË÷</h2><a name="fqsearch"></a>¶ÌÍøÖ·1£ºhttps://git.io/vKBdx  ¶ÌÍøÖ·2£ºhttps://x.co/fqsearch
+<h2>è°·æ­Œç¿»å¢™æœç´¢</h2><a name="fqsearch"></a>çŸ­ç½‘å€1ï¼šhttps://git.io/vKBdx  çŸ­ç½‘å€2ï¼šhttps://x.co/fqsearch
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/91/" class="wiki-page-link" target="_blank">¹È¸è·­Ç½ËÑË÷</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/91/" class="wiki-page-link" target="_blank">è°·æ­Œç¿»å¢™æœç´¢</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>ÊÖ»ú½ûÍøÆ½Ì¨¡¢ÊÖ»ú½ûÍøÆ½Ì¨</h2><a name="mobilejinwang"></a> ¶ÌÍøÖ·£º https://git.io/mjw
+<h2>æ‰‹æœºç¦ç½‘å¹³å°ã€æ‰‹æœºç¦ç½‘å¹³å°</h2><a name="mobilejinwang"></a> çŸ­ç½‘å€ï¼š https://git.io/mjw
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/1/" target="_blank">ÊÖ»ú½ûÍøÆ½Ì¨</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/1/" target="_blank">æ‰‹æœºç¦ç½‘å¹³å°</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>¹ã´«ÕæÏàÆ½Ì¨</h2><a name="gczxpt"></a>
+<h2>å¹¿ä¼ çœŸç›¸å¹³å°</h2><a name="gczxpt"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
-¹ã´«ÕæÏàÆ½Ì¨2.0°æ²ÉÓÃÏìÓ¦Ê½Éè¼Æ£¬×Ô¶¯ÊÊÓ¦ÊÖ»úºÍµçÄÔ·ÃÎÊ£¬¸üÐÂ¼°Ê±£¬·­Ç½ÎÞÓÇ¡£ ¶ÌÍøÖ·:https://x.co/gczxpt
+å¹¿ä¼ çœŸç›¸å¹³å°2.0ç‰ˆé‡‡ç”¨å“åº”å¼è®¾è®¡ï¼Œè‡ªåŠ¨é€‚åº”æ‰‹æœºå’Œç”µè„‘è®¿é—®ï¼Œæ›´æ–°åŠæ—¶ï¼Œç¿»å¢™æ— å¿§ã€‚ çŸ­ç½‘å€:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/gczx.html" class="wiki-page-link" target="_blank">¹ã´«ÕæÏàÆ½Ì¨</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/gczx.html" class="wiki-page-link" target="_blank">å¹¿ä¼ çœŸç›¸å¹³å°</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>ÍË³öµ³¡¢ÍÅ¡¢¶Ó</h2><a name="3tui"></a>¶ÌÍøÖ·£ºhttps://x.co/3tui
+<h2>é€€å‡ºå…šã€å›¢ã€é˜Ÿ</h2><a name="3tui"></a>çŸ­ç½‘å€ï¼šhttps://x.co/3tui
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/98/" class="wiki-page-link" target="_blank">ÍË³öµ³¡¢ÍÅ¡¢¶Ó</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/98/" class="wiki-page-link" target="_blank">é€€å‡ºå…šã€å›¢ã€é˜Ÿ</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>¶¯Ì¬ÍøÖ±Á¬</h2><a name="to-dtw"></a> ¶ÌÍøÖ·£ºhttps://x.co/dongtw »ò https://git.io/vKz97
+<h2>åŠ¨æ€ç½‘ç›´è¿ž</h2><a name="to-dtw"></a> çŸ­ç½‘å€ï¼šhttps://x.co/dongtw æˆ– https://git.io/vKz97
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/20/" class="wiki-page-link" target="_blank">¶¯Ì¬Íø</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/20/" class="wiki-page-link" target="_blank">åŠ¨æ€ç½‘</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>ÎÞ½çÍøÖ±Á¬</h2><a name="to-wjw"></a>¶ÌÍøÖ·£ºhttps://x.co/wjfq »ò https://git.io/vKz9X
+<h2>æ— ç•Œç½‘ç›´è¿ž</h2><a name="to-wjw"></a>çŸ­ç½‘å€ï¼šhttps://x.co/wjfq æˆ– https://git.io/vKz9X
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/31/" class="wiki-page-link" target="_blank">ÎÞ½çÍø</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/31/" class="wiki-page-link" target="_blank">æ— ç•Œç½‘</a></strong>
     </li>
 
   </ul>
 </div>
 
-<h2>ÉñÖÝÕýµÀÍøÖ±Á¬</h2><a name="toszzd"></a> ¶ÌÍøÖ·£ºhttps://x.co/shzzd
+<h2>ç¥žå·žæ­£é“ç½‘ç›´è¿ž</h2><a name="toszzd"></a> çŸ­ç½‘å€ï¼šhttps://x.co/shzzd
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/18/" class="wiki-page-link" target="_blank">ÉñÖÝÕýµÀÍø</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/18/" class="wiki-page-link" target="_blank">ç¥žå·žæ­£é“ç½‘</a></strong>
     </li>
   </ul>
 </div>
 
-<h2>¾ÛÔµ¸ó</h2><a name="to-juyuange"></a>
+<h2>èšç¼˜é˜</h2><a name="to-juyuange"></a>
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://ye.dnstool.xyz/jygjw.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó½ûÎÅµ¼º½</a></strong>
+      <strong><a href="https://ye.dnstool.xyz/jygjw.php" class="wiki-page-link" target="_blank">èšç¼˜é˜ç¦é—»å¯¼èˆª</a></strong>
     </li>
 
 
 
- <li><strong><a href="https://ye.dnstool.xyz/jygdl.php" class="wiki-page-link" target="_blank">¾ÛÔµ¸ó´úÀí</a></strong>
+ <li><strong><a href="https://ye.dnstool.xyz/jygdl.php" class="wiki-page-link" target="_blank">èšç¼˜é˜ä»£ç†</a></strong>
     </li>
   </ul>
 </div>
 
 <h2>
-±¾Ò³Ãæ¶ÌÍøÖ·£ºhttps://git.io/jww
+æœ¬é¡µé¢çŸ­ç½‘å€ï¼šhttps://git.io/jww
 </h2>
