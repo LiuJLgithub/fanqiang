@@ -7,9 +7,9 @@ https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac
 
 <h3>iOS (iPhone/iPad)翻墙设置</h3>
 <ol>
-<li>打开设置, 选择Wi-Fi (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/1.png" target="_blank">图</a>)</li>
-<li>选择当前使用的热点 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/2.png" target="_blank">图</a>)</li>
-<li>拖到最下面的代理设置，选择"自动"，填写PAC地址 (<a href="https://raw.githubusercontent.com/kgfw/fg/master/ios/3.png" target="_blank">图</a>)</li>
+<li>打开设置, 选择Wi-Fi (<a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/1.png" target="_blank">图</a>)</li>
+<li>选择当前使用的热点 (<a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/2.png" target="_blank">图</a>)</li>
+<li>拖到最下面的代理设置，选择"自动"，填写PAC地址 (<a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/3.png" target="_blank">图</a>)</li>
 <li>设置后后，直接在iphone的浏览器 safari 输入 a.dtwang.org 即可开始自由翻墙啦。</li>
 </ol>
 </li>
@@ -23,4 +23,4 @@ https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac
 <h2>
 本页短网址：https://git.io/ifq
 </h2>
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/jw.jpg" border="0" alt="iphone翻墙">
+<img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/jw.jpg" border="0" alt="iphone翻墙">
