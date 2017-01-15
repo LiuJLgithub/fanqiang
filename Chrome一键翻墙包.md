@@ -36,7 +36,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接1：<a href="http://pan.baidu.com/s/1dFzHyCx" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgwf/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">Github下载</a></li>
+ 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">Github下载</a></li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
@@ -57,7 +57,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接1：<a href="http://t.cn/RcPYr4R" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgwf/fg/raw/master/fqb/ChromeGo.7z" target="_blank">github下载</a>
+ 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">github下载</a>
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
@@ -78,7 +78,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接1：<a href="http://pan.baidu.com/s/1c030Eq" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgwf/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">Github下载</a>
+ 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">Github下载</a>
 </li>
 <li>
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
@@ -99,7 +99,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <li>
 <b><a name="chromeupdate"></a>怎么更新Chrome：</b><br/>
 <ul>
-<li>1.下载<a href="https://raw.githubusercontent.com/killgwf/fg/master/fqb/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录里</li>
+<li>1.下载<a href="https://raw.githubusercontent.com/killgfw/fg/master/fqb/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录里</li>
 <li>2.右键点击ChromeUpdate.7z，选择“解压到当前文件夹”，注意不要选“解压到ChromeUpdate\”</li>
 <li>3.右键单击 GoAgent翻墙.cmd 或GoAgent2翻墙.cmd，以管理员身份启动；</li>
 <li>4.翻墙成功后关闭Chrome浏览器；</li>
