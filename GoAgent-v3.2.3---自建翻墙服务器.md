@@ -25,12 +25,12 @@
      href="https://appengine.google.com" target="_blank">Google App Engine</a>&nbsp;
      <a href="https://appengine.google.com/">https://appengine.google.com/</a>&nbsp;&nbsp;
      自动转向创建项目页面，如下图：<br>
-     <img border=0 width=416 height=178 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image001.jpg"><br>
+     <img border=0 width=416 height=178 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image001.jpg"><br>
      点“创建项目”按钮，出现下图：</li>
 </ol>
 
 <p  ><img border=0 width=487
-height=388 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image002.jpg"></p>
+height=388 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image002.jpg"></p>
 
 <p  >填写好项目名称，然后会自动出现：您的项目 ID 将为 jinwen0001，
 注意：项目名称和项目ID可能是不一样的，这个自动出现的项目ID就是我们后面要用到的appid ，要记录下来备用。<br>
@@ -45,14 +45,14 @@ height=388 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.fi
 </ol>
 
 <p  ><img
-border=0 width=327 height=201 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image003.jpg"></p>
+border=0 width=327 height=201 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image003.jpg"></p>
 
 <p  >这样一个GAE应用被激活，该应用对应的appid 就是项目 ID：jinwen0001，注意不是项目名称，项目名称和ID可能不一样。</p>
 
 <ol start=4 type=1>
  <li >创建更多项目：<br>
      如下图点页面左上方的项目名称，然后点创建项目，重复上面的步骤，就可以创建多个GAE应用。<br>
-     <img border=0 width=452 height=197 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image004.jpg"></li>
+     <img border=0 width=452 height=197 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image004.jpg"></li>
 </ol>
 
 <p  >一个Gmail账户可以创建多个GAE应用，每个应用每天 1G 免费流量，当天的流量用完后会在<a
@@ -65,7 +65,7 @@ href="http://zh.thetimenow.com/united_states/california/san_francisco">美国加
      href="https://github.com/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a></u>，并确保能正常打开墙外网站，然后不要关闭代理软件那个黑色窗口。</li>
  <li >将IE代理服务器设置成127.0.0.1:8087</li>
  <li >下载 goagent 并解压（如果已随本教程一起获得goagent服务端程序，则可不必下载，服务端程序仅包括3个文件：app.yaml、gae.py和legacy.py）： <a
-     href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip">https://raw.githubusercontent.com/kgfw/fg/master/wstp/goagent.zip</a>
+     href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/goagent.zip">https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/goagent.zip</a>
      </li>
  <li >解压后，用记事本打开app.yaml，把里面的第一行的YourAppid&nbsp; 替换为你自己申请到的appid，这里我们替换为：jinwen0001</li>
  <li >下载python2.xx,注意不要下载3.xx &nbsp;<a
@@ -79,22 +79,22 @@ href="http://zh.thetimenow.com/united_states/california/san_francisco">美国加
 </ol>
 
 <p  ><img border=0 width=238
-height=148 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image005.jpg"></p>
+height=148 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image005.jpg"></p>
 
 <p  >然后，点“Browse…”按钮找到app.yaml所在路径，如下图：</p>
 
 <p  ><img border=0 width=522
-height=215 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image006.jpg"></p>
+height=215 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image006.jpg"></p>
 
 <p  >然后点“Add”按钮，出现如下画面：</p>
 
 <p  ><img border=0 width=483
-height=139 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image007.jpg"></p>
+height=139 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image007.jpg"></p>
 
 <p  >选中jinwen0001 这一行，然后右上角的点击“Deploy”按钮，然后会自动打开浏览器，出现如下画面（如果你的翻墙浏览器不是默认浏览器，那么把自动打开的网址，复制到已翻墙并登录google的浏览器中）</p>
 
 <p  ><img border=0 width=483
-height=506 src="https://raw.githubusercontent.com/kgfw/fg/master/wstp/GoAgent.files/image008.jpg"></p>
+height=506 src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/GoAgent.files/image008.jpg"></p>
 
 <p  >然后，点击上图的“允许”按钮，接下来，就出现一些信息如下：</p>
 
