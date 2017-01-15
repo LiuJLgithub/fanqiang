@@ -16,14 +16,14 @@
 <h2>一、下载和替换proxy.py文件</h2>
 
 <p   >下载(右键点击，另存为即可下载) <a
-href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/proxy.py">proxy.py文件</a>，用其覆盖替换Agent文件夹里的同名文件。替换proxy.py文件后，GoAgent将不会自动更新ip了，从此你需要自己定期扫描和更新ip。</p>
+href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/proxy.py">proxy.py文件</a>，用其覆盖替换Agent文件夹里的同名文件。替换proxy.py文件后，GoAgent将不会自动更新ip了，从此你需要自己定期扫描和更新ip。</p>
 
 <h2>二、GoAgent扫描IP</h2>
 
 <p >你可以直接用Agent文件夹下的gsan目录里的工具即可扫描了，已经内置了可用ip列表大约1.6w ip。</p>
 
 <p >若你有自己有扫描工具，可以下载<a
-href="https://raw.githubusercontent.com/kgfw/fg/master/wstp/googleip.txt">
+href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/gae/googleip.txt">
 googleip.txt文件</a>，其为为可用谷歌ip的地址列表，大约2w个ip，来源为vpn扫描全部谷歌地址域得到，可靠性有保障，大家可以下载来自己用<a
 href="https://code.google.com/archive/p/gogo-tester/">GoGoTest</a>、GScan进行扫描！</p>
 
