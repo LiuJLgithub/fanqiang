@@ -98,7 +98,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <li>
 <b><a name="chromeupdate"></a>怎么更新Chrome：</b><br/>
 <ul>
-<li>1.下载<a href="https://raw.githubusercontent.com/killgwf/fg/master/fqb/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录里</li>
+<li>1.下载<a href="https://raw.githubusercontent.com/killgwf/fg/master/wstp/ChromeUpdate.7z" target="_blank">Chrome升级包</a>到ChromeGo目录里</li>
 <li>2.右键点击ChromeUpdate.7z，选择“解压到当前文件夹”，注意不要选“解压到ChromeUpdate\”</li>
 <li>3.右键单击 GoAgent翻墙.cmd 或GoAgent2翻墙.cmd，以管理员身份启动；</li>
 <li>4.翻墙成功后关闭Chrome浏览器；</li>
