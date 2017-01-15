@@ -2,7 +2,7 @@
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
 <li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
-<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/kgfw/fg/wiki/DonateAppid">捐献appid<a/>. </li>
+<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/>. </li>
 <li><strong>2017年1月3日</strong> 更新蓝灯和GoAgent，解决翻墙失败问题</li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
 <li><strong>2016年11月1日</strong> 更新Agent2</li>
@@ -29,11 +29,11 @@
 <blockquote>
 <ul class="task-list">
 
-<li><b>下载链接1</b>：全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/kgfw/fg/tree/master/RESILIO-SYNC">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
+<li><b>下载链接1</b>：全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/bannedbook/fanqiang/blob/master/RESILIO-SYNC/readme.md">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 <li>
 <b>下载链接2</b>：<a href="http://pan.baidu.com/s/1eRO17I6" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
 
-<b>下载链接3</b>：<a href="https://github.com/kgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">Github下载</a><br><br>
+<b>下载链接3</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">Github下载</a><br><br>
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
