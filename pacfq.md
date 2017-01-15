@@ -8,7 +8,7 @@
 
 禁闻翻墙pac地址：
 https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
-您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
+您也可以：<a href="https://github.com/bannedbook/fanqiang/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h3>Windows下Internet Explore或Google Chrome/Chromium的PAC设置：</h3>
 <p>
