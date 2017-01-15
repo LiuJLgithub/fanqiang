@@ -9,6 +9,8 @@
      href="https://github.com/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a></u>是多人共用流量，所以随着使用人数的增加，可能有一天无法满足更多使用者的流量需求。为此，特把自建流量的详细方法写出来，让对电脑有一定基础的使用者可以创建自己的流量，从而不受流量不够带来的影响。没有电脑基础的朋友，如果你有耐心，严格按照教程的步骤操作，也是可以成功的。</li>
  <li >使用自建的流量还可以解决访问一些网站出现Hosts Deny的问题。也可以解决appid失效而出现的“Error: Not Found-The
      requested URL /_gh/ was not found on this server.” 的问题。</li>
+
+ <li >本页面短网址：https://git.io/zjfq</li>
 </ul>
 
 <p>&nbsp;</p>

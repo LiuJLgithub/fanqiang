@@ -4,10 +4,10 @@
 
 <h2>pac翻墙优点：无需客户端软件、插件，直接在浏览器或手机中做简单设置就可自由翻墙，非常方便。设置好后（注意：配置好代理后，需要重启浏览器使之生效），在浏览器地址栏输入 pac.dtwang.org 即可翻墙了。</h2>
 
-<h2 id="style-guide" class="content-subhead">pac翻墙使用教程</h2>
+<h2 id="style-guide" class="content-subhead">pac翻墙使用教程, 本页短网址：https://git.io/pac</h2>
 
 禁闻翻墙pac地址：
-https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
+https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac  把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/kgfw/fg/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h3>Windows下Internet Explore或Google Chrome/Chromium的PAC设置：</h3>
@@ -53,4 +53,4 @@ https://raw.githubusercontent.com/kgfw/fg/master/ios/ios.pac  把这个pac地址
 <h3>Android 4.x ，Android 3.x 的PAC设置</h3>
 请参考：<a href="https://github.com/uku/Unblock-Youku/issues/259" target="_blank">这里</a>。
 
-<img src="https://raw.githubusercontent.com/kgfw/fg/master/ios/pac.jpg" border="0" alt="pac翻墙">
+<img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/pac.jpg" border="0" alt="pac翻墙">
