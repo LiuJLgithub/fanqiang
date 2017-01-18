@@ -33,7 +33,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1（暂时失效）：<a href="http://pan.baidu.com/s/1dFzHyCx" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+ 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载2</a></li>
@@ -54,7 +54,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1（暂时失效）：<a href="http://t.cn/RcPYr4R" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+ 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载2</a>
@@ -75,7 +75,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1（暂时失效）：<a href="http://pan.baidu.com/s/1c030Eq" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+ 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
 </li>
 <li>
  下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">下载2</a>
