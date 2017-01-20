@@ -6,7 +6,7 @@
 
 <h2>更新日志：</h2>
 <ul class="task-list">
-<li><strong>2017年1月12日</strong> 更新hosts文件，请重新下载。</li>
+<li><strong>2017年1月20日</strong> 更新hosts文件，请重新下载。</li>
 </ul>
 
 <h2>hosts翻墙操作方法</h2> 
