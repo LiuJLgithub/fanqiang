@@ -61,5 +61,5 @@ Twitter：<a href="https://twitter.com/?lang=zh-cn"  target="_blank">https://twi
 <li>本项目的hosts，README.MD，wiki等资源基于<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
 这意味着你可以拷贝、并再发行本项目的内容，但是你将必须同样<strong>提供原作者信息以及协议声明</strong>。同时你也<strong>不能将本项目用于商业用途</strong>，
 按照我们狭义的理解（增加附属条款），凡是<strong>任何盈利的活动皆属于商业用途</strong>。</li>
-<li>特别感谢以下hosts更新维护提供者：@racaljk、 @andytimes、@Too-Naive、 @Ignotus-CN、 @laodcn、@vokins、@DannyWu </li>
+<li>特别感谢以下hosts更新维护提供者：@racaljk、 @老D</li>
 </ul>
