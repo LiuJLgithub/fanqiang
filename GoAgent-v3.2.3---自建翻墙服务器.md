@@ -72,7 +72,7 @@ href="http://zh.thetimenow.com/united_states/california/san_francisco">美国加
      href="https://www.python.org/downloads/">https://www.python.org/downloads/</a>
      （不翻墙可下载）并安装之。</li>
  <li >下载Google_App_Engine_SDK_for_Python （需翻墙下载）<a
-     href="https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python">https://cloud.google.com/appengine/downloads#Google_App_Engine_SDK_for_Python</a>
+     href="https://storage.googleapis.com/appengine-sdks/featured/GoogleAppEngine-1.9.50.msi">https://storage.googleapis.com/appengine-sdks/featured/GoogleAppEngine-1.9.50.msi</a>
      &nbsp;并安装之。</li>
  <li >安装Google_App_Engine_SDK_for_Python后桌面上出现一个Google App Engine Launcher的图标，双击启动之。</li>
  <li >然后点菜单：File/Add Existing Application…,如下图</li>
