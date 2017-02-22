@@ -36,7 +36,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
     </li>
 
   <li><a name="jwurl"></a>
-      <strong>禁闻代理在线-镜像1：<a href="mailto:freeman105@gmail.com">请发email</a>到: freeman105@gmail.com 索取网址。打不开？请<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">请解封禁闻直连网址</a></strong>
+      <strong>禁闻代理在线-镜像1：<a href="mailto:freeman105@gmail.com">请发email</a>到: freeman105@gmail.com 索取网址（注意要写标题，正文内容尽量丰富正常，不要只写几个字母，很容易被判为垃圾邮件，就收不到自动回复）。打不开？请<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">请解封禁闻直连网址</a></strong>
     </li> 
    <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">禁闻代理在线-镜像2（PAC翻墙）</a></strong>
