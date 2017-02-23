@@ -11,7 +11,7 @@
 https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac  
 https://storage.googleapis.com/jwnews/ios.pac
 
-把这个pac地址通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
+把这个pac地址（任选一个，哪个能用用哪个，可以先用浏览器直接打开pac地址看看能否访问）通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/bannedbook/fanqiang/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
 <h3>Windows下Internet Explore或Google Chrome/Chromium的PAC设置：</h3>
