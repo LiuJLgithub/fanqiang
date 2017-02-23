@@ -18,7 +18,7 @@
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
 <br>本页二维码、短网址： <br>
 <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/qr.jpg" /><br>
-https://git.io/jww 或 https://x.co/bnews<br>
+https://bit.ly/jinnews 或 https://git.io/jww 或 https://x.co/bnews<br>
 http后一定要跟s，如果微信里直接打不开，请先点击微信右上角三个点，选择在浏览器中打开<br>
 
 如果IE6-10或国产浏览器屏蔽本页面，打不开本页面，可选用谷歌浏览器：<br>
@@ -224,5 +224,5 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 </div>
 
 <h2>
-本页面短网址：https://git.io/jww
+本页面短网址：https://bit.ly/jinnews 或 https://git.io/jww
 </h2>
