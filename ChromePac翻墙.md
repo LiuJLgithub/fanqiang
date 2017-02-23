@@ -3,7 +3,7 @@
 
 <ul>
 <li>这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好，运行很快，看youtube也不会卡。反馈2：不错哎，youtube秒开！</li>
-<li>本页短网址: https://git.io/fq </li>
+<li>本页短网址: https://bit.ly/chromepac  https://git.io/fq </li>
 </ul>
 
 <h3>
