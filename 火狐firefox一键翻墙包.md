@@ -72,5 +72,5 @@
 
 </ol>
 
-<h4>本页面短网址：https://git.io/firefox    或   https://x.co/firefq</h4>
+<h4>本页面短网址：https://bit.ly/firefoxgo   https://git.io/firefox    或   https://x.co/firefq</h4>
     </div>
