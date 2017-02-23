@@ -2,6 +2,7 @@
 
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2017年2月23日</strong>更新<a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理</a>(for PC),解决杀软误报，如果你没有误报可不必下载。</li>
 
 <li><strong>2017年1月15日</strong>更新<a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理</a>(for PC)，<a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/apk/JWBrowser.apk">禁闻浏览器</a>(for 安卓),解决翻墙失效问题，请下载。</li>
 
