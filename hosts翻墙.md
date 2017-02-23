@@ -1,6 +1,6 @@
 本页面长期更新提供海外主流禁网、海外主流新闻网站的hosts翻墙，以及最新Google、谷歌学术、维基百科、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、GitHub、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Twitter、Tumblr、Facebook、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、Youtube、Google Drive、UpLoad、Appspot、Googl eusercontent、Gstatic、Gmail、Google other、Google Play等hosts。<br>
 
-本页面短网址：https://git.io/vMCSz
+本页面短网址：https://bit.ly/hostsfq   https://git.io/vMCSz
 
 <img src="https://github.com/bannedbook/fanqiang/blob/master/hosts/hostsites.jpg?raw=true" /><br>
 
