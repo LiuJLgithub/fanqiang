@@ -21,6 +21,6 @@ https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac
 </ul>
 
 <h2>
-本页短网址：https://git.io/ifq
+本页短网址：https://bit.ly/iphonefq      https://git.io/ifq
 </h2>
 <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/jw.jpg" border="0" alt="iphone翻墙">
