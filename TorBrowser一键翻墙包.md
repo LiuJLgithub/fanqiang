@@ -28,4 +28,4 @@ TOR Browser 自发布了全新的 4.0 版本后，已完全复活。该版本有
 
 </ul>
 </blockquote>
-<h2>本页面短网址：https://git.io/tfq </h2>
+<h2>本页面短网址：https://bit.ly/torfq   https://git.io/tfq </h2>
