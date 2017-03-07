@@ -34,7 +34,7 @@
 
 <b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 9ac817713eac6e68fa4ba6d416f4079c，文件大小：86,316,384 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 9626af50536452231820631222f68522，文件大小：86,312,307 字节
 </li>
 
 <li>
