@@ -1,14 +1,11 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
+<li><strong>2017年3月7日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 <li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
-<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失败问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/>. </li>
-<li><strong>2017年1月3日</strong> 更新蓝灯和GoAgent，解决翻墙失败问题</li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
-<li><strong>2016年11月1日</strong> 更新Agent2</li>
 <li><strong>2016年9月8日</strong> 更新，<a href="https://github.com/bannedbook/fanqiang/issues/12" target="_blank">解决firefoxfq goagent-https网站链接问题</a>。 </li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
-<li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 
 <h3>公告和注意：</h3>
 
