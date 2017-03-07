@@ -4,14 +4,11 @@
 Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2017年3月7日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 <li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
-<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
-<li><strong>2017年1月3日</strong> 更新GoAgent和蓝灯，解决翻墙失效问题。</li>
-<li><strong>2016年11月20日</strong>  新增pac翻墙渠道，流量更新。</li>
-<li><strong>2016年8月31日</strong> 更新,添加新版蓝灯3翻墙方式，原蓝灯2翻墙仍然可用，哪个好用用哪个。 另删除Firefly翻墙，因有的杀软对Firefly误报，影响整个翻墙包的传播，如果你喜欢Firefly可来信索取。同时更新chrome至当前最新版52.0.2743.116</li>
+<li><strong>2017年1月7日</strong> 更新蓝灯，解决翻墙失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙</li>
 <li><strong>2016年8月20日</strong> 发布Chrome浏览器升级包，如需升级Chrome，请查看<a href="#chromeupdate" target="_blank">Chrome升级方法</a></li>
 <li><strong>2016年8月16日</strong> 更新，增加第4个翻墙方法，本翻墙包携带4种翻墙工具，翻墙无忧。</li>
-<li><strong>2016年7月24日</strong> 更新，增加第三个翻墙方法，本翻墙包携带三种翻墙工具，翻墙无忧。</li>
 <li><strong>2016年5月20 </strong>  Chrome一键翻墙包添加蓝灯，GoAgent和蓝灯哪个好用用哪个，启动GoAgent请右键点击GoAgent翻墙.cmd，然后再点“以管理员身份运行”。 </li>
 <li>推荐更好用的翻墙软件：<strong><a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">禁闻代理</a></strong>,这是一种非常简单的翻墙方法。网友反馈：速度确实非常快，个人觉得比蓝灯要好。</li>
 
