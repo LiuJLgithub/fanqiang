@@ -11,6 +11,8 @@
 https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac  
 https://storage.googleapis.com/jwnews/ios.pac
 
+请网友反馈，用这个pac翻墙是否可以正常浏览禁闻网 http://www.bannedbook.org/
+
 把这个pac地址（任选一个，哪个能用用哪个，可以先用浏览器直接打开pac地址看看能否访问）通过下面的方法在电脑浏览器或手机中简单设置即可翻墙。
 您也可以：<a href="https://github.com/bannedbook/fanqiang/tree/master/jwpac" target="_blank">自建PAC翻墙服务器</a>。
 
