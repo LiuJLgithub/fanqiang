@@ -8,8 +8,7 @@
 
 禁闻翻墙pac地址：
 
-https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/ios.pac  
-https://storage.googleapis.com/jwnews/ios.pac
+https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 
 请网友反馈，用这个pac翻墙是否可以正常浏览禁闻网 http://www.bannedbook.org/
 
