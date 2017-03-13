@@ -56,6 +56,6 @@ https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 </p>
 
 <h3>Android 4.x ，Android 3.x 的PAC设置</h3>
-请参考：<a href="https://github.com/uku/Unblock-Youku/issues/259" target="_blank">这里</a>。
+安卓手机用 proxydroid设置pac代理,或者请参考：<a href="https://github.com/uku/Unblock-Youku/issues/259" target="_blank">这里</a>。
 
 <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/pac.jpg" border="0" alt="pac翻墙">
