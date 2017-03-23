@@ -36,7 +36,6 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <li>
       <strong><a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。推荐使用Google Chrome浏览器。下载解压后，双击exe文件启动程序，然后点击“启动打开”按钮即可实现翻墙浏览了。</strong>下载短网址:  <a href="https://git.io/jwp">https://git.io/jwp</a>
     </li>
-
   <li><a name="jwurl"></a>
       <strong>禁闻直连-镜像一：<a href="mailto:freeman105@gmail.com">请发email</a>到: freeman105@gmail.com 索取网址（注意要写标题，正文内容尽量丰富正常，不要只写几个字母，很容易被判为垃圾邮件，就收不到自动回复。）。直连网址打不开？请<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">请解封禁闻直连网址</a></strong>
     </li> 
