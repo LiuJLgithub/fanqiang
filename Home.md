@@ -69,9 +69,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <li>
       <strong><a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站) </strong>下载短网址:  <a href="https://git.io/jwp">https://git.io/jwp</a>
     </li>
-
- 
-    <li>
+<li>
       <strong><a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85" class="wiki-page-link">Chrome一键翻墙包</a></strong>
     </li>
 
