@@ -1,1 +1,1 @@
-自动回复最新翻墙信息网址：freeman105@gmail.com（仅仅自动回复，不解答问题,如需交流，请点：<a href="https://github.com/bannedbook/fanqiang/issues">翻墙交流</a>）或加入<a href="https://t.me/joinchat/AAAAAAkBLIqzu5pmqtH0yw">电报翻墙交流群。</a>
+自动回复最新翻墙信息网址：freeman105@gmail.com（仅仅自动回复，不解答问题,如需交流，请点：<a href="https://github.com/bannedbook/fanqiang/issues">翻墙交流</a> 或加入<a href="https://t.me/joinchat/AAAAAAkBLIqzu5pmqtH0yw">电报翻墙交流群。</a>）
