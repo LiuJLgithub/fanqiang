@@ -45,7 +45,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
     </li>     
     
     <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99" target="_blank">禁闻代理在线-镜像3(hosts翻墙)</a></strong>
+      <strong><a href="https://git.io/vMCSz" target="_blank">禁闻代理在线-镜像3(hosts翻墙)</a></strong>
     </li> 
 
  
