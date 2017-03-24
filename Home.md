@@ -2,7 +2,7 @@
 
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li>公告：如需直连翻墙网址，请发email到: freeman105@gmail.com 索取网址，几分钟即可收到网址。本页面仅提供各种翻墙软件和APP，目前暂不公布直连网址。谢谢</li>
+<li>**公告：**如需直连翻墙网址，请发email到: freeman105@gmail.com 索取网址，几分钟即可收到网址。本页面仅提供各种翻墙软件和APP，目前暂不公布直连网址。谢谢</li>
 <li><strong>2017年3月7日</strong>更新<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a>/<a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a>(for PC)，解决goagent部分id失效问题。</li>
 
 <li><strong>2017年2月23日</strong>更新<a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理</a>(for PC),解决杀软误报，如果你没有误报可不必下载。</li>
