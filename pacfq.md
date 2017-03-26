@@ -58,4 +58,8 @@ https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/new.pac
 <h3>Android 4.x ，Android 3.x 的PAC设置</h3>
 安卓手机用 proxydroid设置pac代理,或者请参考：<a href="https://github.com/uku/Unblock-Youku/issues/259" target="_blank">这里</a>。
 
+<h3>Linux的PAC设置</h3>
+Linux设置系统自动代理，在设置-->网络设置-->代理设置中选择自动代理，URL填写PAC地址
+或者直接在 系统设置-->网络-->网络代理  中选择  方法 为  自动  ，下面URL填入PAC地址
+
 <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/ios/pac.jpg" border="0" alt="pac翻墙">
