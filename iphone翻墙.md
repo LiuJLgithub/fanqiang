@@ -1,7 +1,7 @@
 <h1>苹果iPhone、ios翻墙方法</h1>
 
 <ul class="task-list">
-<li> 特别推出，iOS (iPhone/iPad) pac 翻墙,pac地址： 
+<li> 特别推出，iOS (iPhone/iPad) pac 翻墙,请点击下面的链接： 
 
 https://github.com/bannedbook/fanqiang/wiki/pacfq
 
