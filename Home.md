@@ -51,7 +51,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
   <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     禁闻代理在线-镜像域名后面加/20/ 就是<a href="https://cs.cncn.eu.org/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="https://cs.cncn.eu.org/31/" target="_blank">无界网</a>。
+     禁闻代理在线-镜像域名后面加/20/ 就是<a href="https://cs.cncn.eu.org/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://tzwz.zdee.gq/" target="_blank">无界网</a>。
     </li>
  
 
