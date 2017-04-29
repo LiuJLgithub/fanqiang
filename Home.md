@@ -51,7 +51,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
   <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/jwproxy.jpg" />
     </li>
  <li>
-     禁闻代理在线-镜像域名后面加/20/ 就是<a href="https://cs.cncn.eu.org/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://tzwz.zdee.gq/" target="_blank">无界网</a>。
+     禁闻代理在线-镜像域名后面加/20/ 就是<a href="/20/" target="_blank">动态网</a>，后面加 /31/ 就是<a href="http://tzwz.zdee.gq/" target="_blank">无界网</a>。
     </li>
  
 
@@ -139,7 +139,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索</a></strong>
+      <strong><a href="/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索</a></strong>
     </li>
   </ul>
 </div>
@@ -148,7 +148,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/1/" target="_blank">手机禁网平台</a></strong>
+      <strong><a href="/1/" target="_blank">手机禁网平台</a></strong>
     </li>
   </ul>
 </div>
@@ -158,7 +158,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧。 短网址:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/gczx.html" class="wiki-page-link" target="_blank">广传真相平台</a></strong>
+      <strong><a href="/gczx.html" class="wiki-page-link" target="_blank">广传真相平台</a></strong>
     </li>
   </ul>
 </div>
@@ -167,7 +167,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/98/" class="wiki-page-link" target="_blank">退出党、团、队</a></strong>
+      <strong><a href="/98/" class="wiki-page-link" target="_blank">退出党、团、队</a></strong>
     </li>
   </ul>
 </div>
@@ -176,7 +176,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/20/" class="wiki-page-link" target="_blank">动态网</a></strong>
+      <strong><a href="/20/" class="wiki-page-link" target="_blank">动态网</a></strong>
     </li>
   </ul>
 </div>
@@ -185,7 +185,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/31/" class="wiki-page-link" target="_blank">无界网</a></strong>
+      <strong><a href="/31/" class="wiki-page-link" target="_blank">无界网</a></strong>
     </li>
 
   </ul>
@@ -195,7 +195,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/18/" class="wiki-page-link" target="_blank">神州正道网</a></strong>
+      <strong><a href="/18/" class="wiki-page-link" target="_blank">神州正道网</a></strong>
     </li>
   </ul>
 </div>
