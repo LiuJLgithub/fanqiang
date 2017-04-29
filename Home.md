@@ -204,12 +204,12 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="https://cs.cncn.eu.org/jygjw.php" class="wiki-page-link" target="_blank">聚缘阁禁闻导航</a></strong>
+      <strong><a href="http://8h7aop.ju55.cf/home/" class="wiki-page-link" target="_blank">聚缘阁禁闻导航</a></strong>
     </li>
 
 
 
- <li><strong><a href="https://cs.cncn.eu.org/jygdl.php" class="wiki-page-link" target="_blank">聚缘阁代理</a></strong>
+ <li><strong><a href="" class="wiki-page-link" target="_blank">聚缘阁代理</a></strong>
     </li>
   </ul>
 </div>
