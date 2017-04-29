@@ -15,7 +15,7 @@
 <li><strong>2017年1月14日</strong>更新<a href="https://github.com/bannedbook/fanqiang/wiki/hosts%E7%BF%BB%E5%A2%99">hosts翻墙</a>，解决hosts文件下载失败问题。</li>
 </ul>
 
-<strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等，下面的直连网址失效时，我们会及时在此页面更新最新禁闻直连网址 
+<strong>请将当前页面网址放入您的浏览器收藏夹、书签栏等 
 <br>收藏方法：电脑访问可按Ctrl+D 键，手机访问请按手机收藏方法收藏</strong>
 <br>本页二维码、短网址： <br>
 <img src="https://raw.githubusercontent.com/bannedbook/fanqiang/master/jw/qr.jpg" /><br>
