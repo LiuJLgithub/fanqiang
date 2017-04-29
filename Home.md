@@ -209,7 +209,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 
 
 
- <li><strong><a href="" class="wiki-page-link" target="_blank">聚缘阁代理</a></strong>
+ <li><strong><a href="https://git.io/jyg10" class="wiki-page-link" target="_blank">聚缘阁代理</a></strong>
     </li>
   </ul>
 </div>
