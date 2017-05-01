@@ -60,7 +60,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：65,738,061 字节  MD5: ebd0b58dff9d2d32039fa3644d147c70
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：78,575,126 字节  MD5: 4a2096331b24739023e9523fc16843c7
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
