@@ -4,7 +4,7 @@
 Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2017年5月12日</strong> 更新ChromeGo完整版和轻便版，升级chrome到58.0.3029.110版，解决goagent在chrome到58.0.3029.110版下的证书问题。</li>
+<li><strong>2017年5月12日</strong> 更新ChromeGo完整版和轻便版，升级chrome到58.0.3029.110版，解决goagent在chrome 58.0.3029.110版下的证书问题。</li>
 <li><strong>2017年3月7日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 <li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
 <li><strong>2016年8月20日</strong> 发布Chrome浏览器升级包，如需升级Chrome，请查看<a href="#chromeupdate" target="_blank">Chrome升级方法</a></li>
@@ -30,15 +30,12 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo-lite.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+ 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载2</a></li>
+<li>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载2</a></li>
-<li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
-</li>
-<li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：220,891,816 字节 MD5: 90028a4ff6b31648d6bfe2972861ba9f
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：21,345,700 字节 MD5: 804f83115ebd735f05743bfae0429ff7
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -51,16 +48,13 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+ 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载2</a>
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载2</a>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
-</li>
-<li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：78,575,126 字节  MD5: 4a2096331b24739023e9523fc16843c7
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：72,858,616 字节  MD5: e5bd9beee210cb26c53bca48f0740bc7
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
