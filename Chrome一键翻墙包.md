@@ -30,12 +30,12 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载2</a></li>
+ 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载1</a></li>
 <li>
  下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：21,345,700 字节 MD5: 804f83115ebd735f05743bfae0429ff7
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：21,345,733 字节 MD5: 0bb8e7170ed805bf76f34f590bd478b4
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -48,13 +48,13 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li>
- 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载2</a>
+ 下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载1</a>
 </li>
 <li>
  下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：72,858,616 字节  MD5: e5bd9beee210cb26c53bca48f0740bc7
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：72,858,286 字节  MD5: 29e712f3fafc660fdbf1c9c69dbda4d9
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -75,7 +75,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：64,193,907 字节  MD5：ace391f022c7428e188985061cda085d
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：64,512,640 字节  MD5：a955f2f11ea6d1532d6810eda738a33c
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
