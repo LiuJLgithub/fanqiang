@@ -1,7 +1,7 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
-<li><strong>2017年3月7日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
+<li><strong>2017年5月19日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 <li><strong>2017年1月14日</strong> 更新PAC翻墙，解决PAC失效问题。</li>
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
 <li><strong>2016年9月8日</strong> 更新，<a href="https://github.com/bannedbook/fanqiang/issues/12" target="_blank">解决firefoxfq goagent-https网站链接问题</a>。 </li>
@@ -28,13 +28,11 @@
 
 <li><b>下载链接1</b>：全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/bannedbook/fanqiang/blob/master/RESILIO-SYNC/readme.md">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 <li>
-<b>下载链接2（暂且失效）</b>：<a href="" target="_blank">FirefoxFQ.7z</a> （如果提示百度云升级，链接不存在等，刷新一下就出来了）<br><br>
+<b>下载链接1</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">下载1</a><br><br>
 
-<b>下载链接3</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">下载3</a><br><br>
+<b>下载链接2</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
 
-<b>下载链接4</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRva3liNHhpN016Y0E/view?usp=sharing" target="_blank">Google网盘下载</a><br><br>
-
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 9626af50536452231820631222f68522，文件大小：86,312,307 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 34541b8aa7e073119516e4848045bd98，文件大小：86,607,580 字节
 </li>
 
 <li>
