@@ -3,7 +3,7 @@
 <h3>更新日志：</h3>
 <ul class="task-list">
 <li><strong>2017年4月25日</strong>更新 <a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/apk/JWBrowser.apk">禁闻浏览器</a>(for 安卓，无需重新下载)和<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">PAC翻墙</a>(安卓、iphone、电脑多平台翻墙),解决翻墙失效问题。</li>
-<li><strong>2017年3月24日公告：</strong>如需直连翻墙网址，<a href="mailto:freeman105@gmail.com">请发email</a>到: freeman105@gmail.com 索取网址，几分钟即可收到网址。本页面仅提供各种翻墙软件和APP，目前暂不公布直连网址。谢谢</li>
+
 <li><strong>2017年3月7日</strong>更新<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a>/<a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a>(for PC)，解决goagent部分id失效问题。</li>
 
 <li><strong>2017年2月23日</strong>更新<a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理</a>(for PC),解决杀软误报，如果你没有误报可不必下载。</li>
@@ -36,7 +36,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
       <strong><a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理下载</a>(禁闻代理简介：轻量级翻墙工具,极速访问绝大多数被墙网站。推荐使用Google Chrome浏览器。下载解压后，双击exe文件启动程序，然后点击“启动打开”按钮即可实现翻墙浏览了。</strong>下载短网址:  <a href="https://git.io/jwp">https://git.io/jwp</a>
     </li>
   <li><a name="jwurl"></a>
-      <strong>禁闻直连-镜像一：<a href="mailto:freeman105@gmail.com">请发email</a>到: freeman105@gmail.com 索取网址（注意要写标题，正文内容尽量丰富正常，不要只写几个字母，很容易被判为垃圾邮件，就收不到自动回复。）。直连网址打不开？请<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">请解封禁闻直连网址</a></strong>
+      <strong>禁闻直连-镜像一：<a href="mailto:https://git.io/free">https://git.io/free</a>。直连网址打不开？请<a href="https://github.com/bannedbook/fanqiang/blob/master/unlockurl/README.md" target="_blank">请解封禁闻直连网址</a></strong>
     </li> 
    <li>
       <strong><a href="https://github.com/bannedbook/fanqiang/wiki/pacfq" target="_blank">禁闻代理在线-镜像2（PAC翻墙）</a></strong>
