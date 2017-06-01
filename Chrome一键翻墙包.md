@@ -72,7 +72,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">下载2</a>
 </li>
 <li>
- 下载链接3：<a href="https://mega.nz/#!b89U1IIK!4O2sTapZNPyghDsb3WQHds39JM8Xa7K2sW9JYD4x-dQ" target="_blank">Google网盘下载</a>
+ 下载链接3：<a href="https://mega.nz/#!b89U1IIK!4O2sTapZNPyghDsb3WQHds39JM8Xa7K2sW9JYD4x-dQ" target="_blank">网盘下载</a>
 </li>
 <li>
  <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：66,241,969 字节  MD5：17430dc47fe8f2e8b51146b163632f00
