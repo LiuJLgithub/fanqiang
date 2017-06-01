@@ -32,10 +32,10 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <li>
  下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载1</a></li>
 <li>
- 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvLVhRVEowa1ZvR1E/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFR0dKcGJoSmtFbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：21,345,733 字节 MD5: 0bb8e7170ed805bf76f34f590bd478b4
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：23,068,785 字节 MD5: 734b23652891e153ce88f56dcd2cca40
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -44,17 +44,17 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 </blockquote>
 
 
-<h3>完整版下载地址</h3>完整版已包含Chrome绿色版器版本 52.0.2743.116,支持win7以上操作系统，不支持xp。下载解压后请务必阅读其中的使用说明文档。
+<h3>完整版下载地址</h3>完整版已包含Chrome绿色版器版本 58.0.3029.110,支持win7以上操作系统，不支持xp。下载解压后请务必阅读其中的使用说明文档。
 <blockquote>
 <ul class="task-list">
 <li>
  下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载1</a>
 </li>
 <li>
- 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvQ05mLVdLWnRFR3c/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFUFFWOWtiWmN4VU0/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：72,858,286 字节  MD5: 29e712f3fafc660fdbf1c9c69dbda4d9
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：74,591,532 字节  MD5: 9191a6ec52bacbb56e45b6cde1039d98
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -72,10 +72,10 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
  下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">下载2</a>
 </li>
 <li>
- 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0B9KkeZvZHMRvaU5tTmNuQW5WbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接3(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFNzFtRk83dVg3Ymc/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：64,512,640 字节  MD5：a955f2f11ea6d1532d6810eda738a33c
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：66,241,969 字节  MD5：17430dc47fe8f2e8b51146b163632f00
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
