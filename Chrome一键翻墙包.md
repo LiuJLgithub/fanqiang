@@ -32,7 +32,7 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <li>
  下载链接1：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">下载1</a></li>
 <li>
- 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFR0dKcGJoSmtFbGM/view?usp=sharing" target="_blank">Google网盘下载</a>
+ 下载链接2(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFbDF5TnlFWnJ2dTQ/view?usp=sharing" target="_blank">Google网盘下载</a>
 </li>
 <li>
  <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：23,068,785 字节 MD5: 734b23652891e153ce88f56dcd2cca40
