@@ -30,6 +30,8 @@
 <li>
 <b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a></li>
 <li>
+<b>mega网盘下载</b>：<a href="https://mega.nz/#!akthRTKR!F61yVhI1I32Lk7gACQFt_N8xmocu5gPTnaUUJVKDSNs" target="_blank">FirefoxFQ.7z</a></li>
+<li>
 <b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFRDF2RWJEQl95eXM/view?usp=sharing" target="_blank">FirefoxFQ.7z</a><br></li>
 <li>
 <b>文件信息：</b>文件名：FirefoxFQ.7z md5: 09032aada189f27af741946eef7c45b5，文件大小：85,675,931 字节
