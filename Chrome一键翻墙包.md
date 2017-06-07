@@ -63,17 +63,12 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <h3>Chrome一键翻墙包for Windows XP下载地址</h3>Google Chrome 版本50之后不再支持XP，这个是打包的支持XP的最高版本Chrome49.0.2623.112翻墙包，包括Goagent和蓝灯翻墙软件，哪个好用用哪个。
 <blockquote>
 <ul class="task-list">
-<li>
- 下载链接1（暂时失效）：<a href="" target="_blank">ChromeGo-XP.7z</a>，（如果提示百度云升级，页面不存在等，刷新一下就出来了）
+<li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">ChromeGo-XP.7z</a>
+</li>
+<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!O0sFVTCI!uW08pWDFQpj8fDxhVxXdqP7s2hypBIWDhwY_kdfTca4" target="_blank">ChromeGo-XP.7z</a>
 </li>
 <li>
- 下载链接2：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">下载2</a>
-</li>
-<li>
- 下载链接3：<a href="https://mega.nz/#!b89U1IIK!4O2sTapZNPyghDsb3WQHds39JM8Xa7K2sW9JYD4x-dQ" target="_blank">网盘下载</a>
-</li>
-<li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：66,241,969 字节  MD5：17430dc47fe8f2e8b51146b163632f00
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,476,958 字节  MD5：d2ac63329493263f9293fae6e0f97f45
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
