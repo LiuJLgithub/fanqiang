@@ -45,11 +45,11 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <h3>完整版下载地址</h3>完整版已包含Chrome绿色版器版本 58.0.3029.110,支持win7以上操作系统，不支持xp。下载解压后请务必阅读其中的使用说明文档。
 <blockquote>
 <ul class="task-list">
-<li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">下载1</a>
+<li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">ChromeGo.7z</a>
 </li>
-<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!75dCDY6K!JL5J1rBiZwMtwSyXqB3ty26YhmyII3giLpLabAxY0WI" target="_blank">下载1</a>
+<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!75dCDY6K!JL5J1rBiZwMtwSyXqB3ty26YhmyII3giLpLabAxY0WI" target="_blank">ChromeGo.7z</a>
 </li>
-<li><b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFUFFWOWtiWmN4VU0/view?usp=sharing" target="_blank">Google网盘下载</a>
+<li><b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFUFFWOWtiWmN4VU0/view?usp=sharing" target="_blank">ChromeGo.7z</a>
 </li>
 <li>
  <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：71,821,361 字节  MD5: e3c72b474d3079ffac6c82c931b40c52
