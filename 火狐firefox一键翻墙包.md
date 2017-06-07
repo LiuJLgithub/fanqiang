@@ -1,7 +1,7 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
-<li><strong>2017年6月7日</strong> 更新蓝灯，请下载。</li>
+<li><strong>2017年6月7日</strong> 更新蓝灯，增加Firefly翻墙，请下载。</li>
 <li><strong>2017年5月19日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 
 <li><strong>2016年11月21日</strong>  新增pac翻墙渠道，流量更新. </li>
