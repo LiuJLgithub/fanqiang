@@ -28,10 +28,10 @@
 
 <li><b>BT Sync下载</b>：全新推出BT Sync下载，非常好用方便，永久自动同步，我们发布新版翻墙软件后，您会自动获得同步更新。BT Sync同步密钥: BG2G54AGRNPC5YXSTLQV5PNWL7ULYRIPC  ，<a target="_blank" href="https://github.com/bannedbook/fanqiang/blob/master/RESILIO-SYNC/readme.md">BT Sync（RESILIO SYNC）-下载神器，P2P同步利器和分布式网盘</a></li>
 <li>
-<b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a><br><br>
-
-<b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFRDF2RWJEQl95eXM/view?usp=sharing" target="_blank">FirefoxFQ.7z</a><br>
-
+<b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a></li>
+<li>
+<b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFRDF2RWJEQl95eXM/view?usp=sharing" target="_blank">FirefoxFQ.7z</a><br></li>
+<li>
 <b>文件信息：</b>文件名：FirefoxFQ.7z md5: 09032aada189f27af741946eef7c45b5，文件大小：85,675,931 字节
 </li>
 
