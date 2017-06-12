@@ -2,9 +2,9 @@
 
 <h3>更新日志：</h3>
 <ul class="task-list">
-<li><strong>2017年4月25日</strong>更新 <a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/apk/JWBrowser.apk">禁闻浏览器</a>(for 安卓，无需重新下载)和<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">PAC翻墙</a>(安卓、iphone、电脑多平台翻墙),解决翻墙失效问题。</li>
+<li><strong>2017年6月7日</strong>更新<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a>/<a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a>(for PC)，更新蓝灯，增加Firefly翻墙。</li>
 
-<li><strong>2017年3月7日</strong>更新<a href="/bannedbook/fanqiang/wiki/Chrome%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">Chrome一键翻墙包</a>/<a href="/bannedbook/fanqiang/wiki/%E7%81%AB%E7%8B%90firefox%E4%B8%80%E9%94%AE%E7%BF%BB%E5%A2%99%E5%8C%85">火狐firefox一键翻墙包</a>(for PC)，解决goagent部分id失效问题。</li>
+<li><strong>2017年4月25日</strong>更新 <a href="https://raw.githubusercontent.com/bannedbook/fanqiang/master/apk/JWBrowser.apk">禁闻浏览器</a>(for 安卓，无需重新下载)和<a href="/bannedbook/fanqiang/wiki/pacfq" class="wiki-page-link">PAC翻墙</a>(安卓、iphone、电脑多平台翻墙),解决翻墙失效问题。</li>
 
 <li><strong>2017年2月23日</strong>更新<a href="https://github.com/killgfw/fg/raw/master/jw/jwd.zip">禁闻代理</a>(for PC),解决杀软误报，如果你没有误报可不必下载。</li>
 
