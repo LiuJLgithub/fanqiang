@@ -1,6 +1,7 @@
 ﻿<div class="markdown-body">
       <h2>火狐firefox一键翻墙包</h2>
 <h3>更新日志：</h3>
+<li><strong>2017年7月3日</strong> 更新firefox，更新蓝灯，删除Firefly翻墙（杀毒软件误报严重）。</li>
 <li><strong>2017年6月7日</strong> 更新蓝灯，增加Firefly翻墙，请下载。</li>
 <li><strong>2017年5月19日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 
@@ -31,11 +32,11 @@
 <li>
 <b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/FirefoxFQ.7z" target="_blank">FirefoxFQ.7z</a></li>
 <li>
-<b>mega网盘下载</b>：<a href="https://mega.nz/#!akthRTKR!F61yVhI1I32Lk7gACQFt_N8xmocu5gPTnaUUJVKDSNs" target="_blank">FirefoxFQ.7z</a></li>
+<b>mega网盘下载</b>：<a href="https://mega.nz/#!OschFRjZ!PLfz22R3q2bLEiOOA21Ey3L-F1iTSTDTs2hRnlpCCWQ" target="_blank">FirefoxFQ.7z</a></li>
 <li>
 <b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFRDF2RWJEQl95eXM/view?usp=sharing" target="_blank">FirefoxFQ.7z</a><br></li>
 <li>
-<b>文件信息：</b>文件名：FirefoxFQ.7z md5: 09032aada189f27af741946eef7c45b5，文件大小：85,675,931 字节
+<b>文件信息：</b>文件名：FirefoxFQ.7z md5: c0d2d6e9f4bccbc87baa126d2c4de6f8，文件大小：83,356,761 字节
 </li>
 
 <li>
