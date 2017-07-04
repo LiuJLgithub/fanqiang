@@ -4,6 +4,7 @@
 Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fanqiang/wiki/iphone%E7%BF%BB%E5%A2%99">iPhone翻墙</a>。
 <h3>更新日志：</h3>
 <ul class="task-list">
+<li><strong>2017年7月3日</strong> 更新蓝灯，更新chrome，删除Firefly翻墙（杀毒软件误报严重）。</li>
 <li><strong>2017年6月7日</strong> 更新蓝灯，增加Firefly翻墙，请下载。</li>
 <li><strong>2017年5月19日</strong> 更新goagent，解决部分id失效问题。为了保证本翻墙包持续可用，协助新手一键翻墙，请大家<a href="https://github.com/bannedbook/fanqiang/blob/master/DonateAppid.md">捐献appid<a/></li>
 <li><strong>2017年5月12日</strong> 更新ChromeGo完整版和轻便版，升级chrome到58.0.3029.110版，解决<a href="https://github.com/bannedbook/fanqiang/issues/123">goagent在chrome 58.0.3029.110版下的证书问题</a>。</li>
@@ -31,10 +32,10 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <blockquote>
 <ul class="task-list">
 <li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-lite.7z" target="_blank">ChromeGo-lite.7z</a></li>
-<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!H41zgRDA!G2WxBoKfMAlPDw8AAHOisV8zMCODrujBNrOmVz6DSpE" target="_blank">ChromeGo-lite.7z</a>
+<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!a8kEWKKZ!6GHFZaNrWFmG67c1p2OgeSfhN4BIr0Zj4HY-TfEz9QE" target="_blank">ChromeGo-lite.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：20,310,225 字节 MD5: b635a5926641518eb96a46b75db6e432
+ <b>文件信息：</b>文件名：ChromeGo-lite.7z  ，文件大小：25,489,613 字节 MD5: 90e74a40680f5f5a3007cc8399fdc072
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -48,12 +49,12 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <ul class="task-list">
 <li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo.7z" target="_blank">ChromeGo.7z</a>
 </li>
-<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!75dCDY6K!JL5J1rBiZwMtwSyXqB3ty26YhmyII3giLpLabAxY0WI" target="_blank">ChromeGo.7z</a>
+<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!z98kQaBK!BiEML2F9q70dfDHOkXNpRwNJifNRgmdUhp0JEa1-B68" target="_blank">ChromeGo.7z</a>
 </li>
 <li><b>Google网盘下载</b>(已墙，需翻墙下载)：<a href="https://drive.google.com/file/d/0BxC6-n637FMFUFFWOWtiWmN4VU0/view?usp=sharing" target="_blank">ChromeGo.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：71,821,361 字节  MD5: e3c72b474d3079ffac6c82c931b40c52
+ <b>文件信息：</b>文件名：ChromeGo.7z ，文件大小：75,703,932 字节  MD5: 657bcefb6cb7300d90610175e8577fbe
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
@@ -66,10 +67,10 @@ Chrome一键翻墙包，全新推出: <a href="https://github.com/bannedbook/fan
 <ul class="task-list">
 <li><b>Github下载</b>：<a href="https://github.com/killgfw/fg/raw/master/fqb/ChromeGo-XP.7z" target="_blank">ChromeGo-XP.7z</a>
 </li>
-<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!O0sFVTCI!uW08pWDFQpj8fDxhVxXdqP7s2hypBIWDhwY_kdfTca4" target="_blank">ChromeGo-XP.7z</a>
+<li><b>Mega网盘下载</b>：<a href="https://mega.nz/#!C5dBkTrC!6zcHxBESYc6HJy0m12dMyKdin0ZHPmx6J-t7nB7Z6DY" target="_blank">ChromeGo-XP.7z</a>
 </li>
 <li>
- <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：63,476,958 字节  MD5：d2ac63329493263f9293fae6e0f97f45
+ <b>文件信息：</b>文件名：ChromeGo-XP.7z  ，文件大小：61,786,705 字节  MD5：47f37e2b5f88f07588b8217ea0bbbabd
 </li>
 <li>
  <a href="https://github.com/bannedbook/fanqiang/wiki" target="_blank">更多翻墙软件</a>
