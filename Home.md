@@ -122,7 +122,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 
 
 <li>
-      <strong><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或下载短网址:  <a href="https://git.io/intd">https://git.io/intd</a>
+      <strong><a href="https://github.com/bannedbook/fanqiang/raw/master/apk/iNTD_TV.apk">翻墙电视：安卓版 iNTD TV</a>或下载短网址:  <a href="https://git.io/intd">https://git.io/intd</a>  （Version: 2.1.12sp1）
 
 </li>
 
