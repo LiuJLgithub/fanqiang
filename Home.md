@@ -134,7 +134,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/91/" class="wiki-page-link" target="_blank">谷歌翻墙搜索</a></strong>
+      <strong>谷歌翻墙搜索</strong>
     </li>
   </ul>
 </div>
@@ -143,7 +143,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/1/" target="_blank">手机禁网平台</a></strong>
+      <strong>手机禁网平台</strong>
     </li>
   </ul>
 </div>
@@ -153,7 +153,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 广传真相平台2.0版采用响应式设计，自动适应手机和电脑访问，更新及时，翻墙无忧。 短网址:https://x.co/gczxpt
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/gczx.html" class="wiki-page-link" target="_blank">广传真相平台</a></strong>
+      <strong>广传真相平台</strong>
     </li>
   </ul>
 </div>
@@ -162,7 +162,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/98/" class="wiki-page-link" target="_blank">退出党、团、队</a></strong>
+      <strong>退出党、团、队</strong>
     </li>
   </ul>
 </div>
@@ -171,7 +171,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/20/" class="wiki-page-link" target="_blank">动态网</a></strong>
+      <strong>动态网</strong>
     </li>
   </ul>
 </div>
@@ -180,7 +180,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/31/" class="wiki-page-link" target="_blank">无界网</a></strong>
+      <strong>无界网</strong>
     </li>
 
   </ul>
@@ -190,7 +190,7 @@ http后一定要跟s，如果微信里直接打不开，请先点击微信右上
 <div class="boxed-group-inner wiki-auxiliary-content wiki-auxiliary-content-no-bg">
   <ul class="wiki-pages" data-filterable-for="wiki-pages-filter" data-filterable-type="substring">
     <li>
-      <strong><a href="/18/" class="wiki-page-link" target="_blank">神州正道网</a></strong>
+      <strong>神州正道网</strong>
     </li>
   </ul>
 </div>
